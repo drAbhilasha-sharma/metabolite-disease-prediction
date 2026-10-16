@@ -1,0 +1,2318 @@
+hmdb_id,super_class,chem_class
+HMDB0000001,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000002,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0000005,Organic acids and derivatives,Keto acids and derivatives
+HMDB0000008,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0000011,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0000012,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides
+HMDB0000014,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides
+HMDB0000015,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000017,Organoheterocyclic compounds,Pyridines and derivatives
+HMDB0000019,Organic acids and derivatives,Keto acids and derivatives
+HMDB0000020,Benzenoids,Phenols
+HMDB0000022,Benzenoids,Phenols
+HMDB0000023,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0000026,Organic acids and derivatives,Organic carbonic acids and derivatives
+HMDB0000027,Organoheterocyclic compounds,Pteridines and derivatives
+HMDB0000030,Organoheterocyclic compounds,Biotin and derivatives
+HMDB0000031,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000033,Organic acids and derivatives,Peptidomimetics
+HMDB0000034,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0000036,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000037,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000038,Organoheterocyclic compounds,Pteridines and derivatives
+HMDB0000039,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000042,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000043,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000044,Organoheterocyclic compounds,Dihydrofurans
+HMDB0000045,"Nucleosides, nucleotides, and analogues",Purine nucleotides
+HMDB0000050,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+HMDB0000051,Homogeneous non-metal compounds,Homogeneous other non-metal compounds
+HMDB0000052,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000053,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000054,Organoheterocyclic compounds,Tetrapyrroles and derivatives
+HMDB0000056,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000058,"Nucleosides, nucleotides, and analogues",Purine nucleotides
+HMDB0000060,Organic acids and derivatives,Keto acids and derivatives
+HMDB0000062,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0000063,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000064,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000067,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000068,Benzenoids,Phenols
+HMDB0000070,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000071,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+HMDB0000072,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000073,Benzenoids,Phenols
+HMDB0000076,Organoheterocyclic compounds,Diazines
+HMDB0000077,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000078,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000079,Organoheterocyclic compounds,Diazines
+HMDB0000085,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+HMDB0000086,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0000087,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0000089,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides
+HMDB0000092,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000094,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000095,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides
+HMDB0000097,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0000098,Organic oxygen compounds,Organooxygen compounds
+HMDB0000099,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000101,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+HMDB0000107,Organic oxygen compounds,Organooxygen compounds
+HMDB0000108,Organic oxygen compounds,Organooxygen compounds
+HMDB0000112,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000115,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0000118,Benzenoids,Phenols
+HMDB0000121,Benzenoids,Phenols
+HMDB0000122,Organic oxygen compounds,Organooxygen compounds
+HMDB0000123,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000124,Organic oxygen compounds,Organooxygen compounds
+HMDB0000125,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000126,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0000128,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000130,Benzenoids,Benzene and substituted derivatives
+HMDB0000131,Organic oxygen compounds,Organooxygen compounds
+HMDB0000132,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0000133,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+HMDB0000134,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000138,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000139,Organic oxygen compounds,Organooxygen compounds
+HMDB0000142,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000143,Organic oxygen compounds,Organooxygen compounds
+HMDB0000148,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000149,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0000150,Organic oxygen compounds,Organooxygen compounds
+HMDB0000151,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000152,Benzenoids,Benzene and substituted derivatives
+HMDB0000153,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000156,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0000157,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0000158,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000159,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000161,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000162,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000163,Organic oxygen compounds,Organooxygen compounds
+HMDB0000164,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0000167,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000168,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000169,Organic oxygen compounds,Organooxygen compounds
+HMDB0000172,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000174,Organic oxygen compounds,Organooxygen compounds
+HMDB0000175,"Nucleosides, nucleotides, and analogues",Purine nucleotides
+HMDB0000176,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000177,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000181,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000182,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000186,Organic oxygen compounds,Organooxygen compounds
+HMDB0000187,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000190,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0000191,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000192,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000193,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000194,Organic acids and derivatives,Peptidomimetics
+HMDB0000195,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+HMDB0000197,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0000201,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000202,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000205,Benzenoids,Benzene and substituted derivatives
+HMDB0000206,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000207,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000208,Organic acids and derivatives,Keto acids and derivatives
+HMDB0000209,Benzenoids,Benzene and substituted derivatives
+HMDB0000210,Organic oxygen compounds,Organooxygen compounds
+HMDB0000211,Organic oxygen compounds,Organooxygen compounds
+HMDB0000212,Organic oxygen compounds,Organooxygen compounds
+HMDB0000213,Organic oxygen compounds,Organooxygen compounds
+HMDB0000214,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000215,Organic oxygen compounds,Organooxygen compounds
+HMDB0000216,Benzenoids,Phenols
+HMDB0000218,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides
+HMDB0000220,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000222,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000224,Organic acids and derivatives,Organic phosphoric acids and derivatives
+HMDB0000226,Organoheterocyclic compounds,Diazines
+HMDB0000228,Benzenoids,Phenols
+HMDB0000230,Organic oxygen compounds,Organooxygen compounds
+HMDB0000232,Organoheterocyclic compounds,Pyridines and derivatives
+HMDB0000234,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000235,Organoheterocyclic compounds,Diazines
+HMDB0000237,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000239,Organoheterocyclic compounds,Pyridines and derivatives
+HMDB0000243,Organic acids and derivatives,Keto acids and derivatives
+HMDB0000244,Organoheterocyclic compounds,Pteridines and derivatives
+HMDB0000247,Organic oxygen compounds,Organooxygen compounds
+HMDB0000248,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000251,Organic acids and derivatives,Organic sulfonic acids and derivatives
+HMDB0000252,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0000253,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000254,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000256,Lipids and lipid-like molecules,Prenol lipids
+HMDB0000258,Organic oxygen compounds,Organooxygen compounds
+HMDB0000259,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0000262,Organoheterocyclic compounds,Diazines
+HMDB0000263,Organic acids and derivatives,Organic phosphoric acids and derivatives
+HMDB0000265,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000267,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000268,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000269,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0000271,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000272,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000273,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides
+HMDB0000277,Lipids and lipid-like molecules,Sphingolipids
+HMDB0000279,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000283,Organic oxygen compounds,Organooxygen compounds
+HMDB0000286,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides
+HMDB0000288,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides
+HMDB0000289,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0000291,Benzenoids,Phenols
+HMDB0000292,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0000294,Organic acids and derivatives,Organic carbonic acids and derivatives
+HMDB0000296,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides
+HMDB0000299,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+HMDB0000300,Organoheterocyclic compounds,Diazines
+HMDB0000301,Organoheterocyclic compounds,Azoles
+HMDB0000303,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0000305,Lipids and lipid-like molecules,Prenol lipids
+HMDB0000306,Benzenoids,Benzene and substituted derivatives
+HMDB0000317,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000321,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000325,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0000326,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000332,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000333,Benzenoids,Phenols
+HMDB0000336,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0000339,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000341,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000350,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0000352,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000354,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000355,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000359,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000363,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000365,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000369,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000374,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000375,Phenylpropanoids and polyketides,Phenylpropanoic acids
+HMDB0000378,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000379,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000381,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000387,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0000391,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000400,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000405,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000407,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000408,Organic acids and derivatives,Keto acids and derivatives
+HMDB0000413,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0000415,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000417,Lipids and lipid-like molecules,Prenol lipids
+HMDB0000418,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000422,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000423,Phenylpropanoids and polyketides,Phenylpropanoic acids
+HMDB0000426,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000439,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000440,Benzenoids,Phenols
+HMDB0000446,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000448,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000449,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000450,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000451,Organic oxygen compounds,Organooxygen compounds
+HMDB0000452,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000453,Organoheterocyclic compounds,Lactones
+HMDB0000459,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000462,Organoheterocyclic compounds,Azoles
+HMDB0000464,Homogeneous metal compounds,Homogeneous alkaline earth metal compounds
+HMDB0000466,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0000467,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000468,Organoheterocyclic compounds,Pteridines and derivatives
+HMDB0000472,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0000474,Organic oxygen compounds,Organooxygen compounds
+HMDB0000477,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000479,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000482,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000483,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000484,Benzenoids,Benzene and substituted derivatives
+HMDB0000486,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0000490,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000491,Organic acids and derivatives,Keto acids and derivatives
+HMDB0000492,Homogeneous non-metal compounds,Homogeneous halogens
+HMDB0000493,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000494,Alkaloids and derivatives,Yohimbine alkaloids
+HMDB0000495,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0000499,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000500,Benzenoids,Benzene and substituted derivatives
+HMDB0000501,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000502,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000508,Organic oxygen compounds,Organooxygen compounds
+HMDB0000510,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000511,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000512,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000517,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000518,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000520,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0000521,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000522,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000525,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000529,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000531,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000532,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000535,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000538,"Nucleosides, nucleotides, and analogues",Purine nucleotides
+HMDB0000539,Organic oxygen compounds,Organooxygen compounds
+HMDB0000546,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000547,Homogeneous metal compounds,Homogeneous alkaline earth metal compounds
+HMDB0000553,Lipids and lipid-like molecules,Prenol lipids
+HMDB0000555,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000557,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000561,Lipids and lipid-like molecules,Prenol lipids
+HMDB0000562,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000563,Phenylpropanoids and polyketides,Phenylpropanoic acids
+HMDB0000564,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0000568,Organic oxygen compounds,Organooxygen compounds
+HMDB0000569,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000572,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000573,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000574,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000577,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000582,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000586,Homogeneous metal compounds,Homogeneous alkali metal compounds
+HMDB0000588,Homogeneous metal compounds,Homogeneous alkali metal compounds
+HMDB0000593,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0000594,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000595,Organic acids and derivatives,Organic carbonic acids and derivatives
+HMDB0000599,Homogeneous metal compounds,Homogeneous transition metal compounds
+HMDB0000601,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000603,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000608,Homogeneous metal compounds,Homogeneous transition metal compounds
+HMDB0000609,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000613,Organic oxygen compounds,Organooxygen compounds
+HMDB0000618,Organic oxygen compounds,Organooxygen compounds
+HMDB0000619,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000621,Organic oxygen compounds,Organooxygen compounds
+HMDB0000622,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000623,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000625,Organic oxygen compounds,Organooxygen compounds
+HMDB0000626,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000630,Organoheterocyclic compounds,Diazines
+HMDB0000631,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000634,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000635,Organic acids and derivatives,Keto acids and derivatives
+HMDB0000637,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000638,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000639,Organic oxygen compounds,Organooxygen compounds
+HMDB0000640,Organoheterocyclic compounds,Oxepanes
+HMDB0000641,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000646,Organic oxygen compounds,Organooxygen compounds
+HMDB0000650,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000651,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000653,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000657,Homogeneous metal compounds,Homogeneous transition metal compounds
+HMDB0000660,Organic oxygen compounds,Organooxygen compounds
+HMDB0000661,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000663,Organic oxygen compounds,Organooxygen compounds
+HMDB0000665,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000666,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000669,Benzenoids,Benzene and substituted derivatives
+HMDB0000670,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000671,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0000672,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000673,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000676,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000678,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000679,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000682,Organic acids and derivatives,Organic sulfuric acids and derivatives
+HMDB0000684,Organic oxygen compounds,Organooxygen compounds
+HMDB0000686,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000687,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000688,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000689,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000691,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000692,Homogeneous metal compounds,Homogeneous transition metal compounds
+HMDB0000694,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0000695,Organic acids and derivatives,Keto acids and derivatives
+HMDB0000696,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000699,Organoheterocyclic compounds,Pyridines and derivatives
+HMDB0000700,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0000701,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000703,Benzenoids,Benzene and substituted derivatives
+HMDB0000706,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000707,Benzenoids,Benzene and substituted derivatives
+HMDB0000708,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000710,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000711,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000712,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000714,Benzenoids,Benzene and substituted derivatives
+HMDB0000715,Organoheterocyclic compounds,Quinolines and derivatives
+HMDB0000716,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000718,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000719,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000720,Organic acids and derivatives,Keto acids and derivatives
+HMDB0000721,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000722,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000725,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000729,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0000730,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000731,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000733,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000736,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000738,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0000739,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000740,Organic oxygen compounds,Organooxygen compounds
+HMDB0000742,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000746,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000748,Phenylpropanoids and polyketides,Phenylpropanoic acids
+HMDB0000750,Benzenoids,Phenols
+HMDB0000752,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000753,Organic oxygen compounds,Organooxygen compounds
+HMDB0000754,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000755,Phenylpropanoids and polyketides,Phenylpropanoic acids
+HMDB0000756,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000759,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000760,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000761,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000763,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0000764,Phenylpropanoids and polyketides,Phenylpropanoic acids
+HMDB0000765,Organic oxygen compounds,Organooxygen compounds
+HMDB0000766,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000767,"Nucleosides, nucleotides, and analogues",Nucleoside and nucleotide analogues
+HMDB0000772,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000774,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000779,Phenylpropanoids and polyketides,Phenylpropanoic acids
+HMDB0000782,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000784,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000788,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides
+HMDB0000791,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000792,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000795,Lipids and lipid-like molecules,Prenol lipids
+HMDB0000798,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000801,Lipids and lipid-like molecules,Prenol lipids
+HMDB0000802,Organoheterocyclic compounds,Pteridines and derivatives
+HMDB0000806,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000807,Organic oxygen compounds,Organooxygen compounds
+HMDB0000808,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000812,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000819,Benzenoids,Phenols
+HMDB0000820,Organic oxygen compounds,Organooxygen compounds
+HMDB0000821,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000822,Benzenoids,Phenols
+HMDB0000824,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000826,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000827,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000828,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000832,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000840,Benzenoids,Benzene and substituted derivatives
+HMDB0000845,Organoheterocyclic compounds,Pteridines and derivatives
+HMDB0000847,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000848,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000849,Organic oxygen compounds,Organooxygen compounds
+HMDB0000851,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000852,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000853,Organic oxygen compounds,Organooxygen compounds
+HMDB0000854,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000855,Organic oxygen compounds,Organooxygen compounds
+HMDB0000857,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000858,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000860,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000863,Organic oxygen compounds,Organooxygen compounds
+HMDB0000866,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000870,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0000872,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000873,Benzenoids,Phenols
+HMDB0000874,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000875,Alkaloids and derivatives,
+HMDB0000878,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000879,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000881,Organoheterocyclic compounds,Quinolines and derivatives
+HMDB0000883,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000884,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides
+HMDB0000888,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000892,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000893,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000895,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0000896,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000897,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0000898,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0000904,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000906,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0000908,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000910,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000912,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+HMDB0000917,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000921,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000925,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0000926,Organoheterocyclic compounds,Pyridines and derivatives
+HMDB0000927,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000929,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0000933,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000937,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000939,Organoheterocyclic compounds,Lactones
+HMDB0000943,Organic oxygen compounds,Organooxygen compounds
+HMDB0000944,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000946,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000947,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0000951,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0000953,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000954,Phenylpropanoids and polyketides,Cinnamic acids and derivatives
+HMDB0000956,Organic oxygen compounds,Organooxygen compounds
+HMDB0000957,Benzenoids,Phenols
+HMDB0000958,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000959,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0000982,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides
+HMDB0000990,Organic oxygen compounds,Organooxygen compounds
+HMDB0000991,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001008,Organoheterocyclic compounds,Tetrapyrroles and derivatives
+HMDB0001015,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001032,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0001035,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001036,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001043,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0001045,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001049,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001051,Organic oxygen compounds,Organooxygen compounds
+HMDB0001065,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0001067,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001068,Organic oxygen compounds,Organooxygen compounds
+HMDB0001078,Organic oxygen compounds,Organooxygen compounds
+HMDB0001085,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0001104,Organic oxygen compounds,Organooxygen compounds
+HMDB0001123,Benzenoids,Benzene and substituted derivatives
+HMDB0001129,Organic oxygen compounds,Organooxygen compounds
+HMDB0001138,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001140,Organic oxygen compounds,Organooxygen compounds
+HMDB0001149,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001160,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0001161,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0001167,Organic oxygen compounds,Organooxygen compounds
+HMDB0001170,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0001173,"Nucleosides, nucleotides, and analogues",5'-deoxyribonucleosides
+HMDB0001183,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0001184,Organic oxygen compounds,Organooxygen compounds
+HMDB0001185,"Nucleosides, nucleotides, and analogues",5'-deoxyribonucleosides
+HMDB0001186,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001189,Organoheterocyclic compounds,Tetrahydroisoquinolines
+HMDB0001191,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides
+HMDB0001198,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001201,"Nucleosides, nucleotides, and analogues",Purine nucleotides
+HMDB0001202,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides
+HMDB0001220,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0001227,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides
+HMDB0001238,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0001247,Homogeneous metal compounds,Homogeneous post-transition metal compounds
+HMDB0001248,"Nucleosides, nucleotides, and analogues",Flavin nucleotides
+HMDB0001251,Lipids and lipid-like molecules,Prenol lipids
+HMDB0001256,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0001257,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0001266,Organic oxygen compounds,Organooxygen compounds
+HMDB0001270,Organic acids and derivatives,Organic phosphoric acids and derivatives
+HMDB0001273,"Nucleosides, nucleotides, and analogues",Purine nucleotides
+HMDB0001276,Organic acids and derivatives,Carboximidic acids and derivatives
+HMDB0001302,Homogeneous metal compounds,Homogeneous transition metal compounds
+HMDB0001304,Lipids and lipid-like molecules,Prenol lipids
+HMDB0001310,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001311,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0001316,Organic oxygen compounds,Organooxygen compounds
+HMDB0001319,Organoheterocyclic compounds,Pyridines and derivatives
+HMDB0001325,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001333,Homogeneous metal compounds,Homogeneous transition metal compounds
+HMDB0001336,Benzenoids,Phenols
+HMDB0001341,"Nucleosides, nucleotides, and analogues",Purine nucleotides
+HMDB0001348,Lipids and lipid-like molecules,Sphingolipids
+HMDB0001352,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0001369,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001370,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001372,Organoheterocyclic compounds,Diazines
+HMDB0001388,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0001389,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0001392,Benzenoids,Benzene and substituted derivatives
+HMDB0001401,Organic oxygen compounds,Organooxygen compounds
+HMDB0001403,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0001406,Organoheterocyclic compounds,Pyridines and derivatives
+HMDB0001414,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0001419,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0001425,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0001429,Homogeneous non-metal compounds,Non-metal oxoanionic compounds
+HMDB0001432,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0001448,Homogeneous non-metal compounds,Non-metal oxoanionic compounds
+HMDB0001449,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0001452,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0001453,Organosulfur compounds,Thiocyanates
+HMDB0001455,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0001471,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0001473,Organic oxygen compounds,Organooxygen compounds
+HMDB0001475,Homogeneous metal compounds,Homogeneous transition metal compounds
+HMDB0001485,Hydrocarbons,Saturated hydrocarbons
+HMDB0001488,Organoheterocyclic compounds,Pyridines and derivatives
+HMDB0001490,Benzenoids,Phenols
+HMDB0001491,Organoheterocyclic compounds,Pyridines and derivatives
+HMDB0001492,Lipids and lipid-like molecules,Prenol lipids
+HMDB0001496,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0001505,Benzenoids,Benzene and substituted derivatives
+HMDB0001511,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001514,Organic oxygen compounds,Organooxygen compounds
+HMDB0001520,"Nucleosides, nucleotides, and analogues",Flavin nucleotides
+HMDB0001522,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0001527,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0001539,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001545,Organoheterocyclic compounds,Pyridines and derivatives
+HMDB0001548,Organic oxygen compounds,Organooxygen compounds
+HMDB0001563,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+HMDB0001565,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0001586,Organic oxygen compounds,Organooxygen compounds
+HMDB0001644,Organic oxygen compounds,Organooxygen compounds
+HMDB0001645,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001659,Organic oxygen compounds,Organooxygen compounds
+HMDB0001713,Phenylpropanoids and polyketides,Cinnamic acids and derivatives
+HMDB0001830,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0001842,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0001844,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0001847,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0001851,Organic oxygen compounds,Organooxygen compounds
+HMDB0001855,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0001856,Benzenoids,Benzene and substituted derivatives
+HMDB0001857,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0001858,Benzenoids,Phenols
+HMDB0001859,Benzenoids,Phenols
+HMDB0001860,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0001867,Benzenoids,Benzene and substituted derivatives
+HMDB0001870,Benzenoids,Benzene and substituted derivatives
+HMDB0001871,Phenylpropanoids and polyketides,Flavonoids
+HMDB0001873,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001875,Organic oxygen compounds,Organooxygen compounds
+HMDB0001878,Lipids and lipid-like molecules,Prenol lipids
+HMDB0001881,Organic oxygen compounds,Organooxygen compounds
+HMDB0001882,Organic oxygen compounds,Organooxygen compounds
+HMDB0001885,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001886,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0001889,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0001893,Lipids and lipid-like molecules,Prenol lipids
+HMDB0001895,Benzenoids,Benzene and substituted derivatives
+HMDB0001896,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0001897,Lipids and lipid-like molecules,Prenol lipids
+HMDB0001904,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001906,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0001917,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0001921,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0001923,Benzenoids,Naphthalenes
+HMDB0001925,Phenylpropanoids and polyketides,Phenylpropanoic acids
+HMDB0001926,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0001928,Organoheterocyclic compounds,Thiadiazines
+HMDB0001929,Organoheterocyclic compounds,Quinolines and derivatives
+HMDB0001931,Organoheterocyclic compounds,Benzopyrans
+HMDB0001932,Benzenoids,Phenols
+HMDB0001933,Benzenoids,Benzene and substituted derivatives
+HMDB0001943,Benzenoids,Benzene and substituted derivatives
+HMDB0001954,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0001960,Mixed metal/non-metal compounds,Miscellaneous mixed metal/non-metals
+HMDB0001964,Phenylpropanoids and polyketides,Cinnamic acids and derivatives
+HMDB0001976,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0001982,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0001987,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0001988,Organic oxygen compounds,Organooxygen compounds
+HMDB0001989,Homogeneous metal compounds,Homogeneous transition metal compounds
+HMDB0001991,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0001993,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0001999,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002000,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002003,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002004,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0002005,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0002012,Lipids and lipid-like molecules,Prenol lipids
+HMDB0002013,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002014,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002017,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0002019,Lipids and lipid-like molecules,Prenol lipids
+HMDB0002030,Organic oxygen compounds,Organooxygen compounds
+HMDB0002032,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0002035,Phenylpropanoids and polyketides,Cinnamic acids and derivatives
+HMDB0002044,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+HMDB0002048,Benzenoids,Phenols
+HMDB0002055,Benzenoids,Phenols
+HMDB0002061,Organic oxygen compounds,Organooxygen compounds
+HMDB0002064,Organic acids and derivatives,Carboximidic acids and derivatives
+HMDB0002068,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002085,Benzenoids,Benzene and substituted derivatives
+HMDB0002088,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0002095,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002096,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0002100,Organic acids and derivatives,Carboximidic acids and derivatives
+HMDB0002103,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0002107,Benzenoids,Benzene and substituted derivatives
+HMDB0002117,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002123,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0002124,Phenylpropanoids and polyketides,Flavonoids
+HMDB0002163,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0002172,Organic acids and derivatives,Carboximidic acids and derivatives
+HMDB0002174,Organoheterocyclic compounds,Tetrapyrroles and derivatives
+HMDB0002175,Homogeneous metal compounds,Homogeneous metalloid compounds
+HMDB0002176,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002179,Homogeneous non-metal compounds,Non-metal oxoanionic compounds
+HMDB0002183,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002189,Organic acids and derivatives,Carboximidic acids and derivatives
+HMDB0002196,Homogeneous metal compounds,Homogeneous post-transition metal compounds
+HMDB0002199,Phenylpropanoids and polyketides,Phenylpropanoic acids
+HMDB0002203,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0002212,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002231,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002250,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002259,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002261,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002264,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002269,Phenylpropanoids and polyketides,Diarylheptanoids
+HMDB0002271,Organoheterocyclic compounds,Azoles
+HMDB0002284,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0002302,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0002303,Organosulfur compounds,Thioethers
+HMDB0002320,Organoheterocyclic compounds,Azoles
+HMDB0002322,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0002327,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002329,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0002350,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002356,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002364,Lipids and lipid-like molecules,Prenol lipids
+HMDB0002366,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002368,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002372,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0002387,Homogeneous metal compounds,Homogeneous alkaline earth metal compounds
+HMDB0002395,Lipids and lipid-like molecules,Prenol lipids
+HMDB0002432,Organoheterocyclic compounds,Furans
+HMDB0002434,Benzenoids,Phenols
+HMDB0002453,Organic oxygen compounds,Organooxygen compounds
+HMDB0002457,Homogeneous metal compounds,Homogeneous transition metal compounds
+HMDB0002466,Benzenoids,Benzene and substituted derivatives
+HMDB0002497,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0002503,Homogeneous metal compounds,Homogeneous transition metal compounds
+HMDB0002520,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0002545,Organic oxygen compounds,Organooxygen compounds
+HMDB0002580,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0002639,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0002643,Phenylpropanoids and polyketides,Phenylpropanoic acids
+HMDB0002649,Organic oxygen compounds,Organooxygen compounds
+HMDB0002658,Organoheterocyclic compounds,Pyridines and derivatives
+HMDB0002666,Organoheterocyclic compounds,Diazines
+HMDB0002670,Phenylpropanoids and polyketides,Flavonoids
+HMDB0002712,Organic oxygen compounds,Organooxygen compounds
+HMDB0002714,Hydrocarbons,Saturated hydrocarbons
+HMDB0002719,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0002721,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+HMDB0002728,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0002759,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0002776,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002780,Phenylpropanoids and polyketides,Flavonoids
+HMDB0002789,Lipids and lipid-like molecules,Prenol lipids
+HMDB0002802,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0002815,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0002820,Organoheterocyclic compounds,Azoles
+HMDB0002823,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002825,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0002869,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0002878,Homogeneous non-metal compounds,Non-metal oxoanionic compounds
+HMDB0002886,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002902,Lipids and lipid-like molecules,Prenol lipids
+HMDB0002917,Organic oxygen compounds,Organooxygen compounds
+HMDB0002923,Organic oxygen compounds,Organooxygen compounds
+HMDB0002925,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0002939,Organic oxygen compounds,Organooxygen compounds
+HMDB0002961,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0002985,Organic oxygen compounds,Organooxygen compounds
+HMDB0002994,Organic oxygen compounds,Organooxygen compounds
+HMDB0003000,Lipids and lipid-like molecules,Prenol lipids
+HMDB0003069,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0003070,Organic oxygen compounds,Organooxygen compounds
+HMDB0003072,Organic oxygen compounds,Organooxygen compounds
+HMDB0003073,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0003099,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0003119,Benzenoids,Benzene and substituted derivatives
+HMDB0003148,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003152,Organoheterocyclic compounds,Pyridines and derivatives
+HMDB0003156,Organic oxygen compounds,Organooxygen compounds
+HMDB0003157,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003178,,
+HMDB0003213,Organic oxygen compounds,Organooxygen compounds
+HMDB0003217,Phenylpropanoids and polyketides,Isoflavonoids
+HMDB0003224,Organic oxygen compounds,Organooxygen compounds
+HMDB0003227,Organosulfur compounds,Thiols
+HMDB0003229,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0003231,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0003233,Lipids and lipid-like molecules,Prenol lipids
+HMDB0003236,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0003243,Organic oxygen compounds,Organooxygen compounds
+HMDB0003252,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0003269,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003312,Phenylpropanoids and polyketides,Isoflavonoids
+HMDB0003315,Organic oxygen compounds,Organooxygen compounds
+HMDB0003320,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0003331,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+HMDB0003333,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+HMDB0003334,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003337,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003339,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003345,Organic oxygen compounds,Organooxygen compounds
+HMDB0003352,Lipids and lipid-like molecules,Prenol lipids
+HMDB0003355,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003357,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003363,Organic oxygen compounds,Organooxygen compounds
+HMDB0003366,Organic oxygen compounds,Organooxygen compounds
+HMDB0003371,Organic oxygen compounds,Organooxygen compounds
+HMDB0003374,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003375,Lipids and lipid-like molecules,Prenol lipids
+HMDB0003378,Homogeneous non-metal compounds,Other non-metal organides
+HMDB0003391,Organic oxygen compounds,Organooxygen compounds
+HMDB0003406,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003407,Organic oxygen compounds,Organooxygen compounds
+HMDB0003411,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003424,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0003431,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0003459,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003464,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003466,Organoheterocyclic compounds,Lactones
+HMDB0003543,Organic oxygen compounds,Organooxygen compounds
+HMDB0003550,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0003584,Organic acids and derivatives,Organic sulfonic acids and derivatives
+HMDB0003625,Homogeneous metal compounds,Homogeneous transition metal compounds
+HMDB0003626,Organoheterocyclic compounds,Tetrahydroisoquinolines
+HMDB0003638,Homogeneous metal compounds,Homogeneous transition metal compounds
+HMDB0003642,Homogeneous metal compounds,Homogeneous alkaline earth metal compounds
+HMDB0003646,Organoheterocyclic compounds,Azolines
+HMDB0003671,Organic oxygen compounds,Organooxygen compounds
+HMDB0003681,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003701,Organoheterocyclic compounds,Benzimidazoles
+HMDB0003759,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0003818,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0003869,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003876,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0003892,Organoheterocyclic compounds,Tetrahydroisoquinolines
+HMDB0003911,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003933,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003966,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0003990,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0003993,Lipids and lipid-like molecules,Prenol lipids
+HMDB0004025,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0004030,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0004041,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0004043,Lipids and lipid-like molecules,Prenol lipids
+HMDB0004044,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+HMDB0004068,Benzenoids,Anthracenes
+HMDB0004080,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0004087,Organoheterocyclic compounds,Isoquinolines and derivatives
+HMDB0004118,Homogeneous metal compounds,Homogeneous metalloid compounds
+HMDB0004136,Organic oxygen compounds,Organooxygen compounds
+HMDB0004142,Homogeneous metal compounds,Homogeneous alkaline earth metal compounds
+HMDB0004157,Organoheterocyclic compounds,Tetrapyrroles and derivatives
+HMDB0004158,Organoheterocyclic compounds,Tetrapyrroles and derivatives
+HMDB0004160,Organoheterocyclic compounds,Tetrapyrroles and derivatives
+HMDB0004193,Organoheterocyclic compounds,Pyridines and derivatives
+HMDB0004194,Organoheterocyclic compounds,Pyridines and derivatives
+HMDB0004207,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0004225,Organic acids and derivatives,Keto acids and derivatives
+HMDB0004231,Organic oxygen compounds,Organooxygen compounds
+HMDB0004246,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0004259,Organic oxygen compounds,Organooxygen compounds
+HMDB0004284,Benzenoids,Phenols
+HMDB0004327,Organic oxygen compounds,Organooxygen compounds
+HMDB0004362,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0004363,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0004370,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0004400,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0004472,Organoheterocyclic compounds,Oxanes
+HMDB0004586,Lipids and lipid-like molecules,Prenol lipids
+HMDB0004610,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0004620,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0004628,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0004645,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0004666,Lipids and lipid-like molecules,Endocannabinoids
+HMDB0004667,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0004670,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0004813,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides
+HMDB0004814,Organic oxygen compounds,Organooxygen compounds
+HMDB0004824,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+HMDB0004825,Benzenoids,Phenols
+HMDB0004826,Benzenoids,Phenols
+HMDB0004827,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0004844,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004866,,
+HMDB0004877,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004880,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004882,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004884,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004886,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004947,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004948,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004949,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004950,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004951,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004952,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004953,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004955,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004956,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004957,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004958,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004969,Lipids and lipid-like molecules,Sphingolipids
+HMDB0004982,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0004983,Organosulfur compounds,Sulfonyls
+HMDB0004989,Benzenoids,Benzene and substituted derivatives
+HMDB0005006,Organoheterocyclic compounds,Pyrroles
+HMDB0005015,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0005047,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0005060,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0005065,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0005066,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0005199,Organoheterocyclic compounds,Tetrahydroisoquinolines
+HMDB0005781,Phenylpropanoids and polyketides,Isoflavonoids
+HMDB0005782,Phenylpropanoids and polyketides,Flavonoids
+HMDB0005794,Phenylpropanoids and polyketides,Flavonoids
+HMDB0005800,Phenylpropanoids and polyketides,Flavonoids
+HMDB0005801,Phenylpropanoids and polyketides,Flavonoids
+HMDB0005806,Hydrocarbons,Unsaturated hydrocarbons
+HMDB0005807,Benzenoids,Benzene and substituted derivatives
+HMDB0005810,Phenylpropanoids and polyketides,Flavonoids
+HMDB0005812,Lipids and lipid-like molecules,Prenol lipids
+HMDB0005821,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0005831,Organic oxygen compounds,Organooxygen compounds
+HMDB0005841,Organic oxygen compounds,Organooxygen compounds
+HMDB0005842,Organic oxygen compounds,Organooxygen compounds
+HMDB0005843,Organosulfur compounds,Isothiocyanates
+HMDB0005879,Organosulfur compounds,Organic disulfides
+HMDB0005923,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides
+HMDB0005949,Homogeneous metal compounds,Homogeneous alkali metal compounds
+HMDB0005960,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0005972,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0005994,Organic oxygen compounds,Organooxygen compounds
+HMDB0005998,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0006006,Organic oxygen compounds,Organooxygen compounds
+HMDB0006007,Organic oxygen compounds,Organooxygen compounds
+HMDB0006029,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0006070,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0006088,Organic oxygen compounds,Organooxygen compounds
+HMDB0006101,"Lignans, neolignans and related compounds",Furanoid lignans
+HMDB0006111,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0006112,Organic oxygen compounds,Organooxygen compounds
+HMDB0006115,Benzenoids,Benzene and substituted derivatives
+HMDB0006116,Benzenoids,Benzene and substituted derivatives
+HMDB0006119,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0006225,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0006236,Benzenoids,Benzene and substituted derivatives
+HMDB0006270,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0006284,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0006317,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0006335,Lipids and lipid-like molecules,Prenol lipids
+HMDB0006344,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0006461,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0006464,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0006469,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0006478,Organic oxygen compounds,Organooxygen compounds
+HMDB0006483,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0006509,,
+HMDB0006525,Lipids and lipid-like molecules,Prenol lipids
+HMDB0006528,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0006547,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0006695,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0006756,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0006809,Organic oxygen compounds,Organooxygen compounds
+HMDB0006899,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0006961,Organic oxygen compounds,Organooxygen compounds
+HMDB0007079,Lipids and lipid-like molecules,Glycerolipids
+HMDB0007099,Lipids and lipid-like molecules,Glycerolipids
+HMDB0007103,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0007175,Lipids and lipid-like molecules,Glycerolipids
+HMDB0007856,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007867,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007869,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007871,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007872,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007873,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007874,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007875,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007876,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007879,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007880,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007881,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007882,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007883,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007884,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007886,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007887,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007888,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007889,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007890,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007891,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007892,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007893,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007894,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007895,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007896,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007897,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007898,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007899,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007903,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007904,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007905,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007906,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007907,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007911,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007912,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007913,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007914,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007915,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007919,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007920,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007921,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007922,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007923,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007924,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007929,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007930,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007931,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007934,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007965,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007969,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007971,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007972,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007973,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007974,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007975,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007976,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007977,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007978,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007979,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007980,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007981,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007982,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007983,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007984,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007985,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007988,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007989,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007990,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007991,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007994,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007996,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007997,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0007999,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008001,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008002,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008003,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008004,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008005,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008006,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008007,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008008,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008010,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008011,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008012,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008013,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008014,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008015,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008016,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008017,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008020,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008021,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008022,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008024,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008026,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008027,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008028,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008029,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008030,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008031,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008032,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008035,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008036,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008037,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008038,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008039,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008040,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008041,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008042,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008043,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008046,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008047,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008048,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008049,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008050,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008053,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008054,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008055,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008056,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008057,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008058,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008059,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008061,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008062,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008063,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008064,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008065,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008067,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008068,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008069,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008070,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008071,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008072,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008073,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008074,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008075,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008078,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008079,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008080,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008081,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008082,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008083,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008085,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008086,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008087,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008088,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008089,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008091,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008092,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008093,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008094,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008095,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008096,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008097,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008098,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008100,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008101,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008102,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008103,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008105,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008106,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008107,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008108,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008111,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008112,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008113,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008114,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008115,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008116,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008118,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008119,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008120,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008121,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008122,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008124,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008125,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008126,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008127,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008128,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008129,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008130,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008131,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008133,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008134,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008135,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008136,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008137,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008138,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008139,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008140,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008141,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008142,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008144,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008145,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008146,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008147,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008148,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008150,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008151,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008152,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008153,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008157,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008159,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008160,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008161,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008162,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008163,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008166,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008167,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008168,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008169,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008170,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008171,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008172,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008173,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008175,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008176,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008177,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008178,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008179,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008183,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008184,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008185,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008191,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008192,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008193,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008194,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008195,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008196,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008199,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008200,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008201,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008202,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008203,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008204,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008205,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008206,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008208,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008209,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008210,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008211,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008212,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008216,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008217,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008218,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008224,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008225,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008226,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008227,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008228,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008232,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008234,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008235,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008236,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008237,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008241,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008242,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008243,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008249,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008250,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008251,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008256,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008257,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008258,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008259,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008260,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008261,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008263,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008265,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008266,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008267,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008271,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008272,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008273,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008276,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008277,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008278,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008279,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008280,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008281,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008282,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008283,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008284,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008285,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008286,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008287,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008288,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008291,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008292,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008295,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008296,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008298,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008299,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008303,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008304,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008305,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008306,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008308,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008309,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008310,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008311,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008312,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008313,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008314,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008315,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008316,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008318,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008324,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008328,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008329,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008331,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008332,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008334,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008335,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008336,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008337,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008338,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008339,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008340,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008341,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008342,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008343,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008344,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008345,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008346,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008348,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008350,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008357,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008359,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008360,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008361,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008362,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008364,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008365,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008366,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008367,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008368,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008369,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008370,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008371,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008373,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008374,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008375,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008376,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008377,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008382,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008383,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008390,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008391,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008392,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008393,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008394,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008395,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008397,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008398,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008399,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008400,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008401,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008402,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008403,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008404,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008406,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008407,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008408,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008409,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008414,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008415,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008422,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008423,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008424,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008425,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008426,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008429,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008430,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008431,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008432,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008433,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008434,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008438,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008439,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008440,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008446,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008447,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008455,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008456,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008457,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008458,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008459,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008462,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008463,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008464,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008465,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008466,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008467,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008471,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008472,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008473,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008479,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008480,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008488,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008489,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008490,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008491,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008495,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008496,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008497,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008498,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008499,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008504,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008505,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008512,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008521,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008522,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008523,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008524,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008525,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008526,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008528,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008533,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008534,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008535,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008536,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008537,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008538,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008539,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008542,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008543,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008544,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008554,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008558,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008559,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008564,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008565,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008566,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008567,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008568,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008569,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008570,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008572,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008573,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008574,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008575,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008588,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008589,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008590,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008591,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008594,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008595,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008596,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008597,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008598,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008599,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008600,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008601,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008602,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008604,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008605,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008606,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008620,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008621,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008622,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008623,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008624,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008626,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008627,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008628,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008629,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008630,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008631,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008635,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008636,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008652,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008653,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008654,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008655,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008656,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008657,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008659,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008660,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008661,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008662,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008663,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008668,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008685,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008686,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008687,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008688,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008689,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008690,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008692,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008693,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008694,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008695,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008696,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008701,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008718,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008719,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008720,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008721,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008722,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008725,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008727,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008751,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008752,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008755,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008760,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008761,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008762,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008763,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008766,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008785,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008786,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008787,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008792,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008793,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008794,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008795,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008797,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008798,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008799,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008818,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008819,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008820,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008923,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008937,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0008938,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0009901,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0010168,Lipids and lipid-like molecules,Sphingolipids
+HMDB0010169,Lipids and lipid-like molecules,Sphingolipids
+HMDB0010199,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0010319,Organic oxygen compounds,Organooxygen compounds
+HMDB0010325,Organic oxygen compounds,Organooxygen compounds
+HMDB0010340,Lipids and lipid-like molecules,Prenol lipids
+HMDB0010345,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0010375,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0010378,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0010379,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0010382,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0010383,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0010384,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0010385,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0010386,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0010395,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0010396,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0010408,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0010576,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0010730,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0010738,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0011103,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0011107,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0011130,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011131,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011134,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0011144,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011151,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011152,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011154,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011170,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0011171,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0011174,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0011178,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0011179,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0011201,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011202,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011203,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011206,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011207,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011209,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011210,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011211,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011212,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011213,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011214,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011215,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011216,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011217,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011218,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011219,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011221,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011223,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011226,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011227,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011229,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011232,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011234,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011235,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011236,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011237,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011240,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011241,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011242,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011243,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011244,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011245,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011246,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011247,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011248,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011251,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011252,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011253,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011254,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011255,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011258,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011259,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011260,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011261,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011262,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011263,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011264,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011267,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011268,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011269,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011270,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011272,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011273,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011274,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011275,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011276,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011277,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011278,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011279,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011280,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011283,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011284,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011285,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011286,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011287,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011288,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011290,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011291,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011292,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011293,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011294,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011296,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011297,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011298,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011299,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011300,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011301,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011302,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011303,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011305,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011306,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011307,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011308,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011309,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011310,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011311,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011312,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011313,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011316,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011317,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011318,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011319,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011320,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011321,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011323,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011324,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011325,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011326,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011327,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011329,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011330,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011331,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011332,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011333,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011334,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011352,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011353,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011469,Organic oxygen compounds,Organooxygen compounds
+HMDB0011478,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011483,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011500,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011502,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011503,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011506,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011507,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011511,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011513,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011526,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0011530,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011531,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011532,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011533,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011534,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011535,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011536,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011537,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011538,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0011539,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0011540,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0011541,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0011542,Lipids and lipid-like molecules,Endocannabinoids
+HMDB0011543,Lipids and lipid-like molecules,Endocannabinoids
+HMDB0011544,Lipids and lipid-like molecules,Endocannabinoids
+HMDB0011546,Lipids and lipid-like molecules,Endocannabinoids
+HMDB0011547,Lipids and lipid-like molecules,Endocannabinoids
+HMDB0011549,Lipids and lipid-like molecules,Endocannabinoids
+HMDB0011550,Lipids and lipid-like molecules,Endocannabinoids
+HMDB0011551,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011552,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011553,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011554,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011555,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011556,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011557,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011558,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011559,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011561,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011562,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011563,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011564,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011565,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011566,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011567,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011568,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0011569,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0011570,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0011571,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0011572,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011573,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011574,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011576,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011577,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011578,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011579,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011580,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011581,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011582,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011583,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011584,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011585,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011586,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011587,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011588,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011589,Lipids and lipid-like molecules,Glycerolipids
+HMDB0011600,Organoheterocyclic compounds,Imidazopyrimidines
+HMDB0011616,Organic oxygen compounds,Organooxygen compounds
+HMDB0011623,Organic oxygen compounds,Organooxygen compounds
+HMDB0011632,Organic oxygen compounds,Organooxygen compounds
+HMDB0011635,Organic acids and derivatives,Organic sulfuric acids and derivatives
+HMDB0011638,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0011697,Lipids and lipid-like molecules,Sphingolipids
+HMDB0011698,Lipids and lipid-like molecules,Sphingolipids
+HMDB0011717,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0011718,Organic oxygen compounds,Organooxygen compounds
+HMDB0011720,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides
+HMDB0011724,Benzenoids,Benzene and substituted derivatives
+HMDB0011729,Organic oxygen compounds,Organooxygen compounds
+HMDB0011730,Organic oxygen compounds,Organooxygen compounds
+HMDB0011731,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0011733,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0011737,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0011738,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0011740,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0011742,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0011743,Phenylpropanoids and polyketides,Phenylpropanoic acids
+HMDB0011745,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0011747,Organic acids and derivatives,Organic phosphonic acids and derivatives
+HMDB0011749,Organoheterocyclic compounds,Piperidines
+HMDB0011754,Phenylpropanoids and polyketides,Phenylpropanoic acids
+HMDB0011756,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0011757,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0012085,Lipids and lipid-like molecules,Sphingolipids
+HMDB0012101,Lipids and lipid-like molecules,Sphingolipids
+HMDB0012107,Lipids and lipid-like molecules,Sphingolipids
+HMDB0012108,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0012141,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0012154,Organic acids and derivatives,Keto acids and derivatives
+HMDB0012157,Organic oxygen compounds,Organooxygen compounds
+HMDB0012162,Benzenoids,Phenols
+HMDB0012166,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0012173,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0012273,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0012275,Benzenoids,Benzene and substituted derivatives
+HMDB0012308,Benzenoids,Phenols
+HMDB0012325,Organic oxygen compounds,Organooxygen compounds
+HMDB0012454,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0012504,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0012798,Organoheterocyclic compounds,Benzopyrans
+HMDB0012935,Organic Polymers,Polypeptides
+HMDB0012971,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013036,Organic oxygen compounds,Organooxygen compounds
+HMDB0013072,Organic Polymers,Polypeptides
+HMDB0013078,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0013125,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013127,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013128,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013132,,
+HMDB0013161,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013205,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013207,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013209,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0013222,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0013227,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013231,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0013240,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0013243,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0013248,Benzenoids,Benzene and substituted derivatives
+HMDB0013288,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013302,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0013311,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013312,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013316,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013324,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013326,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013328,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013330,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013331,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013341,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013402,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013404,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013405,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013406,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013407,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013408,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013409,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013410,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013411,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013412,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013413,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013414,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013415,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013416,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013417,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013418,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013419,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013420,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013422,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013424,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013425,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013426,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013427,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013428,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013429,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013431,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013432,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013433,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013434,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013435,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013436,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013437,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013438,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013439,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013440,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013442,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013444,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013445,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013446,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013447,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013448,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013449,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013450,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013451,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013452,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013453,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013454,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013455,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013456,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013457,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013458,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013459,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013460,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0013461,Lipids and lipid-like molecules,Sphingolipids
+HMDB0013462,Lipids and lipid-like molecules,Sphingolipids
+HMDB0013463,Lipids and lipid-like molecules,Sphingolipids
+HMDB0013464,Lipids and lipid-like molecules,Sphingolipids
+HMDB0013465,Lipids and lipid-like molecules,Sphingolipids
+HMDB0013466,Lipids and lipid-like molecules,Sphingolipids
+HMDB0013467,Lipids and lipid-like molecules,Sphingolipids
+HMDB0013468,Lipids and lipid-like molecules,Sphingolipids
+HMDB0013469,Lipids and lipid-like molecules,Sphingolipids
+HMDB0013609,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0013627,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013631,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0013639,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0013678,Benzenoids,Benzene and substituted derivatives
+HMDB0013695,Phenylpropanoids and polyketides,Coumarins and derivatives
+HMDB0013713,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0013716,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0013724,Mixed metal/non-metal compounds,Post-transition metal salts
+HMDB0013749,Organoheterocyclic compounds,Heteroaromatic compounds
+HMDB0013780,Organosulfur compounds,Organic trisulfides
+HMDB0013785,Organoheterocyclic compounds,Heteroaromatic compounds
+HMDB0013809,Organic oxygen compounds,Organooxygen compounds
+HMDB0013811,"Organic 1,3-dipolar compounds","Allyl-type 1,3-dipolar organic compounds"
+HMDB0013816,Benzenoids,Benzene and substituted derivatives
+HMDB0013817,Lipids and lipid-like molecules,Prenol lipids
+HMDB0013824,Organoheterocyclic compounds,Heteroaromatic compounds
+HMDB0013825,Benzenoids,Benzene and substituted derivatives
+HMDB0014389,Benzenoids,Benzene and substituted derivatives
+HMDB0014426,Benzenoids,Benzene and substituted derivatives
+HMDB0014447,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0014487,Organoheterocyclic compounds,Benzothiazepines
+HMDB0014839,Benzenoids,Benzene and substituted derivatives
+HMDB0015044,Alkaloids and derivatives,Cinchona alkaloids
+HMDB0015166,Benzenoids,Benzene and substituted derivatives
+HMDB0015217,Alkaloids and derivatives,
+HMDB0015532,Homogeneous metal compounds,Homogeneous transition metal compounds
+HMDB0028680,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028686,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028689,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028690,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028691,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028694,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028695,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028697,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028699,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028700,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028712,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028713,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028715,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028716,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028717,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028721,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028722,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028732,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028734,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028735,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028744,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028757,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028764,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028795,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028800,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028805,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028822,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028823,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028830,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028831,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028832,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028843,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028844,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028847,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028848,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028850,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028851,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028852,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028853,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028854,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028878,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028885,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028888,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028889,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028892,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028893,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028896,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028898,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028900,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028901,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028902,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028903,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028906,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028907,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028910,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028911,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028913,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028914,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028916,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028917,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028918,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028919,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028920,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028922,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028923,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028924,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028928,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028929,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028932,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028933,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028935,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028938,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028939,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028940,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028941,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028942,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028954,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028955,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028958,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028959,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028963,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028964,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028966,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028980,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028983,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028986,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028988,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028991,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028994,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028995,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0028998,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029001,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029004,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029006,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029007,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029008,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029010,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029026,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029028,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029042,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029043,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029046,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029047,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029052,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029064,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029065,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029068,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029074,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029076,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029082,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029083,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029086,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029087,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029090,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029091,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029094,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029095,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029096,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029098,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029103,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029104,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029106,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029108,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029109,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029112,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029117,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029118,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029120,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029121,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029123,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029125,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029126,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029127,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029129,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029130,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029131,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029132,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029133,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029134,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029136,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029137,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029138,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029139,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029140,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029147,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029164,Phenylpropanoids and polyketides,Flavonoids
+HMDB0029165,Organic oxygen compounds,Organooxygen compounds
+HMDB0029167,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0029176,Phenylpropanoids and polyketides,Flavonoids
+HMDB0029177,Phenylpropanoids and polyketides,Flavonoids
+HMDB0029182,Phenylpropanoids and polyketides,Flavonoids
+HMDB0029184,Phenylpropanoids and polyketides,Flavonoids
+HMDB0029190,Benzenoids,Phenol ethers
+HMDB0029223,Phenylpropanoids and polyketides,Phenylpropanoic acids
+HMDB0029224,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029226,Benzenoids,Phenols
+HMDB0029234,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0029377,Alkaloids and derivatives,
+HMDB0029595,Hydrocarbons,Saturated hydrocarbons
+HMDB0029596,Organohalogen compounds,Alkyl halides
+HMDB0029597,Hydrocarbons,Saturated hydrocarbons
+HMDB0029600,Hydrocarbons,Saturated hydrocarbons
+HMDB0029603,Hydrocarbons,Saturated hydrocarbons
+HMDB0029638,Benzenoids,Benzene and substituted derivatives
+HMDB0029641,Benzenoids,Benzene and substituted derivatives
+HMDB0029649,Benzenoids,Benzene and substituted derivatives
+HMDB0029718,Organoheterocyclic compounds,Heteroaromatic compounds
+HMDB0029723,Organoheterocyclic compounds,Benzothiazoles
+HMDB0029728,Organoheterocyclic compounds,Heteroaromatic compounds
+HMDB0029751,Benzenoids,Naphthalenes
+HMDB0029762,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0029937,Organic oxygen compounds,Organooxygen compounds
+HMDB0029942,Organic oxygen compounds,Organooxygen compounds
+HMDB0029980,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0030021,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0030027,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0030028,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0030052,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0030056,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0030058,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0030059,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0030062,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0030180,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0030331,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0030396,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0030433,Lipids and lipid-like molecules,Prenol lipids
+HMDB0030667,Phenylpropanoids and polyketides,Flavonoids
+HMDB0030776,Organoheterocyclic compounds,Pyrans
+HMDB0030930,Hydrocarbons,Unsaturated hydrocarbons
+HMDB0030961,Organic oxygen compounds,Organooxygen compounds
+HMDB0031019,Organic oxygen compounds,Organooxygen compounds
+HMDB0031057,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0031068,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0031072,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0031078,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0031193,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0031196,Organic oxygen compounds,Organooxygen compounds
+HMDB0031206,Organic oxygen compounds,Organooxygen compounds
+HMDB0031207,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0031217,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0031230,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0031231,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0031243,Organic oxygen compounds,Organooxygen compounds
+HMDB0031248,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0031249,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0031265,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0031266,Organic oxygen compounds,Organooxygen compounds
+HMDB0031269,Organic oxygen compounds,Organooxygen compounds
+HMDB0031294,Organic oxygen compounds,Organooxygen compounds
+HMDB0031295,Organic oxygen compounds,Organooxygen compounds
+HMDB0031299,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0031306,Organoheterocyclic compounds,Dihydrofurans
+HMDB0031317,Organosulfur compounds,Thioacetals
+HMDB0031325,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0031342,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0031343,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0031404,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0031409,Organic oxygen compounds,Organooxygen compounds
+HMDB0031417,Organic oxygen compounds,Organooxygen compounds
+HMDB0031444,Hydrocarbons,Saturated hydrocarbons
+HMDB0031445,Hydrocarbons,Saturated hydrocarbons
+HMDB0031450,Hydrocarbons,Saturated hydrocarbons
+HMDB0031475,Organic oxygen compounds,Organooxygen compounds
+HMDB0031476,Organic oxygen compounds,Organooxygen compounds
+HMDB0031478,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0031479,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0031481,Organic oxygen compounds,Organooxygen compounds
+HMDB0031482,Organic oxygen compounds,Organooxygen compounds
+HMDB0031491,Organic oxygen compounds,Organooxygen compounds
+HMDB0031496,Organic oxygen compounds,Organooxygen compounds
+HMDB0031507,Organic oxygen compounds,Organooxygen compounds
+HMDB0031518,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0031523,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0031525,Organic oxygen compounds,Organooxygen compounds
+HMDB0031526,Organic oxygen compounds,Organooxygen compounds
+HMDB0031528,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0031548,Organohalogen compounds,Alkyl halides
+HMDB0031549,Organic oxygen compounds,Organooxygen compounds
+HMDB0031554,Organic oxygen compounds,Organooxygen compounds
+HMDB0031563,Organic oxygen compounds,Organooxygen compounds
+HMDB0031580,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0031582,Organic oxygen compounds,Organooxygen compounds
+HMDB0031598,Organic oxygen compounds,Organooxygen compounds
+HMDB0031602,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0031645,Organic acids and derivatives,Carboximidic acids and derivatives
+HMDB0031652,Organic oxygen compounds,Organooxygen compounds
+HMDB0031653,Organosulfur compounds,Allyl sulfur compounds
+HMDB0031654,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0031857,Organic oxygen compounds,Organooxygen compounds
+HMDB0031872,Organosulfur compounds,Organic disulfides
+HMDB0032042,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0032045,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0032047,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0032055,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0032063,Benzenoids,Benzene and substituted derivatives
+HMDB0032076,Benzenoids,Phenol ethers
+HMDB0032208,Lipids and lipid-like molecules,Prenol lipids
+HMDB0032272,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0032538,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0032572,Benzenoids,Benzene and substituted derivatives
+HMDB0032574,Benzenoids,Benzene and substituted derivatives
+HMDB0032594,Benzenoids,Benzene and substituted derivatives
+HMDB0032616,Phenylpropanoids and polyketides,Cinnamic acids and derivatives
+HMDB0032619,Benzenoids,Benzene and substituted derivatives
+HMDB0032914,Organic oxygen compounds,Organooxygen compounds
+HMDB0032972,Organoheterocyclic compounds,Pyridines and derivatives
+HMDB0032980,Organoheterocyclic compounds,Heteroaromatic compounds
+HMDB0032985,Organoheterocyclic compounds,Azoles
+HMDB0033002,Organic oxygen compounds,Organooxygen compounds
+HMDB0033116,Organoheterocyclic compounds,Azoles
+HMDB0033119,Organoheterocyclic compounds,Heteroaromatic compounds
+HMDB0033167,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0033182,Organoheterocyclic compounds,Heteroaromatic compounds
+HMDB0033433,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0033547,Organic oxygen compounds,Organooxygen compounds
+HMDB0033620,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0033676,Organic oxygen compounds,Organooxygen compounds
+HMDB0033713,Organic oxygen compounds,Organooxygen compounds
+HMDB0033742,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0033745,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0033752,Phenylpropanoids and polyketides,Phenylpropanoic acids
+HMDB0033774,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0033792,Hydrocarbons,Saturated hydrocarbons
+HMDB0033827,Organic oxygen compounds,Organooxygen compounds
+HMDB0033840,Organoheterocyclic compounds,Lactones
+HMDB0033844,Lipids and lipid-like molecules,Prenol lipids
+HMDB0033889,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0033890,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0033896,Benzenoids,Benzene and substituted derivatives
+HMDB0033908,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0033910,Organic oxygen compounds,Organooxygen compounds
+HMDB0033916,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0033933,Organic oxygen compounds,Organooxygen compounds
+HMDB0033944,Benzenoids,Benzene and substituted derivatives
+HMDB0034121,Benzenoids,Phenol ethers
+HMDB0034136,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0034146,Organic acids and derivatives,Carboximidic acids and derivatives
+HMDB0034148,Organic oxygen compounds,Organooxygen compounds
+HMDB0034161,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0034163,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0034164,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0034165,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0034168,Benzenoids,Benzene and substituted derivatives
+HMDB0034219,Organic oxygen compounds,Organooxygen compounds
+HMDB0034220,Organic oxygen compounds,Organooxygen compounds
+HMDB0034233,Organic oxygen compounds,Organooxygen compounds
+HMDB0034235,Organic oxygen compounds,Organooxygen compounds
+HMDB0034237,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0034239,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0034240,Benzenoids,Benzene and substituted derivatives
+HMDB0034252,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0034283,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0034284,Hydrocarbons,Saturated hydrocarbons
+HMDB0034289,Hydrocarbons,Saturated hydrocarbons
+HMDB0034301,Organoheterocyclic compounds,Piperidines
+HMDB0034367,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0034437,Benzenoids,Benzene and substituted derivatives
+HMDB0034606,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0034879,Organic oxygen compounds,Organooxygen compounds
+HMDB0034970,Lipids and lipid-like molecules,Prenol lipids
+HMDB0035093,Lipids and lipid-like molecules,Prenol lipids
+HMDB0035094,Lipids and lipid-like molecules,Prenol lipids
+HMDB0035226,Organic oxygen compounds,Organooxygen compounds
+HMDB0035238,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0035239,Organic oxygen compounds,Organooxygen compounds
+HMDB0035289,Organoheterocyclic compounds,Diazines
+HMDB0035514,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0035619,Lipids and lipid-like molecules,Prenol lipids
+HMDB0035658,Lipids and lipid-like molecules,Prenol lipids
+HMDB0035765,Lipids and lipid-like molecules,Prenol lipids
+HMDB0035833,Lipids and lipid-like molecules,Prenol lipids
+HMDB0035850,Lipids and lipid-like molecules,Prenol lipids
+HMDB0035851,Lipids and lipid-like molecules,Prenol lipids
+HMDB0035915,Organic oxygen compounds,Organooxygen compounds
+HMDB0035924,Organoheterocyclic compounds,Heteroaromatic compounds
+HMDB0036081,Lipids and lipid-like molecules,Prenol lipids
+HMDB0036100,Lipids and lipid-like molecules,Prenol lipids
+HMDB0036101,Lipids and lipid-like molecules,Prenol lipids
+HMDB0036163,Lipids and lipid-like molecules,Prenol lipids
+HMDB0036209,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0036219,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0036228,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0036323,"Lignans, neolignans and related compounds",Lignan glycosides
+HMDB0036413,Lipids and lipid-like molecules,Prenol lipids
+HMDB0036453,Lipids and lipid-like molecules,Prenol lipids
+HMDB0036467,Lipids and lipid-like molecules,Prenol lipids
+HMDB0036559,Lipids and lipid-like molecules,Prenol lipids
+HMDB0036574,Homogeneous non-metal compounds,Other non-metal organides
+HMDB0036657,Lipids and lipid-like molecules,Prenol lipids
+HMDB0036792,Lipids and lipid-like molecules,Prenol lipids
+HMDB0036994,Lipids and lipid-like molecules,Prenol lipids
+HMDB0037020,Lipids and lipid-like molecules,Prenol lipids
+HMDB0037050,Benzenoids,Benzene and substituted derivatives
+HMDB0037051,Benzenoids,Benzene and substituted derivatives
+HMDB0037396,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0037397,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0037788,Organoheterocyclic compounds,Dihydrofurans
+HMDB0038040,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0038169,Lipids and lipid-like molecules,Prenol lipids
+HMDB0038602,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0038666,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0039000,Hydrocarbons,Saturated hydrocarbons
+HMDB0039095,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0039216,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0039229,Organic oxygen compounds,Organooxygen compounds
+HMDB0039618,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0039619,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0039620,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0039843,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0040209,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0040221,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0040240,Organoheterocyclic compounds,Heteroaromatic compounds
+HMDB0040247,Organic oxygen compounds,Organooxygen compounds
+HMDB0040272,Organoheterocyclic compounds,Heteroaromatic compounds
+HMDB0040295,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0040297,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0040575,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0040726,Organoheterocyclic compounds,Tetrahydrofurans
+HMDB0040733,Benzenoids,Phenol esters
+HMDB0041011,Organic oxygen compounds,Organic oxides
+HMDB0041014,Organic oxygen compounds,Organooxygen compounds
+HMDB0041389,Organosulfur compounds,Allyl sulfur compounds
+HMDB0041623,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+HMDB0041633,Lipids and lipid-like molecules,Prenol lipids
+HMDB0041634,Lipids and lipid-like molecules,Prenol lipids
+HMDB0041693,Organic oxygen compounds,Organooxygen compounds
+HMDB0041729,Phenylpropanoids and polyketides,Flavonoids
+HMDB0041822,Organic oxygen compounds,Organooxygen compounds
+HMDB0041842,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0041971,Benzenoids,Benzene and substituted derivatives
+HMDB0059655,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0059710,Organoheterocyclic compounds,Pyridines and derivatives
+HMDB0059732,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0059773,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0059777,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0059810,Benzenoids,Benzene and substituted derivatives
+HMDB0059832,Benzenoids,Benzene and substituted derivatives
+HMDB0059835,Organic oxygen compounds,Organooxygen compounds
+HMDB0059839,Lipids and lipid-like molecules,Prenol lipids
+HMDB0059843,Organosulfur compounds,Thioethers
+HMDB0059848,Benzenoids,Benzene and substituted derivatives
+HMDB0059851,Benzenoids,Benzene and substituted derivatives
+HMDB0059854,Benzenoids,Naphthalenes
+HMDB0059874,Hydrocarbons,Unsaturated hydrocarbons
+HMDB0059886,Hydrocarbons,Saturated hydrocarbons
+HMDB0059899,Benzenoids,Benzene and substituted derivatives
+HMDB0059901,Benzenoids,Benzene and substituted derivatives
+HMDB0059905,Benzenoids,Benzene and substituted derivatives
+HMDB0059907,Hydrocarbons,Saturated hydrocarbons
+HMDB0059911,Organic acids and derivatives,Organic sulfuric acids and derivatives
+HMDB0059924,Benzenoids,Benzene and substituted derivatives
+HMDB0059971,Organic oxygen compounds,Organooxygen compounds
+HMDB0059973,Organic oxygen compounds,Organooxygen compounds
+HMDB0059981,Benzenoids,Benzene and substituted derivatives
+HMDB0059989,Organic oxygen compounds,Organooxygen compounds
+HMDB0060015,Organic acids and derivatives,Organic sulfuric acids and derivatives
+HMDB0060024,Organic oxygen compounds,Organooxygen compounds
+HMDB0060038,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0060256,Organic oxygen compounds,Organooxygen compounds
+HMDB0060282,"Nucleosides, nucleotides, and analogues",Ribonucleoside 3'-phosphates
+HMDB0060472,Benzenoids,Benzene and substituted derivatives
+HMDB0060475,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0060493,Organic oxygen compounds,Organooxygen compounds
+HMDB0060501,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0060524,Benzenoids,Benzene and substituted derivatives
+HMDB0060602,Benzenoids,Benzene and substituted derivatives
+HMDB0060656,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0061112,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0061115,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0061652,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0061656,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0061684,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0061697,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0061701,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0061703,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0061705,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0061707,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0061709,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0061711,Organic acids and derivatives,Organic phosphoric acids and derivatives
+HMDB0061714,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0061822,Organic oxygen compounds,Organooxygen compounds
+HMDB0061835,Organic oxygen compounds,Organooxygen compounds
+HMDB0061851,Lipids and lipid-like molecules,Prenol lipids
+HMDB0061864,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0061869,Organic nitrogen compounds,Organonitrogen compounds
+HMDB0061884,Hydrocarbons,Saturated hydrocarbons
+HMDB0061886,Organic oxygen compounds,Organooxygen compounds
+HMDB0061890,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0061892,Hydrocarbons,Unsaturated hydrocarbons
+HMDB0061896,Organic oxygen compounds,Organooxygen compounds
+HMDB0061900,Hydrocarbons,Unsaturated hydrocarbons
+HMDB0061914,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0061918,Organoheterocyclic compounds,Indoles and derivatives
+HMDB0061923,Benzenoids,Benzene and substituted derivatives
+HMDB0062119,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0062121,Phenylpropanoids and polyketides,Phenylpropanoic acids
+HMDB0062175,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0062436,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0062547,Organic acids and derivatives,Organic sulfuric acids and derivatives
+HMDB0062549,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0062551,,
+HMDB0062555,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0062557,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0062562,Organoheterocyclic compounds,Azoles
+HMDB0062595,Organic acids and derivatives,Hydroxy acids and derivatives
+HMDB0062656,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0062657,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0062660,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0062720,Organic acids and derivatives,Organic sulfuric acids and derivatives
+HMDB0094646,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0094648,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0094649,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0094650,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0094651,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0094652,Hydrocarbons,Unsaturated hydrocarbons
+HMDB0094654,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0094656,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0094658,Organic oxygen compounds,Organooxygen compounds
+HMDB0094659,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0094660,Benzenoids,Benzene and substituted derivatives
+HMDB0094661,Benzenoids,Benzene and substituted derivatives
+HMDB0094665,Hydrocarbons,Unsaturated hydrocarbons
+HMDB0094666,Hydrocarbons,Saturated hydrocarbons
+HMDB0094669,Benzenoids,Benzene and substituted derivatives
+HMDB0094670,Benzenoids,Benzene and substituted derivatives
+HMDB0094673,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0094676,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0094680,Organic oxygen compounds,Organooxygen compounds
+HMDB0094682,Lipids and lipid-like molecules,Steroids and steroid derivatives
+HMDB0094685,Benzenoids,Benzene and substituted derivatives
+HMDB0094687,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0094691,Organoheterocyclic compounds,Dihydrofurans
+HMDB0094696,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0094698,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0094701,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0094704,Organic acids and derivatives,Carboxylic acids and derivatives
+HMDB0094705,Hydrocarbons,Unsaturated hydrocarbons
+HMDB0094707,Organic oxygen compounds,Organooxygen compounds
+HMDB0094708,Organic oxygen compounds,Organooxygen compounds
+HMDB0094710,Organic acids and derivatives,Organic sulfuric acids and derivatives
+HMDB0240219,Lipids and lipid-like molecules,Fatty Acyls
+HMDB0240252,Organic oxygen compounds,Organooxygen compounds
+HMDB0240261,Lipids and lipid-like molecules,Glycerophospholipids
+HMDB0240262,Lipids and lipid-like molecules,Glycerophospholipids
