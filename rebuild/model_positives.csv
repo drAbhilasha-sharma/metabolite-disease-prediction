@@ -1,0 +1,4792 @@
+disease,hmdb_id
+Kidney disease,HMDB0000001
+Early preeclampsia,HMDB0000001
+Late-onset preeclampsia,HMDB0000001
+Alzheimer's disease,HMDB0000001
+Obesity,HMDB0000001
+Diabetes mellitus type 2,HMDB0000001
+Propionic acidemia,HMDB0000001
+Maple syrup urine disease,HMDB0000001
+Eosinophilic esophagitis,HMDB0000001
+Colorectal cancer,HMDB0000002
+Leukemia,HMDB0000002
+Eosinophilic esophagitis,HMDB0000005
+Colorectal cancer,HMDB0000008
+Schizophrenia,HMDB0000008
+Early preeclampsia,HMDB0000008
+Late-onset preeclampsia,HMDB0000008
+Alzheimer's disease,HMDB0000008
+Frontotemporal dementia,HMDB0000008
+Lewy body disease,HMDB0000008
+Eosinophilic esophagitis,HMDB0000008
+Diabetes mellitus type 2,HMDB0000011
+Obesity,HMDB0000011
+Pancreatic cancer,HMDB0000011
+Colorectal cancer,HMDB0000011
+Schizophrenia,HMDB0000011
+Early preeclampsia,HMDB0000011
+Late-onset preeclampsia,HMDB0000011
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0000011
+Meningitis,HMDB0000011
+Ulcerative colitis,HMDB0000011
+Crohn's disease,HMDB0000011
+Alzheimer's disease,HMDB0000011
+Frontotemporal dementia,HMDB0000011
+Lewy body disease,HMDB0000011
+Eosinophilic esophagitis,HMDB0000011
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000011
+Colorectal cancer,HMDB0000012
+Crohn's disease,HMDB0000012
+Ulcerative colitis,HMDB0000012
+Eosinophilic esophagitis,HMDB0000012
+Crohn's disease,HMDB0000014
+Ulcerative colitis,HMDB0000014
+Colorectal cancer,HMDB0000014
+11-beta-Hydroxylase deficiency,HMDB0000015
+Sepsis,HMDB0000015
+Crohn's disease,HMDB0000017
+Colorectal cancer,HMDB0000017
+Ulcerative colitis,HMDB0000017
+Eosinophilic esophagitis,HMDB0000017
+Colorectal cancer,HMDB0000019
+Maple syrup urine disease,HMDB0000019
+Schizophrenia,HMDB0000020
+Epilepsy,HMDB0000020
+Colorectal cancer,HMDB0000020
+Ulcerative colitis,HMDB0000020
+Crohn's disease,HMDB0000020
+Lung Cancer,HMDB0000020
+Eosinophilic esophagitis,HMDB0000020
+Phenylketonuria,HMDB0000020
+Parkinson's disease,HMDB0000022
+Diabetes mellitus type 2,HMDB0000023
+Colorectal cancer,HMDB0000023
+Eosinophilic esophagitis,HMDB0000023
+Colorectal cancer,HMDB0000026
+Epilepsy,HMDB0000027
+Epilepsy,HMDB0000030
+Head injury,HMDB0000030
+Multiple sclerosis,HMDB0000030
+Colorectal cancer,HMDB0000030
+Eosinophilic esophagitis,HMDB0000030
+Schizophrenia,HMDB0000031
+Alzheimer's disease,HMDB0000033
+Crohn's disease,HMDB0000033
+Ulcerative colitis,HMDB0000033
+Eosinophilic esophagitis,HMDB0000033
+Meningitis,HMDB0000034
+Colorectal cancer,HMDB0000034
+Crohn's disease,HMDB0000034
+Ulcerative colitis,HMDB0000034
+Alzheimer's disease,HMDB0000034
+Frontotemporal dementia,HMDB0000034
+Lewy body disease,HMDB0000034
+Eosinophilic esophagitis,HMDB0000034
+Hepatocellular carcinoma,HMDB0000036
+Cirrhosis,HMDB0000036
+Colorectal cancer,HMDB0000036
+Crohn's disease,HMDB0000036
+Ulcerative colitis,HMDB0000036
+Metastatic melanoma,HMDB0000036
+Biliary atresia,HMDB0000036
+Heart failure,HMDB0000037
+"Bartter Syndrome, Type 2, Antenatal",HMDB0000037
+Lipoid Congenital Adrenal Hyperplasia,HMDB0000037
+Kidney disease,HMDB0000038
+Colorectal cancer,HMDB0000038
+Asthma,HMDB0000039
+Crohn's disease,HMDB0000039
+Ulcerative colitis,HMDB0000039
+Colorectal cancer,HMDB0000039
+Irritable bowel syndrome,HMDB0000039
+Nonalcoholic fatty liver disease,HMDB0000039
+Celiac disease,HMDB0000039
+Autism,HMDB0000039
+Pervasive developmental disorder not otherwise specified,HMDB0000039
+Diverticular disease,HMDB0000039
+Rheumatoid arthritis,HMDB0000039
+Eosinophilic esophagitis,HMDB0000039
+Early preeclampsia,HMDB0000042
+Late-onset preeclampsia,HMDB0000042
+Asthma,HMDB0000042
+Multiple sclerosis,HMDB0000042
+Crohn's disease,HMDB0000042
+Ulcerative colitis,HMDB0000042
+Colorectal cancer,HMDB0000042
+Irritable bowel syndrome,HMDB0000042
+Nonalcoholic fatty liver disease,HMDB0000042
+Celiac disease,HMDB0000042
+Autism,HMDB0000042
+Pervasive developmental disorder not otherwise specified,HMDB0000042
+Diverticular disease,HMDB0000042
+Gout,HMDB0000042
+Sepsis,HMDB0000042
+Lung Cancer,HMDB0000042
+Argininosuccinic aciduria,HMDB0000042
+Propionic acidemia,HMDB0000042
+Tyrosinemia I,HMDB0000042
+Phenylketonuria,HMDB0000042
+Maple syrup urine disease,HMDB0000042
+Eosinophilic esophagitis,HMDB0000042
+Chronic renal failure,HMDB0000043
+Colorectal cancer,HMDB0000043
+Schizophrenia,HMDB0000043
+Early preeclampsia,HMDB0000043
+Late-onset preeclampsia,HMDB0000043
+Crohn's disease,HMDB0000043
+Ulcerative colitis,HMDB0000043
+Pancreatic cancer,HMDB0000043
+Periodontal disease,HMDB0000043
+Alzheimer's disease,HMDB0000043
+Frontotemporal dementia,HMDB0000043
+Lewy body disease,HMDB0000043
+Lung Cancer,HMDB0000043
+Argininosuccinic aciduria,HMDB0000043
+Propionic acidemia,HMDB0000043
+Phenylketonuria,HMDB0000043
+Maple syrup urine disease,HMDB0000043
+Eosinophilic esophagitis,HMDB0000043
+Canavan disease,HMDB0000044
+Meningitis,HMDB0000044
+Eosinophilic esophagitis,HMDB0000044
+Crohn's disease,HMDB0000045
+Ulcerative colitis,HMDB0000045
+Metastatic melanoma,HMDB0000045
+Colorectal cancer,HMDB0000045
+Alzheimer's disease,HMDB0000045
+Frontotemporal dementia,HMDB0000045
+Lewy body disease,HMDB0000045
+Irritable bowel syndrome,HMDB0000050
+Crohn's disease,HMDB0000050
+Ulcerative colitis,HMDB0000050
+Colorectal cancer,HMDB0000050
+Alzheimer's disease,HMDB0000050
+Frontotemporal dementia,HMDB0000050
+Lewy body disease,HMDB0000050
+Eosinophilic esophagitis,HMDB0000050
+Argininosuccinic aciduria,HMDB0000051
+Argininosuccinic aciduria,HMDB0000052
+Schizophrenia,HMDB0000053
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0000053
+11-beta-Hydroxylase deficiency,HMDB0000053
+21-Hydroxylase deficiency,HMDB0000053
+Lipoid Congenital Adrenal Hyperplasia,HMDB0000053
+Rheumatoid arthritis,HMDB0000053
+Thyroid cancer,HMDB0000053
+Ovarian cancer,HMDB0000053
+Crohn's disease,HMDB0000054
+Colorectal cancer,HMDB0000054
+Colorectal cancer,HMDB0000056
+Crohn's disease,HMDB0000056
+Ulcerative colitis,HMDB0000056
+Pancreatic cancer,HMDB0000056
+Periodontal disease,HMDB0000056
+Alzheimer's disease,HMDB0000056
+Frontotemporal dementia,HMDB0000056
+Lewy body disease,HMDB0000056
+Eosinophilic esophagitis,HMDB0000056
+Meningitis,HMDB0000058
+Crohn's disease,HMDB0000058
+Ulcerative colitis,HMDB0000058
+Chronic renal failure,HMDB0000058
+Diabetes mellitus type 2,HMDB0000060
+Schizophrenia,HMDB0000060
+Early preeclampsia,HMDB0000060
+Late-onset preeclampsia,HMDB0000060
+Meningitis,HMDB0000060
+Irritable bowel syndrome,HMDB0000060
+Crohn's disease,HMDB0000060
+Ulcerative colitis,HMDB0000060
+Colorectal cancer,HMDB0000060
+Eosinophilic esophagitis,HMDB0000060
+Colorectal cancer,HMDB0000062
+Early preeclampsia,HMDB0000062
+Late-onset preeclampsia,HMDB0000062
+Periodontal disease,HMDB0000062
+Pancreatic cancer,HMDB0000062
+Diabetes mellitus type 2,HMDB0000062
+Lung Cancer,HMDB0000062
+Eosinophilic esophagitis,HMDB0000062
+Propionic acidemia,HMDB0000062
+Obesity,HMDB0000062
+Schizophrenia,HMDB0000063
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0000063
+"Bartter Syndrome, Type 2, Antenatal",HMDB0000063
+Lipoid Congenital Adrenal Hyperplasia,HMDB0000063
+Rheumatoid arthritis,HMDB0000063
+Cirrhosis,HMDB0000064
+Pancreatic cancer,HMDB0000064
+Colorectal cancer,HMDB0000064
+Schizophrenia,HMDB0000064
+Early preeclampsia,HMDB0000064
+Late-onset preeclampsia,HMDB0000064
+Uremia,HMDB0000064
+Irritable bowel syndrome,HMDB0000064
+Crohn's disease,HMDB0000064
+Ulcerative colitis,HMDB0000064
+Alzheimer's disease,HMDB0000064
+Frontotemporal dementia,HMDB0000064
+Lewy body disease,HMDB0000064
+Cystic fibrosis,HMDB0000064
+Lung Cancer,HMDB0000064
+Eosinophilic esophagitis,HMDB0000064
+Stomach cancer,HMDB0000067
+Prostate cancer,HMDB0000067
+Schizophrenia,HMDB0000067
+Abetalipoproteinemia,HMDB0000067
+Multiple sclerosis,HMDB0000067
+Inflammatory bowel disease,HMDB0000067
+Colorectal cancer,HMDB0000067
+Subarachnoid hemorrhage,HMDB0000068
+Head injury,HMDB0000068
+Schizophrenia,HMDB0000068
+Colorectal cancer,HMDB0000070
+Pancreatic cancer,HMDB0000070
+Periodontal disease,HMDB0000070
+Peroxisomal biogenesis defect,HMDB0000070
+Schizophrenia,HMDB0000070
+Colorectal cancer,HMDB0000071
+Eosinophilic esophagitis,HMDB0000071
+Alzheimer's disease,HMDB0000072
+Frontotemporal dementia,HMDB0000072
+Lewy body disease,HMDB0000072
+Lung Cancer,HMDB0000072
+Eosinophilic esophagitis,HMDB0000072
+Schizophrenia,HMDB0000072
+Hypothyroidism,HMDB0000073
+Alzheimer's disease,HMDB0000073
+Eosinophilic esophagitis,HMDB0000073
+Schizophrenia,HMDB0000073
+Colorectal cancer,HMDB0000076
+Hypertension,HMDB0000076
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0000077
+21-Hydroxylase deficiency,HMDB0000077
+Lipoid Congenital Adrenal Hyperplasia,HMDB0000077
+Rheumatoid arthritis,HMDB0000077
+Phenylketonuria,HMDB0000078
+Eosinophilic esophagitis,HMDB0000079
+Colorectal cancer,HMDB0000085
+Alzheimer's disease,HMDB0000086
+Pancreatic cancer,HMDB0000086
+Periodontal disease,HMDB0000086
+Kidney disease,HMDB0000087
+Uremia,HMDB0000087
+Early preeclampsia,HMDB0000087
+Late-onset preeclampsia,HMDB0000087
+Pancreatic cancer,HMDB0000087
+Diabetes mellitus type 2,HMDB0000087
+Diabetes mellitus type 1,HMDB0000087
+Autosomal dominant polycystic kidney disease,HMDB0000087
+Eosinophilic esophagitis,HMDB0000087
+Canavan disease,HMDB0000089
+Uremia,HMDB0000089
+Colorectal cancer,HMDB0000089
+Crohn's disease,HMDB0000089
+Ulcerative colitis,HMDB0000089
+Alzheimer's disease,HMDB0000089
+Frontotemporal dementia,HMDB0000089
+Lewy body disease,HMDB0000089
+Kidney disease,HMDB0000092
+Uremia,HMDB0000092
+Colorectal cancer,HMDB0000092
+Crohn's disease,HMDB0000092
+Ulcerative colitis,HMDB0000092
+Eosinophilic esophagitis,HMDB0000092
+Pancreatic cancer,HMDB0000094
+Schizophrenia,HMDB0000094
+Early preeclampsia,HMDB0000094
+Late-onset preeclampsia,HMDB0000094
+Canavan disease,HMDB0000094
+Irritable bowel syndrome,HMDB0000094
+Crohn's disease,HMDB0000094
+Ulcerative colitis,HMDB0000094
+Alzheimer's disease,HMDB0000094
+Frontotemporal dementia,HMDB0000094
+Lewy body disease,HMDB0000094
+Lung Cancer,HMDB0000094
+Diabetes mellitus type 1,HMDB0000094
+Argininosuccinic aciduria,HMDB0000094
+Propionic acidemia,HMDB0000094
+Tyrosinemia I,HMDB0000094
+Phenylketonuria,HMDB0000094
+Maple syrup urine disease,HMDB0000094
+Eosinophilic esophagitis,HMDB0000094
+Colorectal cancer,HMDB0000094
+Colorectal cancer,HMDB0000095
+Alzheimer's disease,HMDB0000095
+Frontotemporal dementia,HMDB0000095
+Lewy body disease,HMDB0000095
+Early preeclampsia,HMDB0000097
+Alzheimer's disease,HMDB0000097
+Irritable bowel syndrome,HMDB0000097
+Ulcerative colitis,HMDB0000097
+Crohn's disease,HMDB0000097
+Diverticular disease,HMDB0000097
+Rheumatoid arthritis,HMDB0000097
+Colorectal cancer,HMDB0000097
+Pancreatic cancer,HMDB0000097
+Periodontal disease,HMDB0000097
+Frontotemporal dementia,HMDB0000097
+Lewy body disease,HMDB0000097
+Lung Cancer,HMDB0000097
+Eosinophilic esophagitis,HMDB0000097
+Kidney disease,HMDB0000098
+Crohn's disease,HMDB0000098
+Colorectal cancer,HMDB0000098
+Lung Cancer,HMDB0000098
+Eosinophilic esophagitis,HMDB0000098
+Alzheimer's disease,HMDB0000099
+Autism,HMDB0000099
+Crohn's disease,HMDB0000099
+Ulcerative colitis,HMDB0000099
+Eosinophilic esophagitis,HMDB0000099
+Colorectal cancer,HMDB0000101
+Eosinophilic esophagitis,HMDB0000101
+Alzheimer's disease,HMDB0000107
+Irritable bowel syndrome,HMDB0000107
+Alcoholism,HMDB0000108
+Autism,HMDB0000108
+Autosomal dominant polycystic kidney disease,HMDB0000108
+Celiac disease,HMDB0000108
+Crohn's disease,HMDB0000108
+Irritable bowel syndrome,HMDB0000108
+Kidney disease,HMDB0000108
+Lung Cancer,HMDB0000108
+Diverticular disease,HMDB0000108
+Eosinophilic esophagitis,HMDB0000108
+Ulcerative colitis,HMDB0000108
+Pervasive developmental disorder not otherwise specified,HMDB0000108
+Early preeclampsia,HMDB0000108
+Late-onset preeclampsia,HMDB0000108
+Nonalcoholic fatty liver disease,HMDB0000108
+Alzheimer's disease,HMDB0000112
+Meningitis,HMDB0000112
+Epilepsy,HMDB0000112
+Irritable bowel syndrome,HMDB0000112
+Colorectal cancer,HMDB0000112
+Crohn's disease,HMDB0000112
+Ulcerative colitis,HMDB0000112
+Pancreatic cancer,HMDB0000112
+Periodontal disease,HMDB0000112
+Frontotemporal dementia,HMDB0000112
+Lewy body disease,HMDB0000112
+Diabetes mellitus type 1,HMDB0000112
+Eosinophilic esophagitis,HMDB0000112
+Biliary atresia,HMDB0000115
+Colorectal cancer,HMDB0000115
+Schizophrenia,HMDB0000115
+Lung Cancer,HMDB0000115
+Eosinophilic esophagitis,HMDB0000115
+Hypothyroidism,HMDB0000118
+Schizophrenia,HMDB0000118
+Epilepsy,HMDB0000118
+Autism,HMDB0000118
+Parkinson's disease,HMDB0000118
+Major depressive disorder,HMDB0000118
+Celiac disease,HMDB0000118
+Eosinophilic esophagitis,HMDB0000118
+Phenylketonuria,HMDB0000118
+Rheumatoid arthritis,HMDB0000121
+Alzheimer's disease,HMDB0000121
+Early preeclampsia,HMDB0000122
+Late-onset preeclampsia,HMDB0000122
+21-Hydroxylase deficiency,HMDB0000122
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0000122
+Alzheimer's disease,HMDB0000122
+Irritable bowel syndrome,HMDB0000122
+Ulcerative colitis,HMDB0000122
+Colorectal cancer,HMDB0000122
+Diverticular disease,HMDB0000122
+Gout,HMDB0000122
+Rheumatoid arthritis,HMDB0000122
+Diabetes mellitus type 2,HMDB0000122
+Diabetes mellitus type 1,HMDB0000122
+Eosinophilic esophagitis,HMDB0000122
+Schizophrenia,HMDB0000122
+Alzheimer's disease,HMDB0000123
+Early preeclampsia,HMDB0000123
+Late-onset preeclampsia,HMDB0000123
+Obesity,HMDB0000123
+Leukemia,HMDB0000123
+Schizophrenia,HMDB0000123
+Irritable bowel syndrome,HMDB0000123
+Ulcerative colitis,HMDB0000123
+Colorectal cancer,HMDB0000123
+Autism,HMDB0000123
+Crohn's disease,HMDB0000123
+Diverticular disease,HMDB0000123
+Gout,HMDB0000123
+Pancreatic cancer,HMDB0000123
+Periodontal disease,HMDB0000123
+Frontotemporal dementia,HMDB0000123
+Lewy body disease,HMDB0000123
+Lung Cancer,HMDB0000123
+Autosomal dominant polycystic kidney disease,HMDB0000123
+Argininosuccinic aciduria,HMDB0000123
+Propionic acidemia,HMDB0000123
+Tyrosinemia I,HMDB0000123
+Phenylketonuria,HMDB0000123
+Maple syrup urine disease,HMDB0000123
+Eosinophilic esophagitis,HMDB0000123
+Alzheimer's disease,HMDB0000124
+Frontotemporal dementia,HMDB0000124
+Lewy body disease,HMDB0000124
+Canavan disease,HMDB0000125
+Schizophrenia,HMDB0000125
+Multiple sclerosis,HMDB0000125
+Colorectal cancer,HMDB0000126
+Alzheimer's disease,HMDB0000126
+Frontotemporal dementia,HMDB0000126
+Lewy body disease,HMDB0000126
+Chronic renal failure,HMDB0000128
+Uremia,HMDB0000128
+Crohn's disease,HMDB0000128
+Ulcerative colitis,HMDB0000128
+Eosinophilic esophagitis,HMDB0000128
+Schizophrenia,HMDB0000128
+Crohn's disease,HMDB0000130
+Ulcerative colitis,HMDB0000130
+Eosinophilic esophagitis,HMDB0000130
+Diabetes mellitus type 2,HMDB0000131
+Schizophrenia,HMDB0000131
+Early preeclampsia,HMDB0000131
+Late-onset preeclampsia,HMDB0000131
+Crohn's disease,HMDB0000131
+Ulcerative colitis,HMDB0000131
+Irritable bowel syndrome,HMDB0000131
+Colorectal cancer,HMDB0000131
+Eosinophilic esophagitis,HMDB0000131
+Colorectal cancer,HMDB0000132
+Alzheimer's disease,HMDB0000132
+Frontotemporal dementia,HMDB0000132
+Lewy body disease,HMDB0000132
+Colorectal cancer,HMDB0000133
+Crohn's disease,HMDB0000133
+Ulcerative colitis,HMDB0000133
+Eosinophilic esophagitis,HMDB0000133
+Colorectal cancer,HMDB0000134
+Alzheimer's disease,HMDB0000134
+Irritable bowel syndrome,HMDB0000134
+Diverticular disease,HMDB0000134
+Rheumatoid arthritis,HMDB0000134
+Lung Cancer,HMDB0000134
+Eosinophilic esophagitis,HMDB0000134
+Celiac disease,HMDB0000138
+Biliary atresia,HMDB0000138
+Cystic fibrosis,HMDB0000138
+Colorectal cancer,HMDB0000138
+Crohn's disease,HMDB0000138
+Ulcerative colitis,HMDB0000138
+Colorectal cancer,HMDB0000139
+Crohn's disease,HMDB0000139
+Schizophrenia,HMDB0000139
+Irritable bowel syndrome,HMDB0000139
+Eosinophilic esophagitis,HMDB0000139
+Ulcerative colitis,HMDB0000139
+Autosomal dominant polycystic kidney disease,HMDB0000142
+Diabetes mellitus type 1,HMDB0000142
+Irritable bowel syndrome,HMDB0000142
+Lung Cancer,HMDB0000142
+Rheumatoid arthritis,HMDB0000142
+Diverticular disease,HMDB0000142
+Eosinophilic esophagitis,HMDB0000142
+Early preeclampsia,HMDB0000142
+Late-onset preeclampsia,HMDB0000142
+Colorectal cancer,HMDB0000143
+Eosinophilic esophagitis,HMDB0000143
+Epilepsy,HMDB0000148
+Schizophrenia,HMDB0000148
+Alzheimer's disease,HMDB0000148
+Heart failure,HMDB0000148
+Stomach cancer,HMDB0000148
+Leukemia,HMDB0000148
+Irritable bowel syndrome,HMDB0000148
+Colorectal cancer,HMDB0000148
+Autism,HMDB0000148
+Crohn's disease,HMDB0000148
+Ulcerative colitis,HMDB0000148
+Obesity,HMDB0000148
+Diverticular disease,HMDB0000148
+Sepsis,HMDB0000148
+Pancreatic cancer,HMDB0000148
+Periodontal disease,HMDB0000148
+Autosomal dominant polycystic kidney disease,HMDB0000148
+Eosinophilic esophagitis,HMDB0000148
+Irritable bowel syndrome,HMDB0000149
+Ulcerative colitis,HMDB0000149
+Colorectal cancer,HMDB0000149
+Pancreatic cancer,HMDB0000149
+Periodontal disease,HMDB0000149
+Autosomal dominant polycystic kidney disease,HMDB0000149
+Propionic acidemia,HMDB0000149
+Maple syrup urine disease,HMDB0000149
+Eosinophilic esophagitis,HMDB0000149
+Prostate cancer,HMDB0000150
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0000151
+Lipoid Congenital Adrenal Hyperplasia,HMDB0000151
+Colorectal cancer,HMDB0000152
+Diabetes mellitus type 2,HMDB0000153
+Colorectal cancer,HMDB0000156
+Schizophrenia,HMDB0000156
+Alzheimer's disease,HMDB0000156
+Frontotemporal dementia,HMDB0000156
+Lewy body disease,HMDB0000156
+Cystic fibrosis,HMDB0000156
+Eosinophilic esophagitis,HMDB0000156
+Canavan disease,HMDB0000157
+Uremia,HMDB0000157
+Hydrocephalus,HMDB0000157
+Irritable bowel syndrome,HMDB0000157
+Colorectal cancer,HMDB0000157
+Crohn's disease,HMDB0000157
+Ulcerative colitis,HMDB0000157
+Rheumatoid arthritis,HMDB0000157
+Pancreatic cancer,HMDB0000157
+Periodontal disease,HMDB0000157
+Alzheimer's disease,HMDB0000157
+Frontotemporal dementia,HMDB0000157
+Lewy body disease,HMDB0000157
+Lung Cancer,HMDB0000157
+Autosomal dominant polycystic kidney disease,HMDB0000157
+Eosinophilic esophagitis,HMDB0000157
+Hepatocellular carcinoma,HMDB0000157
+Epilepsy,HMDB0000158
+Schizophrenia,HMDB0000158
+Alzheimer's disease,HMDB0000158
+Colorectal cancer,HMDB0000158
+Early preeclampsia,HMDB0000158
+Late-onset preeclampsia,HMDB0000158
+Tyrosinemia I,HMDB0000158
+Obesity,HMDB0000158
+Hypothyroidism,HMDB0000158
+Leukemia,HMDB0000158
+Irritable bowel syndrome,HMDB0000158
+Ulcerative colitis,HMDB0000158
+Autism,HMDB0000158
+Crohn's disease,HMDB0000158
+Pancreatic cancer,HMDB0000158
+Periodontal disease,HMDB0000158
+Frontotemporal dementia,HMDB0000158
+Lewy body disease,HMDB0000158
+Eosinophilic esophagitis,HMDB0000158
+Epilepsy,HMDB0000159
+Maple syrup urine disease,HMDB0000159
+Phenylketonuria,HMDB0000159
+Alzheimer's disease,HMDB0000159
+Early preeclampsia,HMDB0000159
+Late-onset preeclampsia,HMDB0000159
+Obesity,HMDB0000159
+Hypothyroidism,HMDB0000159
+Leukemia,HMDB0000159
+Schizophrenia,HMDB0000159
+Irritable bowel syndrome,HMDB0000159
+Ulcerative colitis,HMDB0000159
+Colorectal cancer,HMDB0000159
+Autism,HMDB0000159
+Crohn's disease,HMDB0000159
+Gout,HMDB0000159
+Rheumatoid arthritis,HMDB0000159
+Pancreatic cancer,HMDB0000159
+Periodontal disease,HMDB0000159
+Frontotemporal dementia,HMDB0000159
+Lewy body disease,HMDB0000159
+Eosinophilic esophagitis,HMDB0000159
+Epilepsy,HMDB0000161
+Heart failure,HMDB0000161
+Early preeclampsia,HMDB0000161
+Late-onset preeclampsia,HMDB0000161
+Meningitis,HMDB0000161
+Leukemia,HMDB0000161
+Schizophrenia,HMDB0000161
+Crohn's disease,HMDB0000161
+Ulcerative colitis,HMDB0000161
+Colorectal cancer,HMDB0000161
+Irritable bowel syndrome,HMDB0000161
+Autism,HMDB0000161
+Diverticular disease,HMDB0000161
+Gout,HMDB0000161
+Rheumatoid arthritis,HMDB0000161
+Pancreatic cancer,HMDB0000161
+Periodontal disease,HMDB0000161
+Alzheimer's disease,HMDB0000161
+Frontotemporal dementia,HMDB0000161
+Lewy body disease,HMDB0000161
+Lung Cancer,HMDB0000161
+Eosinophilic esophagitis,HMDB0000161
+Early preeclampsia,HMDB0000162
+Late-onset preeclampsia,HMDB0000162
+Obesity,HMDB0000162
+Alzheimer's disease,HMDB0000162
+Colorectal cancer,HMDB0000162
+Irritable bowel syndrome,HMDB0000162
+Ulcerative colitis,HMDB0000162
+Celiac disease,HMDB0000162
+Autism,HMDB0000162
+Crohn's disease,HMDB0000162
+Rheumatoid arthritis,HMDB0000162
+Pancreatic cancer,HMDB0000162
+Periodontal disease,HMDB0000162
+Frontotemporal dementia,HMDB0000162
+Lewy body disease,HMDB0000162
+Autosomal dominant polycystic kidney disease,HMDB0000162
+Eosinophilic esophagitis,HMDB0000162
+Colorectal cancer,HMDB0000163
+Eosinophilic esophagitis,HMDB0000163
+Crohn's disease,HMDB0000164
+Uremia,HMDB0000164
+Diverticular disease,HMDB0000164
+Eosinophilic esophagitis,HMDB0000164
+Ulcerative colitis,HMDB0000164
+Epilepsy,HMDB0000167
+Heart failure,HMDB0000167
+Early preeclampsia,HMDB0000167
+Late-onset preeclampsia,HMDB0000167
+Obesity,HMDB0000167
+Leukemia,HMDB0000167
+Schizophrenia,HMDB0000167
+Irritable bowel syndrome,HMDB0000167
+Ulcerative colitis,HMDB0000167
+Colorectal cancer,HMDB0000167
+Crohn's disease,HMDB0000167
+Autism,HMDB0000167
+Rheumatoid arthritis,HMDB0000167
+Pancreatic cancer,HMDB0000167
+Periodontal disease,HMDB0000167
+Frontotemporal dementia,HMDB0000167
+Lewy body disease,HMDB0000167
+Alzheimer's disease,HMDB0000167
+Autosomal dominant polycystic kidney disease,HMDB0000167
+Eosinophilic esophagitis,HMDB0000167
+Epilepsy,HMDB0000168
+Uremia,HMDB0000168
+Colorectal cancer,HMDB0000168
+Early preeclampsia,HMDB0000168
+Late-onset preeclampsia,HMDB0000168
+Leukemia,HMDB0000168
+Schizophrenia,HMDB0000168
+Alzheimer's disease,HMDB0000168
+Celiac disease,HMDB0000168
+Crohn's disease,HMDB0000168
+Ulcerative colitis,HMDB0000168
+Gout,HMDB0000168
+Frontotemporal dementia,HMDB0000168
+Lewy body disease,HMDB0000168
+Cystic fibrosis,HMDB0000168
+Eosinophilic esophagitis,HMDB0000168
+Colorectal cancer,HMDB0000169
+Eosinophilic esophagitis,HMDB0000169
+Epilepsy,HMDB0000172
+Alzheimer's disease,HMDB0000172
+Heart failure,HMDB0000172
+Maple syrup urine disease,HMDB0000172
+Colorectal cancer,HMDB0000172
+Early preeclampsia,HMDB0000172
+Leukemia,HMDB0000172
+Schizophrenia,HMDB0000172
+Crohn's disease,HMDB0000172
+Ulcerative colitis,HMDB0000172
+Irritable bowel syndrome,HMDB0000172
+Autism,HMDB0000172
+Pancreatic cancer,HMDB0000172
+Periodontal disease,HMDB0000172
+Frontotemporal dementia,HMDB0000172
+Lewy body disease,HMDB0000172
+Autosomal dominant polycystic kidney disease,HMDB0000172
+Eosinophilic esophagitis,HMDB0000172
+Thyroid cancer,HMDB0000174
+Colorectal cancer,HMDB0000174
+Eosinophilic esophagitis,HMDB0000174
+Crohn's disease,HMDB0000175
+Ulcerative colitis,HMDB0000175
+Eosinophilic esophagitis,HMDB0000176
+Epilepsy,HMDB0000177
+Alzheimer's disease,HMDB0000177
+Colorectal cancer,HMDB0000177
+Schizophrenia,HMDB0000177
+Obesity,HMDB0000177
+Leukemia,HMDB0000177
+Celiac disease,HMDB0000177
+Autism,HMDB0000177
+Crohn's disease,HMDB0000177
+Ulcerative colitis,HMDB0000177
+Pancreatic cancer,HMDB0000177
+Periodontal disease,HMDB0000177
+Frontotemporal dementia,HMDB0000177
+Lewy body disease,HMDB0000177
+Autosomal dominant polycystic kidney disease,HMDB0000177
+Argininosuccinic aciduria,HMDB0000177
+Propionic acidemia,HMDB0000177
+Tyrosinemia I,HMDB0000177
+Phenylketonuria,HMDB0000177
+Maple syrup urine disease,HMDB0000177
+Eosinophilic esophagitis,HMDB0000177
+Alzheimer's disease,HMDB0000181
+Eosinophilic esophagitis,HMDB0000181
+Alzheimer's disease,HMDB0000182
+Schizophrenia,HMDB0000182
+Leukemia,HMDB0000182
+Crohn's disease,HMDB0000182
+Ulcerative colitis,HMDB0000182
+Irritable bowel syndrome,HMDB0000182
+Colorectal cancer,HMDB0000182
+Autism,HMDB0000182
+Pancreatic cancer,HMDB0000182
+Periodontal disease,HMDB0000182
+Frontotemporal dementia,HMDB0000182
+Lewy body disease,HMDB0000182
+Autosomal dominant polycystic kidney disease,HMDB0000182
+Propionic acidemia,HMDB0000182
+Tyrosinemia I,HMDB0000182
+Eosinophilic esophagitis,HMDB0000182
+Eosinophilic esophagitis,HMDB0000186
+Alzheimer's disease,HMDB0000187
+Heart failure,HMDB0000187
+Schizophrenia,HMDB0000187
+Lung Cancer,HMDB0000187
+Early preeclampsia,HMDB0000187
+Late-onset preeclampsia,HMDB0000187
+Obesity,HMDB0000187
+Leukemia,HMDB0000187
+Irritable bowel syndrome,HMDB0000187
+Ulcerative colitis,HMDB0000187
+Colorectal cancer,HMDB0000187
+Autism,HMDB0000187
+Crohn's disease,HMDB0000187
+Pancreatic cancer,HMDB0000187
+Periodontal disease,HMDB0000187
+Frontotemporal dementia,HMDB0000187
+Lewy body disease,HMDB0000187
+Autosomal dominant polycystic kidney disease,HMDB0000187
+Eosinophilic esophagitis,HMDB0000187
+Diabetes mellitus type 1,HMDB0000190
+Pancreatic cancer,HMDB0000190
+Schizophrenia,HMDB0000190
+Early preeclampsia,HMDB0000190
+Late-onset preeclampsia,HMDB0000190
+Colorectal cancer,HMDB0000190
+Irritable bowel syndrome,HMDB0000190
+Ulcerative colitis,HMDB0000190
+Crohn's disease,HMDB0000190
+Alzheimer's disease,HMDB0000190
+Frontotemporal dementia,HMDB0000190
+Lewy body disease,HMDB0000190
+Autosomal dominant polycystic kidney disease,HMDB0000190
+Eosinophilic esophagitis,HMDB0000190
+Propionic acidemia,HMDB0000190
+Epilepsy,HMDB0000191
+Cirrhosis,HMDB0000191
+Alzheimer's disease,HMDB0000191
+Schizophrenia,HMDB0000191
+Irritable bowel syndrome,HMDB0000191
+Ulcerative colitis,HMDB0000191
+Colorectal cancer,HMDB0000191
+Crohn's disease,HMDB0000191
+Gout,HMDB0000191
+Pancreatic cancer,HMDB0000191
+Periodontal disease,HMDB0000191
+Frontotemporal dementia,HMDB0000191
+Lewy body disease,HMDB0000191
+Eosinophilic esophagitis,HMDB0000191
+Alzheimer's disease,HMDB0000192
+Colorectal cancer,HMDB0000192
+Schizophrenia,HMDB0000192
+Parkinson's disease,HMDB0000192
+Eosinophilic esophagitis,HMDB0000192
+Alzheimer's disease,HMDB0000193
+Frontotemporal dementia,HMDB0000193
+Lewy body disease,HMDB0000193
+Autosomal dominant polycystic kidney disease,HMDB0000193
+Eosinophilic esophagitis,HMDB0000193
+Alzheimer's disease,HMDB0000194
+Colorectal cancer,HMDB0000194
+Eosinophilic esophagitis,HMDB0000194
+Canavan disease,HMDB0000195
+Kidney disease,HMDB0000195
+Irritable bowel syndrome,HMDB0000195
+Colorectal cancer,HMDB0000195
+Crohn's disease,HMDB0000195
+Ulcerative colitis,HMDB0000195
+Gout,HMDB0000195
+Eosinophilic esophagitis,HMDB0000195
+Uremia,HMDB0000197
+Autism,HMDB0000197
+Major depressive disorder,HMDB0000197
+Colorectal cancer,HMDB0000197
+Irritable bowel syndrome,HMDB0000197
+Eosinophilic esophagitis,HMDB0000197
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000201
+Colorectal cancer,HMDB0000201
+Obesity,HMDB0000201
+Crohn's disease,HMDB0000201
+Ulcerative colitis,HMDB0000201
+Eosinophilic esophagitis,HMDB0000201
+Alzheimer's disease,HMDB0000202
+Eosinophilic esophagitis,HMDB0000202
+Propionic acidemia,HMDB0000202
+Phenylketonuria,HMDB0000205
+Primary biliary cirrhosis,HMDB0000205
+Colorectal cancer,HMDB0000206
+Eosinophilic esophagitis,HMDB0000206
+Lung Cancer,HMDB0000207
+Schizophrenia,HMDB0000207
+Colorectal cancer,HMDB0000207
+Schizophrenia,HMDB0000208
+Colorectal cancer,HMDB0000208
+Eosinophilic esophagitis,HMDB0000208
+Kidney disease,HMDB0000209
+Leukemia,HMDB0000209
+Uremia,HMDB0000209
+Irritable bowel syndrome,HMDB0000209
+Ulcerative colitis,HMDB0000209
+Colorectal cancer,HMDB0000209
+Crohn's disease,HMDB0000209
+Phenylketonuria,HMDB0000209
+Eosinophilic esophagitis,HMDB0000209
+Alcoholism,HMDB0000210
+Irritable bowel syndrome,HMDB0000210
+Colorectal cancer,HMDB0000210
+Obesity,HMDB0000210
+Crohn's disease,HMDB0000210
+Ulcerative colitis,HMDB0000210
+Eosinophilic esophagitis,HMDB0000210
+Schizophrenia,HMDB0000211
+Uremia,HMDB0000211
+Alzheimer's disease,HMDB0000211
+Colorectal cancer,HMDB0000211
+Eosinophilic esophagitis,HMDB0000211
+Colorectal cancer,HMDB0000212
+Colorectal cancer,HMDB0000213
+Alzheimer's disease,HMDB0000214
+Uremia,HMDB0000214
+Colorectal cancer,HMDB0000214
+Schizophrenia,HMDB0000214
+Early preeclampsia,HMDB0000214
+Late-onset preeclampsia,HMDB0000214
+Obesity,HMDB0000214
+Leukemia,HMDB0000214
+Autism,HMDB0000214
+Crohn's disease,HMDB0000214
+Ulcerative colitis,HMDB0000214
+Pancreatic cancer,HMDB0000214
+Periodontal disease,HMDB0000214
+Frontotemporal dementia,HMDB0000214
+Lewy body disease,HMDB0000214
+Eosinophilic esophagitis,HMDB0000214
+Colorectal cancer,HMDB0000215
+Diverticular disease,HMDB0000215
+Subarachnoid hemorrhage,HMDB0000216
+Uremia,HMDB0000216
+Hypothyroidism,HMDB0000216
+Schizophrenia,HMDB0000216
+Prostate cancer,HMDB0000218
+Colorectal cancer,HMDB0000220
+Schizophrenia,HMDB0000220
+Inflammatory bowel disease,HMDB0000220
+Eosinophilic esophagitis,HMDB0000220
+Celiac disease,HMDB0000222
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000222
+Obesity,HMDB0000222
+Cirrhosis,HMDB0000222
+Colorectal cancer,HMDB0000222
+Eosinophilic esophagitis,HMDB0000222
+Crohn's disease,HMDB0000224
+Ulcerative colitis,HMDB0000224
+Colorectal cancer,HMDB0000224
+Eosinophilic esophagitis,HMDB0000224
+Canavan disease,HMDB0000226
+Uremia,HMDB0000226
+Colorectal cancer,HMDB0000226
+Crohn's disease,HMDB0000226
+Ulcerative colitis,HMDB0000226
+Autism,HMDB0000228
+Celiac disease,HMDB0000228
+Colorectal cancer,HMDB0000228
+Crohn's disease,HMDB0000228
+Irritable bowel syndrome,HMDB0000228
+Uremia,HMDB0000228
+Eosinophilic esophagitis,HMDB0000228
+Ulcerative colitis,HMDB0000228
+Pervasive developmental disorder not otherwise specified,HMDB0000228
+Nonalcoholic fatty liver disease,HMDB0000228
+Irritable bowel syndrome,HMDB0000230
+Ulcerative colitis,HMDB0000230
+Colorectal cancer,HMDB0000230
+Uremia,HMDB0000232
+Hydrocephalus,HMDB0000232
+Eosinophilic esophagitis,HMDB0000232
+11-beta-Hydroxylase deficiency,HMDB0000234
+21-Hydroxylase deficiency,HMDB0000234
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0000234
+Schizophrenia,HMDB0000234
+Prostate cancer,HMDB0000234
+Lipoid Congenital Adrenal Hyperplasia,HMDB0000234
+Alcoholism,HMDB0000235
+Colorectal cancer,HMDB0000235
+Autism,HMDB0000237
+Celiac disease,HMDB0000237
+Colorectal cancer,HMDB0000237
+Crohn's disease,HMDB0000237
+Irritable bowel syndrome,HMDB0000237
+Propionic acidemia,HMDB0000237
+Rheumatoid arthritis,HMDB0000237
+Eosinophilic esophagitis,HMDB0000237
+Ulcerative colitis,HMDB0000237
+Pervasive developmental disorder not otherwise specified,HMDB0000237
+Nonalcoholic fatty liver disease,HMDB0000237
+Crohn's disease,HMDB0000239
+Ulcerative colitis,HMDB0000239
+Colorectal cancer,HMDB0000239
+Eosinophilic esophagitis,HMDB0000239
+Alzheimer's disease,HMDB0000243
+Colorectal cancer,HMDB0000243
+Diabetes mellitus type 1,HMDB0000243
+Schizophrenia,HMDB0000243
+Frontotemporal dementia,HMDB0000243
+Stomach cancer,HMDB0000243
+Irritable bowel syndrome,HMDB0000243
+Meningitis,HMDB0000243
+Eosinophilic esophagitis,HMDB0000243
+Early preeclampsia,HMDB0000243
+Late-onset preeclampsia,HMDB0000243
+Lewy body disease,HMDB0000243
+Alcoholism,HMDB0000244
+Colorectal cancer,HMDB0000244
+Eosinophilic esophagitis,HMDB0000244
+Uremia,HMDB0000247
+Alzheimer's disease,HMDB0000247
+Crohn's disease,HMDB0000247
+Ulcerative colitis,HMDB0000247
+Colorectal cancer,HMDB0000247
+Eosinophilic esophagitis,HMDB0000247
+Hypothyroidism,HMDB0000248
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0000248
+Heart failure,HMDB0000251
+Epilepsy,HMDB0000251
+Parkinson's disease,HMDB0000251
+Leukemia,HMDB0000251
+Schizophrenia,HMDB0000251
+Irritable bowel syndrome,HMDB0000251
+Ulcerative colitis,HMDB0000251
+Colorectal cancer,HMDB0000251
+Crohn's disease,HMDB0000251
+Gout,HMDB0000251
+Rheumatoid arthritis,HMDB0000251
+Pancreatic cancer,HMDB0000251
+Periodontal disease,HMDB0000251
+Lung Cancer,HMDB0000251
+Autosomal dominant polycystic kidney disease,HMDB0000251
+Propionic acidemia,HMDB0000251
+Maple syrup urine disease,HMDB0000251
+Eosinophilic esophagitis,HMDB0000251
+Lung Cancer,HMDB0000252
+Colorectal cancer,HMDB0000252
+Schizophrenia,HMDB0000253
+Early preeclampsia,HMDB0000254
+Canavan disease,HMDB0000254
+Alzheimer's disease,HMDB0000254
+Irritable bowel syndrome,HMDB0000254
+Ulcerative colitis,HMDB0000254
+Crohn's disease,HMDB0000254
+Gout,HMDB0000254
+Lung Cancer,HMDB0000254
+Eosinophilic esophagitis,HMDB0000254
+Colorectal cancer,HMDB0000254
+Colorectal cancer,HMDB0000256
+Colorectal cancer,HMDB0000258
+Crohn's disease,HMDB0000258
+Ulcerative colitis,HMDB0000258
+Sepsis,HMDB0000258
+Lung Cancer,HMDB0000258
+Autosomal dominant polycystic kidney disease,HMDB0000258
+Eosinophilic esophagitis,HMDB0000258
+Schizophrenia,HMDB0000259
+Parkinson's disease,HMDB0000259
+Hypothyroidism,HMDB0000259
+Colorectal cancer,HMDB0000259
+Eosinophilic esophagitis,HMDB0000259
+Colorectal cancer,HMDB0000262
+Alzheimer's disease,HMDB0000263
+Frontotemporal dementia,HMDB0000263
+Lewy body disease,HMDB0000263
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0000265
+Hypothyroidism,HMDB0000265
+Schizophrenia,HMDB0000267
+Irritable bowel syndrome,HMDB0000267
+Colorectal cancer,HMDB0000267
+Ulcerative colitis,HMDB0000267
+Autosomal dominant polycystic kidney disease,HMDB0000267
+Eosinophilic esophagitis,HMDB0000267
+Lipoid Congenital Adrenal Hyperplasia,HMDB0000268
+Colorectal cancer,HMDB0000269
+Colorectal cancer,HMDB0000271
+Stomach cancer,HMDB0000271
+Alzheimer's disease,HMDB0000271
+Frontotemporal dementia,HMDB0000271
+Lewy body disease,HMDB0000271
+Eosinophilic esophagitis,HMDB0000271
+Prostate cancer,HMDB0000271
+Eosinophilic esophagitis,HMDB0000272
+Canavan disease,HMDB0000273
+Colorectal cancer,HMDB0000273
+Eosinophilic esophagitis,HMDB0000273
+Hepatocellular carcinoma,HMDB0000277
+Cirrhosis,HMDB0000277
+Colorectal cancer,HMDB0000279
+Colorectal cancer,HMDB0000283
+Eosinophilic esophagitis,HMDB0000283
+Rheumatoid arthritis,HMDB0000286
+Metastatic melanoma,HMDB0000288
+Alzheimer's disease,HMDB0000288
+Frontotemporal dementia,HMDB0000288
+Lewy body disease,HMDB0000288
+Diabetes mellitus type 2,HMDB0000289
+Gout,HMDB0000289
+Multiple sclerosis,HMDB0000289
+Uremia,HMDB0000289
+Stomach cancer,HMDB0000289
+Schizophrenia,HMDB0000289
+Meningitis,HMDB0000289
+Colorectal cancer,HMDB0000289
+Canavan disease,HMDB0000289
+Colorectal cancer,HMDB0000291
+Eosinophilic esophagitis,HMDB0000291
+Phenylketonuria,HMDB0000291
+Canavan disease,HMDB0000292
+Uremia,HMDB0000292
+Hydrocephalus,HMDB0000292
+Colorectal cancer,HMDB0000292
+Crohn's disease,HMDB0000292
+Ulcerative colitis,HMDB0000292
+Cystic fibrosis,HMDB0000292
+Eosinophilic esophagitis,HMDB0000292
+Cirrhosis,HMDB0000294
+Colorectal cancer,HMDB0000294
+Hepatocellular carcinoma,HMDB0000294
+Meningitis,HMDB0000294
+Uremia,HMDB0000294
+Eosinophilic esophagitis,HMDB0000294
+"Bartter Syndrome, Type 2, Antenatal",HMDB0000294
+Canavan disease,HMDB0000296
+Colorectal cancer,HMDB0000296
+Uremia,HMDB0000296
+Irritable bowel syndrome,HMDB0000296
+Ulcerative colitis,HMDB0000296
+Uremia,HMDB0000299
+Crohn's disease,HMDB0000299
+Ulcerative colitis,HMDB0000299
+Metastatic melanoma,HMDB0000299
+Colorectal cancer,HMDB0000299
+Canavan disease,HMDB0000300
+Uremia,HMDB0000300
+Crohn's disease,HMDB0000300
+Ulcerative colitis,HMDB0000300
+Diverticular disease,HMDB0000300
+Hypertension,HMDB0000300
+Eosinophilic esophagitis,HMDB0000300
+Colorectal cancer,HMDB0000300
+Colorectal cancer,HMDB0000301
+Eosinophilic esophagitis,HMDB0000301
+Irritable bowel syndrome,HMDB0000303
+Colorectal cancer,HMDB0000303
+Abetalipoproteinemia,HMDB0000305
+Cirrhosis,HMDB0000306
+Celiac disease,HMDB0000306
+Colorectal cancer,HMDB0000306
+Ulcerative colitis,HMDB0000306
+Crohn's disease,HMDB0000306
+Eosinophilic esophagitis,HMDB0000306
+Colorectal cancer,HMDB0000317
+Crohn's disease,HMDB0000317
+Maple syrup urine disease,HMDB0000317
+Eosinophilic esophagitis,HMDB0000317
+Ulcerative colitis,HMDB0000317
+Colorectal cancer,HMDB0000321
+Colorectal cancer,HMDB0000325
+Primary biliary cirrhosis,HMDB0000326
+Sepsis,HMDB0000332
+Parkinson's disease,HMDB0000333
+Diabetes mellitus type 2,HMDB0000336
+Autosomal dominant polycystic kidney disease,HMDB0000339
+Propionic acidemia,HMDB0000339
+Glutaric aciduria II,HMDB0000339
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000341
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000350
+Thyroid cancer,HMDB0000352
+Propionic acidemia,HMDB0000354
+Colorectal cancer,HMDB0000355
+Eosinophilic esophagitis,HMDB0000355
+Inflammatory bowel disease,HMDB0000359
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0000363
+Colorectal cancer,HMDB0000365
+Schizophrenia,HMDB0000365
+Schizophrenia,HMDB0000369
+Phenylketonuria,HMDB0000374
+21-Hydroxylase deficiency,HMDB0000374
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0000374
+11-beta-Hydroxylase deficiency,HMDB0000374
+"Bartter Syndrome, Type 2, Antenatal",HMDB0000374
+Lipoid Congenital Adrenal Hyperplasia,HMDB0000374
+Rheumatoid arthritis,HMDB0000374
+Colorectal cancer,HMDB0000375
+Irritable bowel syndrome,HMDB0000375
+Diverticular disease,HMDB0000375
+Eosinophilic esophagitis,HMDB0000375
+Autosomal dominant polycystic kidney disease,HMDB0000378
+Crohn's disease,HMDB0000379
+Propionic acidemia,HMDB0000379
+Biliary atresia,HMDB0000381
+Nonalcoholic fatty liver disease,HMDB0000387
+Colorectal cancer,HMDB0000391
+Colorectal cancer,HMDB0000400
+Ovarian cancer,HMDB0000405
+Maple syrup urine disease,HMDB0000407
+Colorectal cancer,HMDB0000407
+Eosinophilic esophagitis,HMDB0000407
+Autosomal dominant polycystic kidney disease,HMDB0000408
+Ovarian cancer,HMDB0000413
+Colorectal cancer,HMDB0000415
+Colorectal cancer,HMDB0000417
+Sepsis,HMDB0000418
+Colorectal cancer,HMDB0000422
+Eosinophilic esophagitis,HMDB0000422
+Colorectal cancer,HMDB0000423
+Eosinophilic esophagitis,HMDB0000423
+Colorectal cancer,HMDB0000426
+Colorectal cancer,HMDB0000439
+Eosinophilic esophagitis,HMDB0000439
+Colorectal cancer,HMDB0000440
+Phenylketonuria,HMDB0000440
+Eosinophilic esophagitis,HMDB0000440
+Colorectal cancer,HMDB0000446
+Colorectal cancer,HMDB0000448
+Lung Cancer,HMDB0000448
+Eosinophilic esophagitis,HMDB0000448
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000448
+Thyroid cancer,HMDB0000449
+Alzheimer's disease,HMDB0000450
+Colorectal cancer,HMDB0000450
+Eosinophilic esophagitis,HMDB0000450
+Colorectal cancer,HMDB0000451
+Alzheimer's disease,HMDB0000452
+Colorectal cancer,HMDB0000452
+Schizophrenia,HMDB0000452
+Kidney disease,HMDB0000452
+Eosinophilic esophagitis,HMDB0000452
+Colorectal cancer,HMDB0000453
+Propionic acidemia,HMDB0000459
+Chronic renal failure,HMDB0000462
+Schizophrenia,HMDB0000462
+Meningitis,HMDB0000462
+Crohn's disease,HMDB0000462
+Ulcerative colitis,HMDB0000462
+Colorectal cancer,HMDB0000462
+Eosinophilic esophagitis,HMDB0000462
+Alzheimer's disease,HMDB0000464
+Multiple sclerosis,HMDB0000464
+Parkinson's disease,HMDB0000464
+"Bartter Syndrome, Type 2, Antenatal",HMDB0000464
+Autism,HMDB0000466
+Colorectal cancer,HMDB0000466
+Crohn's disease,HMDB0000466
+Ulcerative colitis,HMDB0000466
+Pervasive developmental disorder not otherwise specified,HMDB0000466
+Nonalcoholic fatty liver disease,HMDB0000466
+Cirrhosis,HMDB0000467
+Colorectal cancer,HMDB0000467
+Hepatocellular carcinoma,HMDB0000467
+Parkinson's disease,HMDB0000468
+Crohn's disease,HMDB0000472
+Ulcerative colitis,HMDB0000472
+Colorectal cancer,HMDB0000472
+Alcoholism,HMDB0000474
+Asthma,HMDB0000474
+Autism,HMDB0000474
+Celiac disease,HMDB0000474
+Crohn's disease,HMDB0000474
+Ulcerative colitis,HMDB0000474
+Pervasive developmental disorder not otherwise specified,HMDB0000474
+Nonalcoholic fatty liver disease,HMDB0000474
+Crohn's disease,HMDB0000477
+Kidney disease,HMDB0000479
+Early preeclampsia,HMDB0000479
+Alzheimer's disease,HMDB0000479
+Colorectal cancer,HMDB0000479
+Diabetes mellitus type 2,HMDB0000479
+Obesity,HMDB0000479
+Propionic acidemia,HMDB0000479
+Eosinophilic esophagitis,HMDB0000479
+Autism,HMDB0000482
+Crohn's disease,HMDB0000482
+Ulcerative colitis,HMDB0000482
+Colorectal cancer,HMDB0000482
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000482
+Inflammatory bowel disease,HMDB0000483
+Colorectal cancer,HMDB0000484
+Eosinophilic esophagitis,HMDB0000484
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000486
+Colorectal cancer,HMDB0000486
+Schizophrenia,HMDB0000490
+Maple syrup urine disease,HMDB0000491
+Colorectal cancer,HMDB0000491
+Eosinophilic esophagitis,HMDB0000491
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0000492
+"Bartter Syndrome, Type 2, Antenatal",HMDB0000492
+Schizophrenia,HMDB0000493
+Colorectal cancer,HMDB0000494
+Prostate cancer,HMDB0000495
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000499
+Colorectal cancer,HMDB0000500
+Eosinophilic esophagitis,HMDB0000500
+Multiple sclerosis,HMDB0000501
+Colorectal cancer,HMDB0000502
+Alzheimer's disease,HMDB0000508
+Colorectal cancer,HMDB0000508
+Ulcerative colitis,HMDB0000510
+Crohn's disease,HMDB0000510
+Metastatic melanoma,HMDB0000510
+Colorectal cancer,HMDB0000510
+Eosinophilic esophagitis,HMDB0000510
+Schizophrenia,HMDB0000510
+Colorectal cancer,HMDB0000511
+Metastatic melanoma,HMDB0000511
+Cystic fibrosis,HMDB0000511
+Eosinophilic esophagitis,HMDB0000511
+Colorectal cancer,HMDB0000512
+Alzheimer's disease,HMDB0000517
+Heart failure,HMDB0000517
+Chronic renal failure,HMDB0000517
+Colorectal cancer,HMDB0000517
+Early preeclampsia,HMDB0000517
+Late-onset preeclampsia,HMDB0000517
+Obesity,HMDB0000517
+Leukemia,HMDB0000517
+Schizophrenia,HMDB0000517
+Irritable bowel syndrome,HMDB0000517
+Ulcerative colitis,HMDB0000517
+Autism,HMDB0000517
+Crohn's disease,HMDB0000517
+Frontotemporal dementia,HMDB0000517
+Lewy body disease,HMDB0000517
+Argininosuccinic aciduria,HMDB0000517
+Propionic acidemia,HMDB0000517
+Tyrosinemia I,HMDB0000517
+Maple syrup urine disease,HMDB0000517
+Eosinophilic esophagitis,HMDB0000517
+Cystic fibrosis,HMDB0000518
+Biliary atresia,HMDB0000518
+Cirrhosis,HMDB0000518
+Hepatocellular carcinoma,HMDB0000518
+Primary biliary cirrhosis,HMDB0000518
+Inflammatory bowel disease,HMDB0000520
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000521
+Eosinophilic esophagitis,HMDB0000522
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000525
+Colorectal cancer,HMDB0000525
+Colorectal cancer,HMDB0000529
+Propionic acidemia,HMDB0000531
+Colorectal cancer,HMDB0000532
+Ulcerative colitis,HMDB0000535
+Irritable bowel syndrome,HMDB0000535
+Nonalcoholic fatty liver disease,HMDB0000535
+Celiac disease,HMDB0000535
+Autism,HMDB0000535
+Pervasive developmental disorder not otherwise specified,HMDB0000535
+Crohn's disease,HMDB0000535
+Colorectal cancer,HMDB0000535
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000535
+Subarachnoid hemorrhage,HMDB0000538
+Epilepsy,HMDB0000538
+Colorectal cancer,HMDB0000539
+Schizophrenia,HMDB0000546
+Alzheimer's disease,HMDB0000547
+Multiple sclerosis,HMDB0000547
+Parkinson's disease,HMDB0000547
+"Bartter Syndrome, Type 2, Antenatal",HMDB0000547
+Colorectal cancer,HMDB0000553
+Crohn's disease,HMDB0000555
+Ulcerative colitis,HMDB0000555
+Colorectal cancer,HMDB0000555
+Eosinophilic esophagitis,HMDB0000555
+Colorectal cancer,HMDB0000557
+Maple syrup urine disease,HMDB0000557
+Eosinophilic esophagitis,HMDB0000557
+Diabetes mellitus type 1,HMDB0000561
+Obesity,HMDB0000561
+Canavan disease,HMDB0000562
+Chronic renal failure,HMDB0000562
+Pancreatic cancer,HMDB0000562
+Stomach cancer,HMDB0000562
+Early preeclampsia,HMDB0000562
+Late-onset preeclampsia,HMDB0000562
+21-Hydroxylase deficiency,HMDB0000562
+"Bartter Syndrome, Type 2, Antenatal",HMDB0000562
+Uremia,HMDB0000562
+Crohn's disease,HMDB0000562
+Ulcerative colitis,HMDB0000562
+Alzheimer's disease,HMDB0000562
+Frontotemporal dementia,HMDB0000562
+Lewy body disease,HMDB0000562
+Cystic fibrosis,HMDB0000562
+Propionic acidemia,HMDB0000562
+Tyrosinemia I,HMDB0000562
+Phenylketonuria,HMDB0000562
+Maple syrup urine disease,HMDB0000562
+Colorectal cancer,HMDB0000562
+Schizophrenia,HMDB0000562
+Colorectal cancer,HMDB0000563
+Obesity,HMDB0000564
+Eosinophilic esophagitis,HMDB0000564
+Colorectal cancer,HMDB0000568
+Eosinophilic esophagitis,HMDB0000568
+Cirrhosis,HMDB0000569
+Cirrhosis,HMDB0000572
+Colorectal cancer,HMDB0000573
+Alzheimer's disease,HMDB0000574
+Uremia,HMDB0000574
+Multiple sclerosis,HMDB0000574
+Colorectal cancer,HMDB0000574
+Autism,HMDB0000574
+Eosinophilic esophagitis,HMDB0000574
+Colorectal cancer,HMDB0000577
+Crohn's disease,HMDB0000577
+Ulcerative colitis,HMDB0000577
+Cirrhosis,HMDB0000582
+Hypothyroidism,HMDB0000582
+Sepsis,HMDB0000582
+21-Hydroxylase deficiency,HMDB0000586
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0000586
+"Bartter Syndrome, Type 2, Antenatal",HMDB0000586
+Lipoid Congenital Adrenal Hyperplasia,HMDB0000586
+21-Hydroxylase deficiency,HMDB0000588
+"Bartter Syndrome, Type 2, Antenatal",HMDB0000588
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0000588
+Lipoid Congenital Adrenal Hyperplasia,HMDB0000588
+Obesity,HMDB0000593
+Eosinophilic esophagitis,HMDB0000593
+Colorectal cancer,HMDB0000594
+Phenylketonuria,HMDB0000594
+21-Hydroxylase deficiency,HMDB0000595
+"Bartter Syndrome, Type 2, Antenatal",HMDB0000595
+Diabetes mellitus type 2,HMDB0000599
+Multiple sclerosis,HMDB0000599
+Parkinson's disease,HMDB0000599
+Peroxisomal biogenesis defect,HMDB0000601
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000603
+Alzheimer's disease,HMDB0000608
+Multiple sclerosis,HMDB0000608
+Parkinson's disease,HMDB0000608
+Alzheimer's disease,HMDB0000609
+Colorectal cancer,HMDB0000613
+Alzheimer's disease,HMDB0000618
+Frontotemporal dementia,HMDB0000618
+Lewy body disease,HMDB0000618
+Cystic fibrosis,HMDB0000619
+Biliary atresia,HMDB0000619
+Colorectal cancer,HMDB0000619
+Crohn's disease,HMDB0000619
+Ulcerative colitis,HMDB0000619
+Cirrhosis,HMDB0000619
+Primary biliary cirrhosis,HMDB0000619
+Eosinophilic esophagitis,HMDB0000619
+Colorectal cancer,HMDB0000621
+Eosinophilic esophagitis,HMDB0000622
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000622
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000623
+Colorectal cancer,HMDB0000623
+Diabetes mellitus type 2,HMDB0000623
+Ulcerative colitis,HMDB0000623
+Schizophrenia,HMDB0000625
+Colorectal cancer,HMDB0000625
+Eosinophilic esophagitis,HMDB0000625
+Cystic fibrosis,HMDB0000626
+Irritable bowel syndrome,HMDB0000626
+Ulcerative colitis,HMDB0000626
+Colorectal cancer,HMDB0000626
+Primary biliary cirrhosis,HMDB0000626
+Crohn's disease,HMDB0000630
+Ulcerative colitis,HMDB0000630
+Colorectal cancer,HMDB0000630
+Hepatocellular carcinoma,HMDB0000631
+Cirrhosis,HMDB0000631
+Colorectal cancer,HMDB0000631
+Colorectal cancer,HMDB0000634
+Tyrosinemia I,HMDB0000635
+Eosinophilic esophagitis,HMDB0000635
+Colorectal cancer,HMDB0000637
+Biliary atresia,HMDB0000637
+Colorectal cancer,HMDB0000638
+Metastatic melanoma,HMDB0000638
+Cystic fibrosis,HMDB0000638
+Eosinophilic esophagitis,HMDB0000639
+Autosomal dominant polycystic kidney disease,HMDB0000640
+Colorectal cancer,HMDB0000640
+Lung Cancer,HMDB0000640
+Eosinophilic esophagitis,HMDB0000640
+Epilepsy,HMDB0000641
+Schizophrenia,HMDB0000641
+Colorectal cancer,HMDB0000641
+Early preeclampsia,HMDB0000641
+Late-onset preeclampsia,HMDB0000641
+Obesity,HMDB0000641
+Alzheimer's disease,HMDB0000641
+Leukemia,HMDB0000641
+Propionic acidemia,HMDB0000641
+Irritable bowel syndrome,HMDB0000641
+Ulcerative colitis,HMDB0000641
+Crohn's disease,HMDB0000641
+Pancreatic cancer,HMDB0000641
+Periodontal disease,HMDB0000641
+Frontotemporal dementia,HMDB0000641
+Lewy body disease,HMDB0000641
+Maple syrup urine disease,HMDB0000641
+Eosinophilic esophagitis,HMDB0000641
+Colorectal cancer,HMDB0000646
+Eosinophilic esophagitis,HMDB0000646
+Colorectal cancer,HMDB0000650
+Periodontal disease,HMDB0000650
+Pancreatic cancer,HMDB0000650
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000651
+Celiac disease,HMDB0000651
+Colorectal cancer,HMDB0000651
+Crohn's disease,HMDB0000651
+Obesity,HMDB0000651
+Glutaric aciduria II,HMDB0000651
+Eosinophilic esophagitis,HMDB0000651
+Ulcerative colitis,HMDB0000651
+Cirrhosis,HMDB0000653
+Alzheimer's disease,HMDB0000657
+Multiple sclerosis,HMDB0000657
+Parkinson's disease,HMDB0000657
+Colorectal cancer,HMDB0000660
+Diabetes mellitus type 2,HMDB0000660
+Eosinophilic esophagitis,HMDB0000660
+Irritable bowel syndrome,HMDB0000661
+Ulcerative colitis,HMDB0000661
+Colorectal cancer,HMDB0000661
+Eosinophilic esophagitis,HMDB0000661
+Eosinophilic esophagitis,HMDB0000663
+Colorectal cancer,HMDB0000665
+Ulcerative colitis,HMDB0000666
+Irritable bowel syndrome,HMDB0000666
+Autism,HMDB0000666
+Pervasive developmental disorder not otherwise specified,HMDB0000666
+Crohn's disease,HMDB0000666
+Colorectal cancer,HMDB0000666
+Irritable bowel syndrome,HMDB0000669
+Phenylketonuria,HMDB0000669
+Eosinophilic esophagitis,HMDB0000669
+Cirrhosis,HMDB0000670
+Colorectal cancer,HMDB0000671
+Colorectal cancer,HMDB0000672
+Cirrhosis,HMDB0000673
+Hypertension,HMDB0000673
+Lung Cancer,HMDB0000673
+Schizophrenia,HMDB0000673
+Colorectal cancer,HMDB0000673
+Ulcerative colitis,HMDB0000673
+Thyroid cancer,HMDB0000673
+Eosinophilic esophagitis,HMDB0000676
+Colorectal cancer,HMDB0000678
+Propionic acidemia,HMDB0000678
+Glutaric aciduria II,HMDB0000678
+Eosinophilic esophagitis,HMDB0000678
+Colorectal cancer,HMDB0000679
+Eosinophilic esophagitis,HMDB0000679
+Uremia,HMDB0000682
+Colorectal cancer,HMDB0000682
+Eosinophilic esophagitis,HMDB0000682
+Schizophrenia,HMDB0000684
+Hydrocephalus,HMDB0000684
+Crohn's disease,HMDB0000684
+Ulcerative colitis,HMDB0000684
+Eosinophilic esophagitis,HMDB0000684
+Primary biliary cirrhosis,HMDB0000686
+Epilepsy,HMDB0000687
+Maple syrup urine disease,HMDB0000687
+Heart failure,HMDB0000687
+Phenylketonuria,HMDB0000687
+Schizophrenia,HMDB0000687
+Early preeclampsia,HMDB0000687
+Late-onset preeclampsia,HMDB0000687
+Leukemia,HMDB0000687
+Alzheimer's disease,HMDB0000687
+Crohn's disease,HMDB0000687
+Ulcerative colitis,HMDB0000687
+Colorectal cancer,HMDB0000687
+Irritable bowel syndrome,HMDB0000687
+Autism,HMDB0000687
+Rheumatoid arthritis,HMDB0000687
+Pancreatic cancer,HMDB0000687
+Periodontal disease,HMDB0000687
+Frontotemporal dementia,HMDB0000687
+Lewy body disease,HMDB0000687
+Eosinophilic esophagitis,HMDB0000687
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000688
+Celiac disease,HMDB0000688
+Celiac disease,HMDB0000689
+Colorectal cancer,HMDB0000689
+Irritable bowel syndrome,HMDB0000689
+Ulcerative colitis,HMDB0000689
+Nonalcoholic fatty liver disease,HMDB0000689
+Colorectal cancer,HMDB0000691
+Eosinophilic esophagitis,HMDB0000691
+Early preeclampsia,HMDB0000691
+Alzheimer's disease,HMDB0000692
+Multiple sclerosis,HMDB0000692
+Parkinson's disease,HMDB0000692
+Eosinophilic esophagitis,HMDB0000694
+Colorectal cancer,HMDB0000695
+Maple syrup urine disease,HMDB0000695
+Rheumatoid arthritis,HMDB0000695
+Gout,HMDB0000695
+Eosinophilic esophagitis,HMDB0000695
+Epilepsy,HMDB0000696
+Heart failure,HMDB0000696
+Colorectal cancer,HMDB0000696
+Early preeclampsia,HMDB0000696
+Late-onset preeclampsia,HMDB0000696
+Obesity,HMDB0000696
+Leukemia,HMDB0000696
+Schizophrenia,HMDB0000696
+Irritable bowel syndrome,HMDB0000696
+Ulcerative colitis,HMDB0000696
+Celiac disease,HMDB0000696
+Autism,HMDB0000696
+Crohn's disease,HMDB0000696
+Diverticular disease,HMDB0000696
+Rheumatoid arthritis,HMDB0000696
+Eosinophilic esophagitis,HMDB0000696
+Cirrhosis,HMDB0000699
+Lung Cancer,HMDB0000699
+Autosomal dominant polycystic kidney disease,HMDB0000699
+Eosinophilic esophagitis,HMDB0000699
+Colorectal cancer,HMDB0000700
+Stomach cancer,HMDB0000700
+Propionic acidemia,HMDB0000700
+Eosinophilic esophagitis,HMDB0000700
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000701
+Colorectal cancer,HMDB0000701
+Propionic acidemia,HMDB0000701
+Colorectal cancer,HMDB0000703
+Phenylketonuria,HMDB0000703
+Eosinophilic esophagitis,HMDB0000703
+Colorectal cancer,HMDB0000706
+Colorectal cancer,HMDB0000707
+Phenylketonuria,HMDB0000707
+Colorectal cancer,HMDB0000708
+Colorectal cancer,HMDB0000710
+Glutaric aciduria II,HMDB0000710
+Eosinophilic esophagitis,HMDB0000710
+Colorectal cancer,HMDB0000711
+Colorectal cancer,HMDB0000712
+Uremia,HMDB0000714
+Crohn's disease,HMDB0000714
+Ulcerative colitis,HMDB0000714
+Lung Cancer,HMDB0000714
+Diabetes mellitus type 1,HMDB0000714
+Argininosuccinic aciduria,HMDB0000714
+Propionic acidemia,HMDB0000714
+Tyrosinemia I,HMDB0000714
+Phenylketonuria,HMDB0000714
+Maple syrup urine disease,HMDB0000714
+Eosinophilic esophagitis,HMDB0000714
+Colorectal cancer,HMDB0000714
+Schizophrenia,HMDB0000714
+Obesity,HMDB0000714
+Uremia,HMDB0000715
+Schizophrenia,HMDB0000715
+Crohn's disease,HMDB0000715
+Ulcerative colitis,HMDB0000715
+Eosinophilic esophagitis,HMDB0000715
+Colorectal cancer,HMDB0000715
+Peroxisomal biogenesis defect,HMDB0000716
+Autism,HMDB0000718
+Celiac disease,HMDB0000718
+Colorectal cancer,HMDB0000718
+Crohn's disease,HMDB0000718
+Irritable bowel syndrome,HMDB0000718
+Diverticular disease,HMDB0000718
+Eosinophilic esophagitis,HMDB0000718
+Ulcerative colitis,HMDB0000718
+Pervasive developmental disorder not otherwise specified,HMDB0000718
+Nonalcoholic fatty liver disease,HMDB0000718
+Colorectal cancer,HMDB0000719
+Crohn's disease,HMDB0000719
+Ulcerative colitis,HMDB0000719
+Eosinophilic esophagitis,HMDB0000719
+Colorectal cancer,HMDB0000720
+Eosinophilic esophagitis,HMDB0000720
+Alzheimer's disease,HMDB0000721
+Colorectal cancer,HMDB0000721
+Eosinophilic esophagitis,HMDB0000721
+Colorectal cancer,HMDB0000722
+Alzheimer's disease,HMDB0000725
+Colorectal cancer,HMDB0000725
+Crohn's disease,HMDB0000725
+Ulcerative colitis,HMDB0000725
+Eosinophilic esophagitis,HMDB0000725
+Colorectal cancer,HMDB0000729
+Lung Cancer,HMDB0000729
+Eosinophilic esophagitis,HMDB0000729
+Propionic acidemia,HMDB0000730
+Glutaric aciduria II,HMDB0000730
+Eosinophilic esophagitis,HMDB0000731
+Primary biliary cirrhosis,HMDB0000733
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000736
+Ulcerative colitis,HMDB0000738
+Nonalcoholic fatty liver disease,HMDB0000738
+Celiac disease,HMDB0000738
+Crohn's disease,HMDB0000738
+Irritable bowel syndrome,HMDB0000738
+Autism,HMDB0000738
+Pervasive developmental disorder not otherwise specified,HMDB0000738
+Cirrhosis,HMDB0000739
+Celiac disease,HMDB0000740
+Multiple sclerosis,HMDB0000742
+Chronic renal failure,HMDB0000742
+Parkinson's disease,HMDB0000742
+Uremia,HMDB0000742
+Alzheimer's disease,HMDB0000742
+Colorectal cancer,HMDB0000742
+Colorectal cancer,HMDB0000746
+Maple syrup urine disease,HMDB0000746
+Eosinophilic esophagitis,HMDB0000746
+Colorectal cancer,HMDB0000748
+Phenylketonuria,HMDB0000748
+Kidney disease,HMDB0000750
+Colorectal cancer,HMDB0000752
+Autism,HMDB0000753
+Celiac disease,HMDB0000753
+Pervasive developmental disorder not otherwise specified,HMDB0000753
+Nonalcoholic fatty liver disease,HMDB0000753
+Autosomal dominant polycystic kidney disease,HMDB0000754
+Colorectal cancer,HMDB0000754
+Diabetes mellitus type 1,HMDB0000754
+Lung Cancer,HMDB0000754
+Pancreatic cancer,HMDB0000754
+Eosinophilic esophagitis,HMDB0000754
+Early preeclampsia,HMDB0000754
+Late-onset preeclampsia,HMDB0000754
+Colorectal cancer,HMDB0000755
+Phenylketonuria,HMDB0000755
+Eosinophilic esophagitis,HMDB0000755
+Celiac disease,HMDB0000756
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000756
+Glutaric aciduria II,HMDB0000756
+Obesity,HMDB0000756
+Crohn's disease,HMDB0000756
+Ulcerative colitis,HMDB0000756
+Colorectal cancer,HMDB0000756
+Colorectal cancer,HMDB0000759
+Colorectal cancer,HMDB0000760
+Primary biliary cirrhosis,HMDB0000760
+Cystic fibrosis,HMDB0000761
+Biliary atresia,HMDB0000761
+Colorectal cancer,HMDB0000761
+Primary biliary cirrhosis,HMDB0000761
+Schizophrenia,HMDB0000763
+Epilepsy,HMDB0000763
+Major depressive disorder,HMDB0000763
+Celiac disease,HMDB0000763
+Crohn's disease,HMDB0000763
+Ulcerative colitis,HMDB0000763
+Eosinophilic esophagitis,HMDB0000763
+Colorectal cancer,HMDB0000764
+Crohn's disease,HMDB0000764
+Irritable bowel syndrome,HMDB0000764
+Prostate cancer,HMDB0000764
+Ulcerative colitis,HMDB0000764
+Uremia,HMDB0000765
+Alzheimer's disease,HMDB0000765
+Colorectal cancer,HMDB0000765
+Lung Cancer,HMDB0000765
+Eosinophilic esophagitis,HMDB0000765
+Colorectal cancer,HMDB0000766
+Prostate cancer,HMDB0000766
+Canavan disease,HMDB0000767
+Uremia,HMDB0000767
+Colorectal cancer,HMDB0000767
+Colorectal cancer,HMDB0000772
+Schizophrenia,HMDB0000774
+Colorectal cancer,HMDB0000779
+Phenylketonuria,HMDB0000779
+Colorectal cancer,HMDB0000782
+Stomach cancer,HMDB0000784
+Colorectal cancer,HMDB0000784
+Eosinophilic esophagitis,HMDB0000784
+Uremia,HMDB0000788
+Celiac disease,HMDB0000791
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000791
+Glutaric aciduria II,HMDB0000791
+Ulcerative colitis,HMDB0000791
+Crohn's disease,HMDB0000791
+Colorectal cancer,HMDB0000791
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000791
+Obesity,HMDB0000791
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000792
+Colorectal cancer,HMDB0000792
+Eosinophilic esophagitis,HMDB0000792
+Ulcerative colitis,HMDB0000792
+Peroxisomal biogenesis defect,HMDB0000795
+Autism,HMDB0000798
+Pervasive developmental disorder not otherwise specified,HMDB0000798
+Colorectal cancer,HMDB0000801
+Peroxisomal biogenesis defect,HMDB0000801
+Colorectal cancer,HMDB0000802
+Schizophrenia,HMDB0000806
+Colorectal cancer,HMDB0000806
+Alzheimer's disease,HMDB0000807
+Frontotemporal dementia,HMDB0000807
+Lewy body disease,HMDB0000807
+Colorectal cancer,HMDB0000808
+Propionic acidemia,HMDB0000808
+Canavan disease,HMDB0000812
+Schizophrenia,HMDB0000812
+Obesity,HMDB0000812
+Colorectal cancer,HMDB0000812
+Eosinophilic esophagitis,HMDB0000812
+Crohn's disease,HMDB0000819
+Ulcerative colitis,HMDB0000819
+Celiac disease,HMDB0000820
+Crohn's disease,HMDB0000820
+Irritable bowel syndrome,HMDB0000820
+Ulcerative colitis,HMDB0000820
+Nonalcoholic fatty liver disease,HMDB0000820
+Heart failure,HMDB0000821
+Eosinophilic esophagitis,HMDB0000821
+Colorectal cancer,HMDB0000822
+Celiac disease,HMDB0000824
+Crohn's disease,HMDB0000824
+Ulcerative colitis,HMDB0000824
+Eosinophilic esophagitis,HMDB0000824
+Propionic acidemia,HMDB0000824
+Obesity,HMDB0000824
+Colorectal cancer,HMDB0000826
+Crohn's disease,HMDB0000826
+Schizophrenia,HMDB0000826
+Schizophrenia,HMDB0000827
+Crohn's disease,HMDB0000827
+Colorectal cancer,HMDB0000827
+Eosinophilic esophagitis,HMDB0000827
+Prostate cancer,HMDB0000828
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000832
+Colorectal cancer,HMDB0000840
+Crohn's disease,HMDB0000845
+Hydrocephalus,HMDB0000845
+Multiple sclerosis,HMDB0000845
+Parkinson's disease,HMDB0000845
+Uremia,HMDB0000845
+Ulcerative colitis,HMDB0000845
+Colorectal cancer,HMDB0000847
+Crohn's disease,HMDB0000847
+Schizophrenia,HMDB0000847
+Ulcerative colitis,HMDB0000847
+Celiac disease,HMDB0000848
+Colorectal cancer,HMDB0000848
+Obesity,HMDB0000848
+Colorectal cancer,HMDB0000849
+Rheumatoid arthritis,HMDB0000851
+Colorectal cancer,HMDB0000852
+Colorectal cancer,HMDB0000853
+Colorectal cancer,HMDB0000854
+Autosomal dominant polycystic kidney disease,HMDB0000855
+Colorectal cancer,HMDB0000857
+Eosinophilic esophagitis,HMDB0000857
+Eosinophilic esophagitis,HMDB0000858
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000860
+Propionic acidemia,HMDB0000860
+Alcoholism,HMDB0000863
+Early preeclampsia,HMDB0000863
+Late-onset preeclampsia,HMDB0000863
+Asthma,HMDB0000863
+Ulcerative colitis,HMDB0000863
+Nonalcoholic fatty liver disease,HMDB0000863
+Crohn's disease,HMDB0000863
+Eosinophilic esophagitis,HMDB0000863
+Autosomal dominant polycystic kidney disease,HMDB0000866
+Colorectal cancer,HMDB0000866
+Tyrosinemia I,HMDB0000866
+Kidney disease,HMDB0000870
+Colorectal cancer,HMDB0000870
+Eosinophilic esophagitis,HMDB0000870
+Colorectal cancer,HMDB0000872
+Colorectal cancer,HMDB0000873
+Colorectal cancer,HMDB0000874
+Colorectal cancer,HMDB0000875
+Lung Cancer,HMDB0000875
+Autosomal dominant polycystic kidney disease,HMDB0000875
+Eosinophilic esophagitis,HMDB0000875
+Colorectal cancer,HMDB0000878
+Alcoholism,HMDB0000879
+Thyroid cancer,HMDB0000879
+Major depressive disorder,HMDB0000879
+Inflammatory bowel disease,HMDB0000879
+Lipoid Congenital Adrenal Hyperplasia,HMDB0000879
+Colorectal cancer,HMDB0000881
+Eosinophilic esophagitis,HMDB0000881
+Phenylketonuria,HMDB0000883
+Epilepsy,HMDB0000883
+Maple syrup urine disease,HMDB0000883
+Alzheimer's disease,HMDB0000883
+Schizophrenia,HMDB0000883
+Early preeclampsia,HMDB0000883
+Late-onset preeclampsia,HMDB0000883
+Obesity,HMDB0000883
+Leukemia,HMDB0000883
+Crohn's disease,HMDB0000883
+Ulcerative colitis,HMDB0000883
+Irritable bowel syndrome,HMDB0000883
+Colorectal cancer,HMDB0000883
+Autism,HMDB0000883
+Diverticular disease,HMDB0000883
+Gout,HMDB0000883
+Rheumatoid arthritis,HMDB0000883
+Pancreatic cancer,HMDB0000883
+Periodontal disease,HMDB0000883
+Frontotemporal dementia,HMDB0000883
+Lewy body disease,HMDB0000883
+Lung Cancer,HMDB0000883
+Diabetes mellitus type 1,HMDB0000883
+Autosomal dominant polycystic kidney disease,HMDB0000883
+Eosinophilic esophagitis,HMDB0000883
+Colorectal cancer,HMDB0000884
+Colorectal cancer,HMDB0000888
+Ulcerative colitis,HMDB0000888
+Asthma,HMDB0000892
+Irritable bowel syndrome,HMDB0000892
+Ulcerative colitis,HMDB0000892
+Nonalcoholic fatty liver disease,HMDB0000892
+Diarrhoea predominant irritable bowel syndrome,HMDB0000892
+Colorectal cancer,HMDB0000892
+Celiac disease,HMDB0000892
+Autism,HMDB0000892
+Pervasive developmental disorder not otherwise specified,HMDB0000892
+Crohn's disease,HMDB0000892
+Diverticular disease,HMDB0000892
+Metastatic melanoma,HMDB0000892
+Eosinophilic esophagitis,HMDB0000892
+Colorectal cancer,HMDB0000893
+Eosinophilic esophagitis,HMDB0000893
+Schizophrenia,HMDB0000893
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000893
+Alzheimer's disease,HMDB0000895
+Hepatocellular carcinoma,HMDB0000896
+Cirrhosis,HMDB0000896
+Colorectal cancer,HMDB0000896
+Metastatic melanoma,HMDB0000896
+Colorectal cancer,HMDB0000897
+Alzheimer's disease,HMDB0000898
+Schizophrenia,HMDB0000898
+Crohn's disease,HMDB0000898
+Ulcerative colitis,HMDB0000898
+Epilepsy,HMDB0000904
+Alzheimer's disease,HMDB0000904
+Argininosuccinic aciduria,HMDB0000904
+Schizophrenia,HMDB0000904
+Colorectal cancer,HMDB0000904
+Crohn's disease,HMDB0000904
+Ulcerative colitis,HMDB0000904
+Gout,HMDB0000904
+Rheumatoid arthritis,HMDB0000904
+Pancreatic cancer,HMDB0000904
+Periodontal disease,HMDB0000904
+Frontotemporal dementia,HMDB0000904
+Lewy body disease,HMDB0000904
+Eosinophilic esophagitis,HMDB0000904
+Crohn's disease,HMDB0000906
+Irritable bowel syndrome,HMDB0000906
+Kidney disease,HMDB0000906
+Periodontal disease,HMDB0000906
+Uremia,HMDB0000906
+Pancreatic cancer,HMDB0000906
+Diverticular disease,HMDB0000906
+Eosinophilic esophagitis,HMDB0000906
+Ulcerative colitis,HMDB0000906
+Early preeclampsia,HMDB0000906
+Late-onset preeclampsia,HMDB0000906
+Cirrhosis,HMDB0000908
+Colorectal cancer,HMDB0000908
+Ulcerative colitis,HMDB0000910
+Autism,HMDB0000912
+Primary biliary cirrhosis,HMDB0000917
+Colorectal cancer,HMDB0000921
+Kidney disease,HMDB0000925
+Uremia,HMDB0000925
+Pancreatic cancer,HMDB0000925
+Colorectal cancer,HMDB0000925
+Celiac disease,HMDB0000925
+Inflammatory bowel disease,HMDB0000925
+Ulcerative colitis,HMDB0000925
+Crohn's disease,HMDB0000925
+Lung Cancer,HMDB0000925
+Argininosuccinic aciduria,HMDB0000925
+Propionic acidemia,HMDB0000925
+Tyrosinemia I,HMDB0000925
+Maple syrup urine disease,HMDB0000925
+Eosinophilic esophagitis,HMDB0000925
+Schizophrenia,HMDB0000925
+Ulcerative colitis,HMDB0000926
+Propionic acidemia,HMDB0000927
+Epilepsy,HMDB0000929
+Schizophrenia,HMDB0000929
+Alzheimer's disease,HMDB0000929
+Colorectal cancer,HMDB0000929
+Ovarian cancer,HMDB0000929
+Obesity,HMDB0000929
+Leukemia,HMDB0000929
+Hypothyroidism,HMDB0000929
+Celiac disease,HMDB0000929
+Irritable bowel syndrome,HMDB0000929
+Ulcerative colitis,HMDB0000929
+Autism,HMDB0000929
+Crohn's disease,HMDB0000929
+Rheumatoid arthritis,HMDB0000929
+Pancreatic cancer,HMDB0000929
+Periodontal disease,HMDB0000929
+Frontotemporal dementia,HMDB0000929
+Lewy body disease,HMDB0000929
+Eosinophilic esophagitis,HMDB0000929
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000933
+Colorectal cancer,HMDB0000933
+Colorectal cancer,HMDB0000937
+Parkinson's disease,HMDB0000939
+Alzheimer's disease,HMDB0000939
+Eosinophilic esophagitis,HMDB0000939
+Colorectal cancer,HMDB0000943
+Cystic fibrosis,HMDB0000943
+Stomach cancer,HMDB0000943
+Eosinophilic esophagitis,HMDB0000943
+Colorectal cancer,HMDB0000944
+Obesity,HMDB0000944
+Colorectal cancer,HMDB0000946
+Cystic fibrosis,HMDB0000946
+Primary biliary cirrhosis,HMDB0000946
+Colorectal cancer,HMDB0000947
+Biliary atresia,HMDB0000951
+Colorectal cancer,HMDB0000951
+Crohn's disease,HMDB0000951
+Ulcerative colitis,HMDB0000951
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0000953
+Propionic acidemia,HMDB0000953
+Colorectal cancer,HMDB0000954
+Eosinophilic esophagitis,HMDB0000954
+Lung Cancer,HMDB0000956
+Autosomal dominant polycystic kidney disease,HMDB0000957
+Schizophrenia,HMDB0000957
+Lung Cancer,HMDB0000958
+Eosinophilic esophagitis,HMDB0000958
+Propionic acidemia,HMDB0000959
+Crohn's disease,HMDB0000982
+Alcoholism,HMDB0000990
+Crohn's disease,HMDB0000990
+Ulcerative colitis,HMDB0000990
+Nonalcoholic fatty liver disease,HMDB0000990
+Colorectal cancer,HMDB0000991
+Colorectal cancer,HMDB0001008
+Colorectal cancer,HMDB0001015
+Prostate cancer,HMDB0001015
+Alzheimer's disease,HMDB0001032
+Lung Cancer,HMDB0001032
+Schizophrenia,HMDB0001032
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0001032
+11-beta-Hydroxylase deficiency,HMDB0001032
+Lipoid Congenital Adrenal Hyperplasia,HMDB0001032
+Colorectal cancer,HMDB0001032
+Rheumatoid arthritis,HMDB0001032
+Hypertension,HMDB0001035
+Multiple sclerosis,HMDB0001035
+Hypertension,HMDB0001036
+Colorectal cancer,HMDB0001043
+Schizophrenia,HMDB0001043
+Hypertension,HMDB0001043
+Cirrhosis,HMDB0001045
+Crohn's disease,HMDB0001049
+Schizophrenia,HMDB0001049
+Ulcerative colitis,HMDB0001049
+Crohn's disease,HMDB0001051
+Ulcerative colitis,HMDB0001051
+Cirrhosis,HMDB0001065
+Canavan disease,HMDB0001067
+Colorectal cancer,HMDB0001067
+Schizophrenia,HMDB0001067
+Alzheimer's disease,HMDB0001068
+Frontotemporal dementia,HMDB0001068
+Lewy body disease,HMDB0001068
+Colorectal cancer,HMDB0001078
+Hydrocephalus,HMDB0001085
+Meningitis,HMDB0001085
+Prostate cancer,HMDB0001104
+Uremia,HMDB0001123
+Colorectal cancer,HMDB0001123
+Eosinophilic esophagitis,HMDB0001123
+Colorectal cancer,HMDB0001129
+Colorectal cancer,HMDB0001138
+Prostate cancer,HMDB0001138
+Eosinophilic esophagitis,HMDB0001138
+Autism,HMDB0001140
+Celiac disease,HMDB0001140
+Crohn's disease,HMDB0001140
+Ulcerative colitis,HMDB0001140
+Pervasive developmental disorder not otherwise specified,HMDB0001140
+Nonalcoholic fatty liver disease,HMDB0001140
+Eosinophilic esophagitis,HMDB0001149
+Colorectal cancer,HMDB0001160
+Colorectal cancer,HMDB0001161
+Diabetes mellitus type 2,HMDB0001167
+Uremia,HMDB0001167
+Cirrhosis,HMDB0001170
+Colorectal cancer,HMDB0001170
+Colorectal cancer,HMDB0001173
+Autism,HMDB0001183
+Celiac disease,HMDB0001183
+Ulcerative colitis,HMDB0001183
+Pervasive developmental disorder not otherwise specified,HMDB0001183
+Celiac disease,HMDB0001184
+Ulcerative colitis,HMDB0001184
+Nonalcoholic fatty liver disease,HMDB0001184
+Diabetes mellitus type 2,HMDB0001185
+Leukemia,HMDB0001186
+Parkinson's disease,HMDB0001189
+Prostate cancer,HMDB0001191
+Hydrocephalus,HMDB0001198
+Subarachnoid hemorrhage,HMDB0001201
+Epilepsy,HMDB0001201
+Colorectal cancer,HMDB0001202
+Hydrocephalus,HMDB0001220
+Meningitis,HMDB0001220
+Colorectal cancer,HMDB0001227
+Schizophrenia,HMDB0001238
+Alzheimer's disease,HMDB0001247
+Multiple sclerosis,HMDB0001247
+Parkinson's disease,HMDB0001247
+Colorectal cancer,HMDB0001248
+Colorectal cancer,HMDB0001251
+Uremia,HMDB0001256
+Leukemia,HMDB0001256
+Uremia,HMDB0001257
+Colorectal cancer,HMDB0001257
+Crohn's disease,HMDB0001257
+Ulcerative colitis,HMDB0001257
+Alzheimer's disease,HMDB0001257
+Frontotemporal dementia,HMDB0001257
+Lewy body disease,HMDB0001257
+Leukemia,HMDB0001257
+Colorectal cancer,HMDB0001266
+Prostate cancer,HMDB0001266
+Schizophrenia,HMDB0001270
+Subarachnoid hemorrhage,HMDB0001273
+Epilepsy,HMDB0001273
+Thyroid cancer,HMDB0001276
+Leukemia,HMDB0001276
+Alzheimer's disease,HMDB0001302
+Multiple sclerosis,HMDB0001302
+Parkinson's disease,HMDB0001302
+Heart failure,HMDB0001304
+Early preeclampsia,HMDB0001310
+Late-onset preeclampsia,HMDB0001310
+Propionic acidemia,HMDB0001310
+Diabetes mellitus type 2,HMDB0001311
+Schizophrenia,HMDB0001311
+Colorectal cancer,HMDB0001316
+Obesity,HMDB0001319
+Colorectal cancer,HMDB0001325
+Alzheimer's disease,HMDB0001333
+Multiple sclerosis,HMDB0001333
+Parkinson's disease,HMDB0001333
+Hypothyroidism,HMDB0001336
+Alzheimer's disease,HMDB0001336
+Colorectal cancer,HMDB0001336
+Subarachnoid hemorrhage,HMDB0001341
+Epilepsy,HMDB0001341
+Eosinophilic esophagitis,HMDB0001341
+Obesity,HMDB0001348
+Colorectal cancer,HMDB0001348
+Eosinophilic esophagitis,HMDB0001348
+Colorectal cancer,HMDB0001352
+Periodontal disease,HMDB0001369
+Pancreatic cancer,HMDB0001369
+Colorectal cancer,HMDB0001370
+Alzheimer's disease,HMDB0001372
+Thyroid cancer,HMDB0001388
+Colorectal cancer,HMDB0001388
+Major depressive disorder,HMDB0001388
+Hypertension,HMDB0001388
+Uremia,HMDB0001389
+Colorectal cancer,HMDB0001392
+Colorectal cancer,HMDB0001401
+Alzheimer's disease,HMDB0001401
+Frontotemporal dementia,HMDB0001401
+Lewy body disease,HMDB0001401
+Eosinophilic esophagitis,HMDB0001401
+Subarachnoid hemorrhage,HMDB0001403
+Hydrocephalus,HMDB0001403
+Meningitis,HMDB0001403
+Uremia,HMDB0001406
+Crohn's disease,HMDB0001406
+Ulcerative colitis,HMDB0001406
+Diverticular disease,HMDB0001406
+Colorectal cancer,HMDB0001406
+Uremia,HMDB0001414
+Irritable bowel syndrome,HMDB0001414
+Ulcerative colitis,HMDB0001414
+Crohn's disease,HMDB0001414
+Periodontal disease,HMDB0001414
+Alzheimer's disease,HMDB0001414
+Frontotemporal dementia,HMDB0001414
+Lewy body disease,HMDB0001414
+Pancreatic cancer,HMDB0001414
+Leukemia,HMDB0001414
+Eosinophilic esophagitis,HMDB0001414
+Colorectal cancer,HMDB0001414
+Alzheimer's disease,HMDB0001419
+Subarachnoid hemorrhage,HMDB0001419
+Meningitis,HMDB0001419
+Multiple sclerosis,HMDB0001419
+Inflammatory bowel disease,HMDB0001419
+Obesity,HMDB0001425
+Colorectal cancer,HMDB0001429
+Colorectal cancer,HMDB0001432
+Metastatic melanoma,HMDB0001448
+Alcoholism,HMDB0001449
+Major depressive disorder,HMDB0001449
+Head injury,HMDB0001452
+Hepatocellular carcinoma,HMDB0001452
+Crohn's disease,HMDB0001453
+Uremia,HMDB0001453
+Ulcerative colitis,HMDB0001453
+Schizophrenia,HMDB0001455
+Schizophrenia,HMDB0001471
+Alzheimer's disease,HMDB0001473
+Frontotemporal dementia,HMDB0001473
+Lewy body disease,HMDB0001473
+Parkinson's disease,HMDB0001475
+Asthma,HMDB0001485
+Autism,HMDB0001485
+Ulcerative colitis,HMDB0001485
+Pervasive developmental disorder not otherwise specified,HMDB0001485
+Nonalcoholic fatty liver disease,HMDB0001485
+Alcoholism,HMDB0001488
+Colorectal cancer,HMDB0001488
+Crohn's disease,HMDB0001488
+Ulcerative colitis,HMDB0001488
+Schizophrenia,HMDB0001490
+Epilepsy,HMDB0001490
+Major depressive disorder,HMDB0001490
+Parkinson's disease,HMDB0001490
+Rheumatoid arthritis,HMDB0001491
+Celiac disease,HMDB0001491
+Colorectal cancer,HMDB0001492
+Schizophrenia,HMDB0001492
+Prostate cancer,HMDB0001492
+Cirrhosis,HMDB0001496
+Multiple sclerosis,HMDB0001496
+Colorectal cancer,HMDB0001496
+Autism,HMDB0001505
+Celiac disease,HMDB0001505
+Pervasive developmental disorder not otherwise specified,HMDB0001505
+Eosinophilic esophagitis,HMDB0001511
+Colorectal cancer,HMDB0001514
+Colorectal cancer,HMDB0001520
+Metastatic melanoma,HMDB0001520
+Chronic renal failure,HMDB0001522
+Uremia,HMDB0001522
+Pancreatic cancer,HMDB0001522
+Eosinophilic esophagitis,HMDB0001522
+Cirrhosis,HMDB0001527
+Colorectal cancer,HMDB0001527
+Kidney disease,HMDB0001539
+Uremia,HMDB0001539
+Colorectal cancer,HMDB0001539
+Autosomal dominant polycystic kidney disease,HMDB0001539
+Colorectal cancer,HMDB0001545
+Ulcerative colitis,HMDB0001548
+Crohn's disease,HMDB0001548
+Alzheimer's disease,HMDB0001548
+Frontotemporal dementia,HMDB0001548
+Lewy body disease,HMDB0001548
+Kidney disease,HMDB0001563
+Uremia,HMDB0001563
+Colorectal cancer,HMDB0001563
+Lung Cancer,HMDB0001565
+Alzheimer's disease,HMDB0001565
+Colorectal cancer,HMDB0001565
+Alzheimer's disease,HMDB0001586
+Frontotemporal dementia,HMDB0001586
+Lewy body disease,HMDB0001586
+Colorectal cancer,HMDB0001644
+Colorectal cancer,HMDB0001645
+Alcoholism,HMDB0001659
+Asthma,HMDB0001659
+Celiac disease,HMDB0001659
+Crohn's disease,HMDB0001659
+Diabetes mellitus type 2,HMDB0001659
+Irritable bowel syndrome,HMDB0001659
+Kidney disease,HMDB0001659
+Lung Cancer,HMDB0001659
+Pancreatic cancer,HMDB0001659
+Eosinophilic esophagitis,HMDB0001659
+Ulcerative colitis,HMDB0001659
+Early preeclampsia,HMDB0001659
+Late-onset preeclampsia,HMDB0001659
+Nonalcoholic fatty liver disease,HMDB0001659
+Eosinophilic esophagitis,HMDB0001713
+Alcoholism,HMDB0001830
+Major depressive disorder,HMDB0001830
+Schizophrenia,HMDB0001830
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0001830
+Chronic renal failure,HMDB0001842
+Cirrhosis,HMDB0001842
+Uremia,HMDB0001842
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0001844
+Colorectal cancer,HMDB0001844
+Irritable bowel syndrome,HMDB0001844
+Eosinophilic esophagitis,HMDB0001844
+Ulcerative colitis,HMDB0001844
+Head injury,HMDB0001847
+Colorectal cancer,HMDB0001847
+Metastatic melanoma,HMDB0001847
+Asthma,HMDB0001847
+Eosinophilic esophagitis,HMDB0001847
+Uremia,HMDB0001851
+Alzheimer's disease,HMDB0001851
+Colorectal cancer,HMDB0001851
+Schizophrenia,HMDB0001855
+Leukemia,HMDB0001855
+Parkinson's disease,HMDB0001855
+Colorectal cancer,HMDB0001856
+Asthma,HMDB0001857
+Colorectal cancer,HMDB0001857
+Inflammatory bowel disease,HMDB0001857
+Eosinophilic esophagitis,HMDB0001857
+Autism,HMDB0001858
+Celiac disease,HMDB0001858
+Colorectal cancer,HMDB0001858
+Crohn's disease,HMDB0001858
+Diarrhoea predominant irritable bowel syndrome,HMDB0001858
+Irritable bowel syndrome,HMDB0001858
+Uremia,HMDB0001858
+Eosinophilic esophagitis,HMDB0001858
+Ulcerative colitis,HMDB0001858
+Pervasive developmental disorder not otherwise specified,HMDB0001858
+Nonalcoholic fatty liver disease,HMDB0001858
+Colorectal cancer,HMDB0001859
+Eosinophilic esophagitis,HMDB0001859
+Head injury,HMDB0001860
+Colorectal cancer,HMDB0001860
+Asthma,HMDB0001860
+Eosinophilic esophagitis,HMDB0001860
+Eosinophilic esophagitis,HMDB0001867
+Schizophrenia,HMDB0001870
+Asthma,HMDB0001870
+Colorectal cancer,HMDB0001870
+Metastatic melanoma,HMDB0001870
+Eosinophilic esophagitis,HMDB0001870
+Eosinophilic esophagitis,HMDB0001871
+Early preeclampsia,HMDB0001873
+Irritable bowel syndrome,HMDB0001873
+Ulcerative colitis,HMDB0001873
+Nonalcoholic fatty liver disease,HMDB0001873
+Colorectal cancer,HMDB0001873
+Celiac disease,HMDB0001873
+Crohn's disease,HMDB0001873
+Eosinophilic esophagitis,HMDB0001873
+Alcoholism,HMDB0001875
+Crohn's disease,HMDB0001875
+Diarrhoea predominant irritable bowel syndrome,HMDB0001875
+Rheumatoid arthritis,HMDB0001875
+Diverticular disease,HMDB0001875
+Eosinophilic esophagitis,HMDB0001875
+Ulcerative colitis,HMDB0001875
+Nonalcoholic fatty liver disease,HMDB0001875
+Eosinophilic esophagitis,HMDB0001878
+Asthma,HMDB0001881
+Cirrhosis,HMDB0001881
+Colorectal cancer,HMDB0001881
+Lung Cancer,HMDB0001881
+Eosinophilic esophagitis,HMDB0001881
+Early preeclampsia,HMDB0001881
+Late-onset preeclampsia,HMDB0001881
+Autosomal dominant polycystic kidney disease,HMDB0001882
+Colorectal cancer,HMDB0001882
+Asthma,HMDB0001885
+Eosinophilic esophagitis,HMDB0001885
+Asthma,HMDB0001886
+Autosomal dominant polycystic kidney disease,HMDB0001886
+Colorectal cancer,HMDB0001886
+Eosinophilic esophagitis,HMDB0001886
+Head injury,HMDB0001889
+Colorectal cancer,HMDB0001889
+Asthma,HMDB0001889
+Abetalipoproteinemia,HMDB0001893
+Parkinson's disease,HMDB0001893
+Colorectal cancer,HMDB0001893
+Colorectal cancer,HMDB0001895
+Autosomal dominant polycystic kidney disease,HMDB0001895
+Eosinophilic esophagitis,HMDB0001895
+Leukemia,HMDB0001896
+Alzheimer's disease,HMDB0001897
+Meningitis,HMDB0001904
+Head injury,HMDB0001904
+Crohn's disease,HMDB0001906
+Ulcerative colitis,HMDB0001906
+Heart failure,HMDB0001917
+Colorectal cancer,HMDB0001921
+Colorectal cancer,HMDB0001923
+Eosinophilic esophagitis,HMDB0001925
+Prostate cancer,HMDB0001926
+Colorectal cancer,HMDB0001928
+Colorectal cancer,HMDB0001929
+Colorectal cancer,HMDB0001931
+Colorectal cancer,HMDB0001932
+Colorectal cancer,HMDB0001933
+Colorectal cancer,HMDB0001943
+Colorectal cancer,HMDB0001954
+Alzheimer's disease,HMDB0001960
+Multiple sclerosis,HMDB0001960
+Parkinson's disease,HMDB0001960
+Colorectal cancer,HMDB0001964
+Thyroid cancer,HMDB0001976
+Colorectal cancer,HMDB0001976
+Colorectal cancer,HMDB0001982
+Obesity,HMDB0001982
+Eosinophilic esophagitis,HMDB0001987
+Colorectal cancer,HMDB0001988
+Alzheimer's disease,HMDB0001989
+Multiple sclerosis,HMDB0001989
+Parkinson's disease,HMDB0001989
+Asthma,HMDB0001991
+Colorectal cancer,HMDB0001991
+Alcoholism,HMDB0001993
+Crohn's disease,HMDB0001993
+Irritable bowel syndrome,HMDB0001993
+Diverticular disease,HMDB0001993
+Colorectal cancer,HMDB0001999
+Major depressive disorder,HMDB0001999
+Hypertension,HMDB0001999
+Colorectal cancer,HMDB0002000
+Colorectal cancer,HMDB0002003
+Major depressive disorder,HMDB0002004
+Colorectal cancer,HMDB0002005
+Eosinophilic esophagitis,HMDB0002005
+Multiple sclerosis,HMDB0002012
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0002013
+Celiac disease,HMDB0002013
+Obesity,HMDB0002013
+Glutaric aciduria II,HMDB0002013
+Eosinophilic esophagitis,HMDB0002013
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0002014
+Obesity,HMDB0002014
+Eosinophilic esophagitis,HMDB0002014
+Colorectal cancer,HMDB0002017
+Parkinson's disease,HMDB0002017
+Colorectal cancer,HMDB0002019
+11-beta-Hydroxylase deficiency,HMDB0002030
+Cirrhosis,HMDB0002030
+Diabetes mellitus type 2,HMDB0002030
+Kidney disease,HMDB0002030
+Alzheimer's disease,HMDB0002032
+Colorectal cancer,HMDB0002032
+Diabetes mellitus type 2,HMDB0002032
+Colorectal cancer,HMDB0002035
+Alzheimer's disease,HMDB0002044
+Parkinson's disease,HMDB0002044
+Nonalcoholic fatty liver disease,HMDB0002048
+Celiac disease,HMDB0002055
+Biliary atresia,HMDB0002061
+Diabetes mellitus type 2,HMDB0002061
+Epilepsy,HMDB0002061
+Head injury,HMDB0002061
+Meningitis,HMDB0002061
+Uremia,HMDB0002061
+Colorectal cancer,HMDB0002064
+Leukemia,HMDB0002064
+Colorectal cancer,HMDB0002068
+Colorectal cancer,HMDB0002085
+Colorectal cancer,HMDB0002088
+Late-onset preeclampsia,HMDB0002095
+Schizophrenia,HMDB0002096
+Colorectal cancer,HMDB0002100
+Alzheimer's disease,HMDB0002103
+Subarachnoid hemorrhage,HMDB0002103
+Meningitis,HMDB0002103
+Multiple sclerosis,HMDB0002103
+Colorectal cancer,HMDB0002107
+Eosinophilic esophagitis,HMDB0002107
+Colorectal cancer,HMDB0002117
+Asthma,HMDB0002123
+Colorectal cancer,HMDB0002123
+Colorectal cancer,HMDB0002124
+Peroxisomal biogenesis defect,HMDB0002163
+Leukemia,HMDB0002172
+Cystic fibrosis,HMDB0002174
+Multiple sclerosis,HMDB0002174
+Alzheimer's disease,HMDB0002175
+Multiple sclerosis,HMDB0002175
+Parkinson's disease,HMDB0002175
+Autism,HMDB0002176
+Celiac disease,HMDB0002176
+Crohn's disease,HMDB0002176
+Irritable bowel syndrome,HMDB0002176
+Ulcerative colitis,HMDB0002176
+Pervasive developmental disorder not otherwise specified,HMDB0002176
+Nonalcoholic fatty liver disease,HMDB0002176
+Multiple sclerosis,HMDB0002179
+Thyroid cancer,HMDB0002183
+Colorectal cancer,HMDB0002183
+Major depressive disorder,HMDB0002183
+Hypertension,HMDB0002183
+Thyroid cancer,HMDB0002189
+Leukemia,HMDB0002189
+Alzheimer's disease,HMDB0002196
+Multiple sclerosis,HMDB0002196
+Parkinson's disease,HMDB0002196
+Colorectal cancer,HMDB0002199
+Irritable bowel syndrome,HMDB0002199
+Ulcerative colitis,HMDB0002199
+Colorectal cancer,HMDB0002203
+Schizophrenia,HMDB0002212
+Colorectal cancer,HMDB0002212
+Colorectal cancer,HMDB0002231
+Schizophrenia,HMDB0002231
+Celiac disease,HMDB0002250
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0002250
+Obesity,HMDB0002250
+Colorectal cancer,HMDB0002259
+Schizophrenia,HMDB0002259
+Colorectal cancer,HMDB0002261
+Colorectal cancer,HMDB0002264
+Colorectal cancer,HMDB0002269
+Colorectal cancer,HMDB0002271
+Colorectal cancer,HMDB0002284
+Leukemia,HMDB0002284
+Colorectal cancer,HMDB0002302
+Crohn's disease,HMDB0002303
+Ulcerative colitis,HMDB0002303
+Nonalcoholic fatty liver disease,HMDB0002303
+Schizophrenia,HMDB0002320
+Kidney disease,HMDB0002322
+Irritable bowel syndrome,HMDB0002322
+Ulcerative colitis,HMDB0002322
+Colorectal cancer,HMDB0002322
+Crohn's disease,HMDB0002322
+Pancreatic cancer,HMDB0002322
+Periodontal disease,HMDB0002322
+Thyroid cancer,HMDB0002322
+Leukemia,HMDB0002322
+Colorectal cancer,HMDB0002327
+Uremia,HMDB0002329
+Colorectal cancer,HMDB0002350
+Peroxisomal biogenesis defect,HMDB0002356
+Colorectal cancer,HMDB0002364
+Celiac disease,HMDB0002366
+Colorectal cancer,HMDB0002368
+Colorectal cancer,HMDB0002372
+Eosinophilic esophagitis,HMDB0002372
+Alzheimer's disease,HMDB0002387
+Parkinson's disease,HMDB0002387
+Colorectal cancer,HMDB0002395
+Colorectal cancer,HMDB0002432
+Eosinophilic esophagitis,HMDB0002432
+Uremia,HMDB0002434
+Eosinophilic esophagitis,HMDB0002453
+Alzheimer's disease,HMDB0002457
+Multiple sclerosis,HMDB0002457
+Parkinson's disease,HMDB0002457
+Colorectal cancer,HMDB0002466
+Hepatocellular carcinoma,HMDB0002497
+Cirrhosis,HMDB0002497
+Alzheimer's disease,HMDB0002503
+Multiple sclerosis,HMDB0002503
+Parkinson's disease,HMDB0002503
+Colorectal cancer,HMDB0002520
+Colorectal cancer,HMDB0002545
+Colorectal cancer,HMDB0002580
+Cirrhosis,HMDB0002639
+Colorectal cancer,HMDB0002639
+Autism,HMDB0002643
+Eosinophilic esophagitis,HMDB0002643
+Schizophrenia,HMDB0002649
+Colorectal cancer,HMDB0002658
+Prostate cancer,HMDB0002658
+Autosomal dominant polycystic kidney disease,HMDB0002658
+Diabetes mellitus type 2,HMDB0002658
+Alzheimer's disease,HMDB0002666
+Colorectal cancer,HMDB0002670
+Alzheimer's disease,HMDB0002712
+Diabetes mellitus type 2,HMDB0002712
+Pancreatic cancer,HMDB0002712
+Crohn's disease,HMDB0002714
+Ulcerative colitis,HMDB0002714
+Primary biliary cirrhosis,HMDB0002719
+Uremia,HMDB0002721
+Hypothyroidism,HMDB0002728
+Colorectal cancer,HMDB0002759
+Schizophrenia,HMDB0002776
+Colorectal cancer,HMDB0002780
+Diabetes mellitus type 1,HMDB0002789
+Obesity,HMDB0002789
+Ovarian cancer,HMDB0002802
+Rheumatoid arthritis,HMDB0002802
+Obesity,HMDB0002815
+Cirrhosis,HMDB0002815
+Colorectal cancer,HMDB0002815
+Periodontal disease,HMDB0002820
+Pancreatic cancer,HMDB0002820
+Colorectal cancer,HMDB0002823
+Head injury,HMDB0002825
+Colorectal cancer,HMDB0002825
+Asthma,HMDB0002825
+Autosomal dominant polycystic kidney disease,HMDB0002825
+Colorectal cancer,HMDB0002869
+Kidney disease,HMDB0002878
+Hydrocephalus,HMDB0002886
+Meningitis,HMDB0002886
+Rheumatoid arthritis,HMDB0002886
+Colorectal cancer,HMDB0002902
+Colorectal cancer,HMDB0002917
+Hepatocellular carcinoma,HMDB0002917
+Kidney disease,HMDB0002923
+Colorectal cancer,HMDB0002925
+Autism,HMDB0002939
+Celiac disease,HMDB0002939
+Ulcerative colitis,HMDB0002939
+Pervasive developmental disorder not otherwise specified,HMDB0002939
+Alcoholism,HMDB0002961
+Major depressive disorder,HMDB0002961
+Prostate cancer,HMDB0002985
+Uremia,HMDB0002994
+Colorectal cancer,HMDB0002994
+Diabetes mellitus type 1,HMDB0003000
+Obesity,HMDB0003000
+Schizophrenia,HMDB0003069
+Prostate cancer,HMDB0003070
+Prostate cancer,HMDB0003072
+Colorectal cancer,HMDB0003072
+Lung Cancer,HMDB0003073
+Colorectal cancer,HMDB0003073
+Canavan disease,HMDB0003099
+Colorectal cancer,HMDB0003099
+Uremia,HMDB0003119
+Asthma,HMDB0003119
+Ulcerative colitis,HMDB0003119
+Cirrhosis,HMDB0003148
+Uremia,HMDB0003148
+Diabetes mellitus type 2,HMDB0003152
+Cirrhosis,HMDB0003156
+Colorectal cancer,HMDB0003156
+Cirrhosis,HMDB0003157
+Chronic renal failure,HMDB0003157
+Uremia,HMDB0003157
+Colorectal cancer,HMDB0003178
+Colorectal cancer,HMDB0003213
+Sepsis,HMDB0003213
+Colorectal cancer,HMDB0003217
+Colorectal cancer,HMDB0003224
+Cirrhosis,HMDB0003227
+Crohn's disease,HMDB0003227
+Ulcerative colitis,HMDB0003227
+Nonalcoholic fatty liver disease,HMDB0003227
+Cirrhosis,HMDB0003229
+Colorectal cancer,HMDB0003229
+11-beta-Hydroxylase deficiency,HMDB0003231
+Colorectal cancer,HMDB0003231
+Obesity,HMDB0003231
+Diabetes mellitus type 1,HMDB0003233
+Obesity,HMDB0003233
+Colorectal cancer,HMDB0003236
+Ulcerative colitis,HMDB0003243
+Celiac disease,HMDB0003243
+Eosinophilic esophagitis,HMDB0003243
+Hydrocephalus,HMDB0003252
+Meningitis,HMDB0003252
+Autosomal dominant polycystic kidney disease,HMDB0003269
+Colorectal cancer,HMDB0003312
+Crohn's disease,HMDB0003315
+Ulcerative colitis,HMDB0003315
+Colorectal cancer,HMDB0003320
+Metastatic melanoma,HMDB0003320
+Leukemia,HMDB0003331
+Ovarian cancer,HMDB0003331
+Uremia,HMDB0003331
+Kidney disease,HMDB0003331
+Stomach cancer,HMDB0003331
+Hepatocellular carcinoma,HMDB0003331
+Colorectal cancer,HMDB0003331
+Kidney disease,HMDB0003333
+Uremia,HMDB0003333
+Kidney disease,HMDB0003334
+Uremia,HMDB0003334
+Crohn's disease,HMDB0003334
+Ulcerative colitis,HMDB0003334
+Colorectal cancer,HMDB0003334
+Autosomal dominant polycystic kidney disease,HMDB0003334
+Canavan disease,HMDB0003337
+Schizophrenia,HMDB0003337
+Multiple sclerosis,HMDB0003337
+Alzheimer's disease,HMDB0003337
+Frontotemporal dementia,HMDB0003337
+Lewy body disease,HMDB0003337
+Alzheimer's disease,HMDB0003339
+Autosomal dominant polycystic kidney disease,HMDB0003339
+Colorectal cancer,HMDB0003339
+Crohn's disease,HMDB0003339
+Schizophrenia,HMDB0003339
+Frontotemporal dementia,HMDB0003339
+Irritable bowel syndrome,HMDB0003339
+Ulcerative colitis,HMDB0003339
+Lewy body disease,HMDB0003339
+Irritable bowel syndrome,HMDB0003345
+Ulcerative colitis,HMDB0003345
+Gout,HMDB0003345
+Rheumatoid arthritis,HMDB0003345
+Celiac disease,HMDB0003352
+Pervasive developmental disorder not otherwise specified,HMDB0003352
+Nonalcoholic fatty liver disease,HMDB0003352
+Irritable bowel syndrome,HMDB0003355
+Ulcerative colitis,HMDB0003355
+Colorectal cancer,HMDB0003355
+Eosinophilic esophagitis,HMDB0003357
+Colorectal cancer,HMDB0003363
+Crohn's disease,HMDB0003366
+Ulcerative colitis,HMDB0003366
+Nonalcoholic fatty liver disease,HMDB0003366
+Colorectal cancer,HMDB0003371
+Colorectal cancer,HMDB0003374
+Asthma,HMDB0003375
+Autism,HMDB0003375
+Ulcerative colitis,HMDB0003375
+Pervasive developmental disorder not otherwise specified,HMDB0003375
+Nonalcoholic fatty liver disease,HMDB0003375
+Subarachnoid hemorrhage,HMDB0003378
+Eosinophilic esophagitis,HMDB0003391
+Autosomal dominant polycystic kidney disease,HMDB0003406
+Schizophrenia,HMDB0003406
+Ulcerative colitis,HMDB0003407
+Nonalcoholic fatty liver disease,HMDB0003407
+Celiac disease,HMDB0003407
+Crohn's disease,HMDB0003407
+Autosomal dominant polycystic kidney disease,HMDB0003411
+Ulcerative colitis,HMDB0003424
+Colorectal cancer,HMDB0003424
+Prostate cancer,HMDB0003431
+Prostate cancer,HMDB0003459
+Cirrhosis,HMDB0003464
+Uremia,HMDB0003464
+Colorectal cancer,HMDB0003464
+Prostate cancer,HMDB0003466
+Crohn's disease,HMDB0003543
+Ulcerative colitis,HMDB0003543
+"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",HMDB0003550
+Uremia,HMDB0003584
+Alzheimer's disease,HMDB0003625
+Multiple sclerosis,HMDB0003625
+Parkinson's disease,HMDB0003625
+Parkinson's disease,HMDB0003626
+Alzheimer's disease,HMDB0003638
+Multiple sclerosis,HMDB0003638
+Parkinson's disease,HMDB0003638
+Alzheimer's disease,HMDB0003642
+Multiple sclerosis,HMDB0003642
+Parkinson's disease,HMDB0003642
+Colorectal cancer,HMDB0003646
+Eosinophilic esophagitis,HMDB0003646
+Celiac disease,HMDB0003671
+Crohn's disease,HMDB0003671
+Ulcerative colitis,HMDB0003671
+Nonalcoholic fatty liver disease,HMDB0003671
+Colorectal cancer,HMDB0003681
+Prostate cancer,HMDB0003701
+Alcoholism,HMDB0003759
+Major depressive disorder,HMDB0003759
+Schizophrenia,HMDB0003759
+Colorectal cancer,HMDB0003818
+Alzheimer's disease,HMDB0003869
+Peroxisomal biogenesis defect,HMDB0003876
+Parkinson's disease,HMDB0003892
+Colorectal cancer,HMDB0003911
+Eosinophilic esophagitis,HMDB0003911
+Alzheimer's disease,HMDB0003933
+Uremia,HMDB0003933
+Prostate cancer,HMDB0003966
+Inflammatory bowel disease,HMDB0003990
+Diabetes mellitus type 1,HMDB0003993
+Obesity,HMDB0003993
+Schizophrenia,HMDB0004025
+21-Hydroxylase deficiency,HMDB0004030
+11-beta-Hydroxylase deficiency,HMDB0004030
+Colorectal cancer,HMDB0004041
+Prostate cancer,HMDB0004041
+Nonalcoholic fatty liver disease,HMDB0004043
+Uremia,HMDB0004044
+Chronic renal failure,HMDB0004068
+Epilepsy,HMDB0004080
+Parkinson's disease,HMDB0004087
+Multiple sclerosis,HMDB0004118
+Colorectal cancer,HMDB0004136
+Uremia,HMDB0004136
+Alzheimer's disease,HMDB0004142
+Multiple sclerosis,HMDB0004142
+Parkinson's disease,HMDB0004142
+Cirrhosis,HMDB0004157
+Colorectal cancer,HMDB0004157
+Hepatocellular carcinoma,HMDB0004157
+Colorectal cancer,HMDB0004158
+Crohn's disease,HMDB0004158
+Ulcerative colitis,HMDB0004158
+Cirrhosis,HMDB0004160
+Colorectal cancer,HMDB0004160
+Crohn's disease,HMDB0004160
+Hepatocellular carcinoma,HMDB0004160
+Ulcerative colitis,HMDB0004160
+Uremia,HMDB0004193
+Colorectal cancer,HMDB0004193
+Uremia,HMDB0004194
+Colorectal cancer,HMDB0004207
+Cirrhosis,HMDB0004225
+Hypothyroidism,HMDB0004225
+Uremia,HMDB0004225
+Colorectal cancer,HMDB0004231
+Prostate cancer,HMDB0004246
+Meningitis,HMDB0004259
+Ulcerative colitis,HMDB0004259
+Colorectal cancer,HMDB0004284
+Celiac disease,HMDB0004327
+Crohn's disease,HMDB0004327
+Diabetes mellitus type 2,HMDB0004327
+Irritable bowel syndrome,HMDB0004327
+Ulcerative colitis,HMDB0004327
+Nonalcoholic fatty liver disease,HMDB0004327
+Alzheimer's disease,HMDB0004362
+Colorectal cancer,HMDB0004362
+Parkinson's disease,HMDB0004362
+Uremia,HMDB0004362
+Kidney disease,HMDB0004363
+Major depressive disorder,HMDB0004370
+Colorectal cancer,HMDB0004400
+Nonalcoholic fatty liver disease,HMDB0004472
+Schizophrenia,HMDB0004586
+Colorectal cancer,HMDB0004610
+Uremia,HMDB0004620
+Colorectal cancer,HMDB0004620
+Alzheimer's disease,HMDB0004628
+Multiple sclerosis,HMDB0004628
+Parkinson's disease,HMDB0004628
+Head injury,HMDB0004645
+Colorectal cancer,HMDB0004666
+Epilepsy,HMDB0004666
+Autosomal dominant polycystic kidney disease,HMDB0004667
+Colorectal cancer,HMDB0004667
+Colorectal cancer,HMDB0004670
+Ovarian cancer,HMDB0004813
+Autism,HMDB0004814
+Celiac disease,HMDB0004814
+Diabetes mellitus type 2,HMDB0004814
+Kidney disease,HMDB0004814
+Pervasive developmental disorder not otherwise specified,HMDB0004814
+Nonalcoholic fatty liver disease,HMDB0004814
+Kidney disease,HMDB0004824
+Uremia,HMDB0004824
+Hypertension,HMDB0004825
+Cirrhosis,HMDB0004825
+Hypertension,HMDB0004826
+Colorectal cancer,HMDB0004827
+Abetalipoproteinemia,HMDB0004844
+Abetalipoproteinemia,HMDB0004866
+Abetalipoproteinemia,HMDB0004877
+Abetalipoproteinemia,HMDB0004880
+Abetalipoproteinemia,HMDB0004882
+Abetalipoproteinemia,HMDB0004884
+Abetalipoproteinemia,HMDB0004886
+Colorectal cancer,HMDB0004947
+Colorectal cancer,HMDB0004948
+Ovarian cancer,HMDB0004949
+Colorectal cancer,HMDB0004949
+Colorectal cancer,HMDB0004950
+Colorectal cancer,HMDB0004951
+Colorectal cancer,HMDB0004952
+Colorectal cancer,HMDB0004953
+Colorectal cancer,HMDB0004955
+Colorectal cancer,HMDB0004956
+Colorectal cancer,HMDB0004957
+Abetalipoproteinemia,HMDB0004958
+Obesity,HMDB0004969
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0004982
+Eosinophilic esophagitis,HMDB0004983
+Hypertension,HMDB0004989
+Metastatic melanoma,HMDB0004989
+Colorectal cancer,HMDB0005006
+Sepsis,HMDB0005006
+Colorectal cancer,HMDB0005015
+Primary biliary cirrhosis,HMDB0005047
+Colorectal cancer,HMDB0005060
+Colorectal cancer,HMDB0005065
+Obesity,HMDB0005065
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0005066
+Glutaric aciduria II,HMDB0005066
+Obesity,HMDB0005066
+Colorectal cancer,HMDB0005199
+Hypertension,HMDB0005199
+Parkinson's disease,HMDB0005199
+Colorectal cancer,HMDB0005781
+Colorectal cancer,HMDB0005782
+Diabetes mellitus type 2,HMDB0005794
+Colorectal cancer,HMDB0005800
+Colorectal cancer,HMDB0005801
+Diarrhoea predominant irritable bowel syndrome,HMDB0005806
+Nonalcoholic fatty liver disease,HMDB0005806
+Colorectal cancer,HMDB0005807
+Colorectal cancer,HMDB0005810
+Autism,HMDB0005812
+Pervasive developmental disorder not otherwise specified,HMDB0005812
+Thyroid cancer,HMDB0005821
+Prostate cancer,HMDB0005831
+Nonalcoholic fatty liver disease,HMDB0005841
+Celiac disease,HMDB0005842
+Crohn's disease,HMDB0005842
+Ulcerative colitis,HMDB0005842
+Nonalcoholic fatty liver disease,HMDB0005842
+Nonalcoholic fatty liver disease,HMDB0005843
+Autism,HMDB0005879
+Celiac disease,HMDB0005879
+Crohn's disease,HMDB0005879
+Irritable bowel syndrome,HMDB0005879
+Ulcerative colitis,HMDB0005879
+Pervasive developmental disorder not otherwise specified,HMDB0005879
+Nonalcoholic fatty liver disease,HMDB0005879
+Uremia,HMDB0005923
+Alzheimer's disease,HMDB0005949
+Multiple sclerosis,HMDB0005949
+Parkinson's disease,HMDB0005949
+Uremia,HMDB0005960
+11-beta-Hydroxylase deficiency,HMDB0005972
+Thyroid cancer,HMDB0005972
+Celiac disease,HMDB0005994
+Crohn's disease,HMDB0005994
+Uremia,HMDB0005994
+Ulcerative colitis,HMDB0005994
+Nonalcoholic fatty liver disease,HMDB0005994
+Hypertension,HMDB0005998
+Ulcerative colitis,HMDB0006006
+Nonalcoholic fatty liver disease,HMDB0006006
+Celiac disease,HMDB0006007
+Ulcerative colitis,HMDB0006007
+Autosomal dominant polycystic kidney disease,HMDB0006029
+Colorectal cancer,HMDB0006029
+Eosinophilic esophagitis,HMDB0006029
+11-beta-Hydroxylase deficiency,HMDB0006070
+Alcoholism,HMDB0006088
+Colorectal cancer,HMDB0006088
+Diabetes mellitus type 2,HMDB0006088
+Colorectal cancer,HMDB0006101
+Peroxisomal biogenesis defect,HMDB0006111
+Schizophrenia,HMDB0006112
+Multiple sclerosis,HMDB0006112
+Parkinson's disease,HMDB0006112
+Uremia,HMDB0006112
+Ulcerative colitis,HMDB0006115
+Celiac disease,HMDB0006115
+Nonalcoholic fatty liver disease,HMDB0006115
+Autism,HMDB0006115
+Pervasive developmental disorder not otherwise specified,HMDB0006115
+Crohn's disease,HMDB0006115
+Colorectal cancer,HMDB0006116
+Eosinophilic esophagitis,HMDB0006116
+Multiple sclerosis,HMDB0006119
+Colorectal cancer,HMDB0006119
+Inflammatory bowel disease,HMDB0006225
+Ulcerative colitis,HMDB0006236
+Nonalcoholic fatty liver disease,HMDB0006236
+Celiac disease,HMDB0006236
+Autism,HMDB0006236
+Pervasive developmental disorder not otherwise specified,HMDB0006236
+Crohn's disease,HMDB0006236
+Lung Cancer,HMDB0006270
+Alzheimer's disease,HMDB0006284
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0006317
+Colorectal cancer,HMDB0006335
+Uremia,HMDB0006344
+Colorectal cancer,HMDB0006344
+Eosinophilic esophagitis,HMDB0006344
+Obesity,HMDB0006461
+Cirrhosis,HMDB0006464
+Glutaric aciduria II,HMDB0006469
+Obesity,HMDB0006469
+Celiac disease,HMDB0006478
+Crohn's disease,HMDB0006478
+Ulcerative colitis,HMDB0006478
+Nonalcoholic fatty liver disease,HMDB0006478
+Schizophrenia,HMDB0006483
+Irritable bowel syndrome,HMDB0006483
+Crohn's disease,HMDB0006483
+Colorectal cancer,HMDB0006483
+Autism,HMDB0006483
+Metastatic melanoma,HMDB0006509
+Celiac disease,HMDB0006525
+Diarrhoea predominant irritable bowel syndrome,HMDB0006525
+Nonalcoholic fatty liver disease,HMDB0006525
+Colorectal cancer,HMDB0006528
+Colorectal cancer,HMDB0006547
+Alzheimer's disease,HMDB0006695
+Cystic fibrosis,HMDB0006695
+Sepsis,HMDB0006756
+Colorectal cancer,HMDB0006809
+Colorectal cancer,HMDB0006899
+Autosomal dominant polycystic kidney disease,HMDB0006961
+Inflammatory bowel disease,HMDB0007079
+Metastatic melanoma,HMDB0007099
+Crohn's disease,HMDB0007103
+Ulcerative colitis,HMDB0007103
+Crohn's disease,HMDB0007175
+Ulcerative colitis,HMDB0007175
+Inflammatory bowel disease,HMDB0007856
+Eosinophilic esophagitis,HMDB0007867
+Obesity,HMDB0007869
+Obesity,HMDB0007871
+Obesity,HMDB0007872
+Eosinophilic esophagitis,HMDB0007872
+Obesity,HMDB0007873
+Obesity,HMDB0007874
+Obesity,HMDB0007875
+Obesity,HMDB0007876
+Obesity,HMDB0007879
+Eosinophilic esophagitis,HMDB0007879
+Obesity,HMDB0007880
+Eosinophilic esophagitis,HMDB0007880
+Obesity,HMDB0007881
+Eosinophilic esophagitis,HMDB0007881
+Obesity,HMDB0007882
+Obesity,HMDB0007883
+Eosinophilic esophagitis,HMDB0007883
+Obesity,HMDB0007884
+Obesity,HMDB0007886
+Eosinophilic esophagitis,HMDB0007886
+Obesity,HMDB0007887
+Eosinophilic esophagitis,HMDB0007887
+Obesity,HMDB0007888
+Obesity,HMDB0007889
+Eosinophilic esophagitis,HMDB0007889
+Obesity,HMDB0007890
+Eosinophilic esophagitis,HMDB0007890
+Obesity,HMDB0007891
+Obesity,HMDB0007892
+Eosinophilic esophagitis,HMDB0007892
+Obesity,HMDB0007893
+Eosinophilic esophagitis,HMDB0007893
+Eosinophilic esophagitis,HMDB0007894
+Obesity,HMDB0007895
+Obesity,HMDB0007896
+Obesity,HMDB0007897
+Obesity,HMDB0007898
+Obesity,HMDB0007899
+Obesity,HMDB0007903
+Eosinophilic esophagitis,HMDB0007903
+Obesity,HMDB0007904
+Obesity,HMDB0007905
+Obesity,HMDB0007906
+Obesity,HMDB0007907
+Obesity,HMDB0007911
+Obesity,HMDB0007912
+Obesity,HMDB0007913
+Obesity,HMDB0007914
+Obesity,HMDB0007915
+Obesity,HMDB0007919
+Obesity,HMDB0007920
+Obesity,HMDB0007921
+Eosinophilic esophagitis,HMDB0007921
+Obesity,HMDB0007922
+Obesity,HMDB0007923
+Obesity,HMDB0007924
+Obesity,HMDB0007929
+Obesity,HMDB0007930
+Obesity,HMDB0007931
+Obesity,HMDB0007934
+Obesity,HMDB0007965
+Obesity,HMDB0007969
+Obesity,HMDB0007971
+Obesity,HMDB0007972
+Schizophrenia,HMDB0007973
+Obesity,HMDB0007973
+Obesity,HMDB0007974
+Obesity,HMDB0007975
+Obesity,HMDB0007976
+Obesity,HMDB0007977
+Obesity,HMDB0007978
+Obesity,HMDB0007979
+Obesity,HMDB0007980
+Obesity,HMDB0007981
+Obesity,HMDB0007982
+Obesity,HMDB0007983
+Obesity,HMDB0007984
+Obesity,HMDB0007985
+Obesity,HMDB0007988
+Eosinophilic esophagitis,HMDB0007988
+Obesity,HMDB0007989
+Eosinophilic esophagitis,HMDB0007989
+Obesity,HMDB0007990
+Obesity,HMDB0007991
+Eosinophilic esophagitis,HMDB0007991
+Obesity,HMDB0007994
+Obesity,HMDB0007996
+Obesity,HMDB0007997
+Obesity,HMDB0007999
+Obesity,HMDB0008001
+Obesity,HMDB0008002
+Obesity,HMDB0008003
+Obesity,HMDB0008004
+Obesity,HMDB0008005
+Obesity,HMDB0008006
+Obesity,HMDB0008007
+Obesity,HMDB0008008
+Obesity,HMDB0008010
+Obesity,HMDB0008011
+Obesity,HMDB0008012
+Obesity,HMDB0008013
+Obesity,HMDB0008014
+Obesity,HMDB0008015
+Obesity,HMDB0008016
+Obesity,HMDB0008017
+Obesity,HMDB0008020
+Eosinophilic esophagitis,HMDB0008020
+Obesity,HMDB0008021
+Obesity,HMDB0008022
+Obesity,HMDB0008024
+Obesity,HMDB0008026
+Eosinophilic esophagitis,HMDB0008026
+Obesity,HMDB0008027
+Obesity,HMDB0008028
+Obesity,HMDB0008029
+Obesity,HMDB0008030
+Obesity,HMDB0008031
+Obesity,HMDB0008032
+Obesity,HMDB0008035
+Obesity,HMDB0008036
+Obesity,HMDB0008037
+Obesity,HMDB0008038
+Obesity,HMDB0008039
+Obesity,HMDB0008040
+Obesity,HMDB0008041
+Obesity,HMDB0008042
+Obesity,HMDB0008043
+Obesity,HMDB0008046
+Obesity,HMDB0008047
+Obesity,HMDB0008048
+Obesity,HMDB0008049
+Obesity,HMDB0008050
+Obesity,HMDB0008053
+Obesity,HMDB0008054
+Eosinophilic esophagitis,HMDB0008054
+Obesity,HMDB0008055
+Eosinophilic esophagitis,HMDB0008055
+Obesity,HMDB0008056
+Obesity,HMDB0008057
+Eosinophilic esophagitis,HMDB0008057
+Obesity,HMDB0008058
+Eosinophilic esophagitis,HMDB0008058
+Obesity,HMDB0008059
+Eosinophilic esophagitis,HMDB0008059
+Obesity,HMDB0008061
+Obesity,HMDB0008062
+Obesity,HMDB0008063
+Obesity,HMDB0008064
+Obesity,HMDB0008065
+Obesity,HMDB0008067
+Obesity,HMDB0008068
+Obesity,HMDB0008069
+Obesity,HMDB0008070
+Obesity,HMDB0008071
+Obesity,HMDB0008072
+Obesity,HMDB0008073
+Obesity,HMDB0008074
+Obesity,HMDB0008075
+Obesity,HMDB0008078
+Obesity,HMDB0008079
+Obesity,HMDB0008080
+Obesity,HMDB0008081
+Obesity,HMDB0008082
+Obesity,HMDB0008083
+Obesity,HMDB0008085
+Obesity,HMDB0008086
+Eosinophilic esophagitis,HMDB0008086
+Obesity,HMDB0008087
+Obesity,HMDB0008088
+Obesity,HMDB0008089
+Obesity,HMDB0008091
+Obesity,HMDB0008092
+Eosinophilic esophagitis,HMDB0008092
+Obesity,HMDB0008093
+Obesity,HMDB0008094
+Obesity,HMDB0008095
+Obesity,HMDB0008096
+Obesity,HMDB0008097
+Obesity,HMDB0008098
+Obesity,HMDB0008100
+Obesity,HMDB0008101
+Obesity,HMDB0008102
+Obesity,HMDB0008103
+Obesity,HMDB0008105
+Obesity,HMDB0008106
+Obesity,HMDB0008107
+Obesity,HMDB0008108
+Obesity,HMDB0008111
+Obesity,HMDB0008112
+Obesity,HMDB0008113
+Obesity,HMDB0008114
+Obesity,HMDB0008115
+Obesity,HMDB0008116
+Obesity,HMDB0008118
+Obesity,HMDB0008119
+Obesity,HMDB0008120
+Obesity,HMDB0008121
+Obesity,HMDB0008122
+Obesity,HMDB0008124
+Obesity,HMDB0008125
+Obesity,HMDB0008126
+Obesity,HMDB0008127
+Obesity,HMDB0008128
+Obesity,HMDB0008129
+Obesity,HMDB0008130
+Obesity,HMDB0008131
+Obesity,HMDB0008133
+Obesity,HMDB0008134
+Obesity,HMDB0008135
+Obesity,HMDB0008136
+Obesity,HMDB0008137
+Obesity,HMDB0008138
+Obesity,HMDB0008139
+Obesity,HMDB0008140
+Obesity,HMDB0008141
+Obesity,HMDB0008142
+Obesity,HMDB0008144
+Obesity,HMDB0008145
+Obesity,HMDB0008146
+Obesity,HMDB0008147
+Obesity,HMDB0008148
+Obesity,HMDB0008150
+Obesity,HMDB0008151
+Obesity,HMDB0008152
+Obesity,HMDB0008153
+Obesity,HMDB0008157
+Obesity,HMDB0008159
+Obesity,HMDB0008160
+Obesity,HMDB0008161
+Obesity,HMDB0008162
+Obesity,HMDB0008163
+Obesity,HMDB0008166
+Obesity,HMDB0008167
+Obesity,HMDB0008168
+Obesity,HMDB0008169
+Obesity,HMDB0008170
+Obesity,HMDB0008171
+Obesity,HMDB0008172
+Obesity,HMDB0008173
+Obesity,HMDB0008175
+Obesity,HMDB0008176
+Obesity,HMDB0008177
+Obesity,HMDB0008178
+Obesity,HMDB0008179
+Obesity,HMDB0008183
+Obesity,HMDB0008184
+Obesity,HMDB0008185
+Obesity,HMDB0008191
+Eosinophilic esophagitis,HMDB0008191
+Obesity,HMDB0008192
+Obesity,HMDB0008193
+Obesity,HMDB0008194
+Obesity,HMDB0008195
+Obesity,HMDB0008196
+Obesity,HMDB0008199
+Obesity,HMDB0008200
+Obesity,HMDB0008201
+Obesity,HMDB0008202
+Obesity,HMDB0008203
+Obesity,HMDB0008204
+Obesity,HMDB0008205
+Obesity,HMDB0008206
+Obesity,HMDB0008208
+Obesity,HMDB0008209
+Obesity,HMDB0008210
+Obesity,HMDB0008211
+Obesity,HMDB0008212
+Obesity,HMDB0008216
+Obesity,HMDB0008217
+Obesity,HMDB0008218
+Obesity,HMDB0008224
+Obesity,HMDB0008225
+Obesity,HMDB0008226
+Obesity,HMDB0008227
+Obesity,HMDB0008228
+Obesity,HMDB0008232
+Obesity,HMDB0008234
+Obesity,HMDB0008235
+Obesity,HMDB0008236
+Obesity,HMDB0008237
+Obesity,HMDB0008241
+Obesity,HMDB0008242
+Obesity,HMDB0008243
+Obesity,HMDB0008249
+Obesity,HMDB0008250
+Obesity,HMDB0008251
+Obesity,HMDB0008256
+Obesity,HMDB0008257
+Eosinophilic esophagitis,HMDB0008257
+Obesity,HMDB0008258
+Obesity,HMDB0008259
+Obesity,HMDB0008260
+Obesity,HMDB0008261
+Obesity,HMDB0008263
+Obesity,HMDB0008265
+Obesity,HMDB0008266
+Obesity,HMDB0008267
+Obesity,HMDB0008271
+Obesity,HMDB0008272
+Obesity,HMDB0008273
+Obesity,HMDB0008276
+Obesity,HMDB0008277
+Obesity,HMDB0008278
+Obesity,HMDB0008279
+Obesity,HMDB0008280
+Obesity,HMDB0008281
+Obesity,HMDB0008282
+Obesity,HMDB0008283
+Obesity,HMDB0008284
+Obesity,HMDB0008285
+Obesity,HMDB0008286
+Obesity,HMDB0008287
+Eosinophilic esophagitis,HMDB0008288
+Obesity,HMDB0008291
+Obesity,HMDB0008292
+Obesity,HMDB0008295
+Obesity,HMDB0008296
+Obesity,HMDB0008298
+Obesity,HMDB0008299
+Obesity,HMDB0008303
+Obesity,HMDB0008304
+Obesity,HMDB0008305
+Obesity,HMDB0008306
+Obesity,HMDB0008308
+Obesity,HMDB0008309
+Obesity,HMDB0008310
+Obesity,HMDB0008311
+Obesity,HMDB0008312
+Obesity,HMDB0008313
+Obesity,HMDB0008314
+Obesity,HMDB0008315
+Obesity,HMDB0008316
+Obesity,HMDB0008318
+Obesity,HMDB0008324
+Obesity,HMDB0008328
+Obesity,HMDB0008329
+Obesity,HMDB0008331
+Obesity,HMDB0008332
+Obesity,HMDB0008334
+Obesity,HMDB0008335
+Obesity,HMDB0008336
+Obesity,HMDB0008337
+Obesity,HMDB0008338
+Obesity,HMDB0008339
+Obesity,HMDB0008340
+Obesity,HMDB0008341
+Obesity,HMDB0008342
+Obesity,HMDB0008343
+Obesity,HMDB0008344
+Obesity,HMDB0008345
+Obesity,HMDB0008346
+Obesity,HMDB0008348
+Obesity,HMDB0008350
+Obesity,HMDB0008357
+Obesity,HMDB0008359
+Obesity,HMDB0008360
+Obesity,HMDB0008361
+Obesity,HMDB0008362
+Obesity,HMDB0008364
+Obesity,HMDB0008365
+Obesity,HMDB0008366
+Obesity,HMDB0008367
+Obesity,HMDB0008368
+Obesity,HMDB0008369
+Obesity,HMDB0008370
+Obesity,HMDB0008371
+Obesity,HMDB0008373
+Obesity,HMDB0008374
+Obesity,HMDB0008375
+Obesity,HMDB0008376
+Obesity,HMDB0008377
+Obesity,HMDB0008382
+Obesity,HMDB0008383
+Obesity,HMDB0008390
+Obesity,HMDB0008391
+Obesity,HMDB0008392
+Obesity,HMDB0008393
+Obesity,HMDB0008394
+Obesity,HMDB0008395
+Obesity,HMDB0008397
+Obesity,HMDB0008398
+Obesity,HMDB0008399
+Obesity,HMDB0008400
+Obesity,HMDB0008401
+Obesity,HMDB0008402
+Obesity,HMDB0008403
+Obesity,HMDB0008404
+Obesity,HMDB0008406
+Obesity,HMDB0008407
+Obesity,HMDB0008408
+Obesity,HMDB0008409
+Obesity,HMDB0008414
+Obesity,HMDB0008415
+Obesity,HMDB0008422
+Obesity,HMDB0008423
+Obesity,HMDB0008424
+Obesity,HMDB0008425
+Obesity,HMDB0008426
+Obesity,HMDB0008429
+Obesity,HMDB0008430
+Obesity,HMDB0008431
+Obesity,HMDB0008432
+Obesity,HMDB0008433
+Obesity,HMDB0008434
+Obesity,HMDB0008438
+Obesity,HMDB0008439
+Obesity,HMDB0008440
+Obesity,HMDB0008446
+Obesity,HMDB0008447
+Obesity,HMDB0008455
+Obesity,HMDB0008456
+Obesity,HMDB0008457
+Obesity,HMDB0008458
+Obesity,HMDB0008459
+Obesity,HMDB0008462
+Obesity,HMDB0008463
+Obesity,HMDB0008464
+Obesity,HMDB0008465
+Obesity,HMDB0008466
+Obesity,HMDB0008467
+Obesity,HMDB0008471
+Obesity,HMDB0008472
+Obesity,HMDB0008473
+Obesity,HMDB0008479
+Obesity,HMDB0008480
+Obesity,HMDB0008488
+Obesity,HMDB0008489
+Obesity,HMDB0008490
+Obesity,HMDB0008491
+Obesity,HMDB0008495
+Obesity,HMDB0008496
+Obesity,HMDB0008497
+Obesity,HMDB0008498
+Obesity,HMDB0008499
+Obesity,HMDB0008504
+Obesity,HMDB0008505
+Obesity,HMDB0008512
+Obesity,HMDB0008521
+Obesity,HMDB0008522
+Obesity,HMDB0008523
+Obesity,HMDB0008524
+Obesity,HMDB0008525
+Obesity,HMDB0008526
+Obesity,HMDB0008528
+Obesity,HMDB0008533
+Obesity,HMDB0008534
+Obesity,HMDB0008535
+Obesity,HMDB0008536
+Obesity,HMDB0008537
+Obesity,HMDB0008538
+Obesity,HMDB0008539
+Obesity,HMDB0008542
+Obesity,HMDB0008543
+Obesity,HMDB0008544
+Obesity,HMDB0008554
+Obesity,HMDB0008558
+Obesity,HMDB0008559
+Obesity,HMDB0008564
+Obesity,HMDB0008565
+Obesity,HMDB0008566
+Obesity,HMDB0008567
+Obesity,HMDB0008568
+Obesity,HMDB0008569
+Obesity,HMDB0008570
+Obesity,HMDB0008572
+Obesity,HMDB0008573
+Obesity,HMDB0008574
+Obesity,HMDB0008575
+Obesity,HMDB0008588
+Obesity,HMDB0008589
+Obesity,HMDB0008590
+Crohn's disease,HMDB0008591
+Obesity,HMDB0008591
+Ulcerative colitis,HMDB0008591
+Obesity,HMDB0008594
+Obesity,HMDB0008595
+Obesity,HMDB0008596
+Obesity,HMDB0008597
+Obesity,HMDB0008598
+Obesity,HMDB0008599
+Obesity,HMDB0008600
+Obesity,HMDB0008601
+Obesity,HMDB0008602
+Obesity,HMDB0008604
+Obesity,HMDB0008605
+Obesity,HMDB0008606
+Obesity,HMDB0008620
+Obesity,HMDB0008621
+Obesity,HMDB0008622
+Obesity,HMDB0008623
+Obesity,HMDB0008624
+Obesity,HMDB0008626
+Obesity,HMDB0008627
+Obesity,HMDB0008628
+Obesity,HMDB0008629
+Obesity,HMDB0008630
+Obesity,HMDB0008631
+Obesity,HMDB0008635
+Obesity,HMDB0008636
+Obesity,HMDB0008652
+Obesity,HMDB0008653
+Obesity,HMDB0008654
+Obesity,HMDB0008655
+Obesity,HMDB0008656
+Obesity,HMDB0008657
+Obesity,HMDB0008659
+Obesity,HMDB0008660
+Obesity,HMDB0008661
+Obesity,HMDB0008662
+Obesity,HMDB0008663
+Obesity,HMDB0008668
+Obesity,HMDB0008685
+Obesity,HMDB0008686
+Obesity,HMDB0008687
+Obesity,HMDB0008688
+Obesity,HMDB0008689
+Obesity,HMDB0008690
+Obesity,HMDB0008692
+Obesity,HMDB0008693
+Obesity,HMDB0008694
+Obesity,HMDB0008695
+Obesity,HMDB0008696
+Obesity,HMDB0008701
+Obesity,HMDB0008718
+Obesity,HMDB0008719
+Obesity,HMDB0008720
+Obesity,HMDB0008721
+Obesity,HMDB0008722
+Obesity,HMDB0008725
+Obesity,HMDB0008727
+Obesity,HMDB0008751
+Obesity,HMDB0008752
+Obesity,HMDB0008755
+Obesity,HMDB0008760
+Obesity,HMDB0008761
+Obesity,HMDB0008762
+Obesity,HMDB0008763
+Obesity,HMDB0008766
+Obesity,HMDB0008785
+Obesity,HMDB0008786
+Obesity,HMDB0008787
+Obesity,HMDB0008792
+Obesity,HMDB0008793
+Obesity,HMDB0008794
+Obesity,HMDB0008795
+Obesity,HMDB0008797
+Obesity,HMDB0008798
+Obesity,HMDB0008799
+Obesity,HMDB0008818
+Obesity,HMDB0008819
+Obesity,HMDB0008820
+Metastatic melanoma,HMDB0008923
+Metastatic melanoma,HMDB0008937
+Metastatic melanoma,HMDB0008938
+Ovarian cancer,HMDB0009901
+Metastatic melanoma,HMDB0010168
+Colorectal cancer,HMDB0010169
+Eosinophilic esophagitis,HMDB0010169
+Obesity,HMDB0010169
+Asthma,HMDB0010199
+Uremia,HMDB0010319
+Colorectal cancer,HMDB0010325
+Diabetes mellitus type 2,HMDB0010325
+Crohn's disease,HMDB0010340
+Hypertension,HMDB0010345
+11-beta-Hydroxylase deficiency,HMDB0010375
+Colorectal cancer,HMDB0010378
+Ovarian cancer,HMDB0010379
+Cirrhosis,HMDB0010382
+Colorectal cancer,HMDB0010382
+Schizophrenia,HMDB0010382
+Hepatocellular carcinoma,HMDB0010382
+Eosinophilic esophagitis,HMDB0010382
+Eosinophilic esophagitis,HMDB0010383
+Cirrhosis,HMDB0010384
+Colorectal cancer,HMDB0010384
+Schizophrenia,HMDB0010384
+Hepatocellular carcinoma,HMDB0010384
+Obesity,HMDB0010384
+Eosinophilic esophagitis,HMDB0010384
+Schizophrenia,HMDB0010385
+Obesity,HMDB0010385
+Schizophrenia,HMDB0010386
+Obesity,HMDB0010386
+Cirrhosis,HMDB0010386
+Eosinophilic esophagitis,HMDB0010386
+Obesity,HMDB0010395
+Eosinophilic esophagitis,HMDB0010395
+Obesity,HMDB0010396
+Obesity,HMDB0010408
+Inflammatory bowel disease,HMDB0010576
+Ulcerative colitis,HMDB0010730
+Asthma,HMDB0010738
+Colorectal cancer,HMDB0010738
+Colorectal cancer,HMDB0011103
+Asthma,HMDB0011103
+Colorectal cancer,HMDB0011107
+Colorectal cancer,HMDB0011130
+Colorectal cancer,HMDB0011131
+Asthma,HMDB0011134
+Rheumatoid arthritis,HMDB0011134
+Crohn's disease,HMDB0011144
+Obesity,HMDB0011151
+Eosinophilic esophagitis,HMDB0011151
+Colorectal cancer,HMDB0011152
+Crohn's disease,HMDB0011154
+Colorectal cancer,HMDB0011170
+Colorectal cancer,HMDB0011171
+Asthma,HMDB0011174
+Colorectal cancer,HMDB0011178
+Colorectal cancer,HMDB0011179
+Obesity,HMDB0011201
+Obesity,HMDB0011202
+Obesity,HMDB0011203
+Obesity,HMDB0011206
+Obesity,HMDB0011207
+Obesity,HMDB0011209
+Obesity,HMDB0011210
+Obesity,HMDB0011211
+Obesity,HMDB0011212
+Obesity,HMDB0011213
+Obesity,HMDB0011214
+Obesity,HMDB0011215
+Obesity,HMDB0011216
+Obesity,HMDB0011217
+Obesity,HMDB0011218
+Obesity,HMDB0011219
+Obesity,HMDB0011221
+Obesity,HMDB0011223
+Obesity,HMDB0011226
+Obesity,HMDB0011227
+Obesity,HMDB0011229
+Obesity,HMDB0011232
+Obesity,HMDB0011234
+Obesity,HMDB0011235
+Obesity,HMDB0011236
+Obesity,HMDB0011237
+Obesity,HMDB0011240
+Obesity,HMDB0011241
+Obesity,HMDB0011242
+Obesity,HMDB0011243
+Obesity,HMDB0011244
+Obesity,HMDB0011245
+Obesity,HMDB0011246
+Obesity,HMDB0011247
+Obesity,HMDB0011248
+Obesity,HMDB0011251
+Obesity,HMDB0011252
+Obesity,HMDB0011253
+Obesity,HMDB0011254
+Obesity,HMDB0011255
+Obesity,HMDB0011258
+Obesity,HMDB0011259
+Obesity,HMDB0011260
+Obesity,HMDB0011261
+Obesity,HMDB0011262
+Obesity,HMDB0011263
+Obesity,HMDB0011264
+Obesity,HMDB0011267
+Obesity,HMDB0011268
+Obesity,HMDB0011269
+Obesity,HMDB0011270
+Obesity,HMDB0011272
+Obesity,HMDB0011273
+Obesity,HMDB0011274
+Obesity,HMDB0011275
+Obesity,HMDB0011276
+Obesity,HMDB0011277
+Obesity,HMDB0011278
+Obesity,HMDB0011279
+Obesity,HMDB0011280
+Obesity,HMDB0011283
+Obesity,HMDB0011284
+Obesity,HMDB0011285
+Obesity,HMDB0011286
+Obesity,HMDB0011287
+Obesity,HMDB0011288
+Obesity,HMDB0011290
+Obesity,HMDB0011291
+Obesity,HMDB0011292
+Obesity,HMDB0011293
+Obesity,HMDB0011294
+Obesity,HMDB0011296
+Obesity,HMDB0011297
+Obesity,HMDB0011298
+Obesity,HMDB0011299
+Obesity,HMDB0011300
+Obesity,HMDB0011301
+Obesity,HMDB0011302
+Obesity,HMDB0011303
+Obesity,HMDB0011305
+Obesity,HMDB0011306
+Obesity,HMDB0011307
+Obesity,HMDB0011308
+Obesity,HMDB0011309
+Obesity,HMDB0011310
+Obesity,HMDB0011311
+Obesity,HMDB0011312
+Obesity,HMDB0011313
+Obesity,HMDB0011316
+Obesity,HMDB0011317
+Obesity,HMDB0011318
+Obesity,HMDB0011319
+Obesity,HMDB0011320
+Obesity,HMDB0011321
+Obesity,HMDB0011323
+Obesity,HMDB0011324
+Obesity,HMDB0011325
+Obesity,HMDB0011326
+Obesity,HMDB0011327
+Obesity,HMDB0011329
+Obesity,HMDB0011330
+Obesity,HMDB0011331
+Obesity,HMDB0011332
+Obesity,HMDB0011333
+Obesity,HMDB0011334
+Metastatic melanoma,HMDB0011352
+Metastatic melanoma,HMDB0011353
+Alcoholism,HMDB0011469
+Crohn's disease,HMDB0011469
+Diarrhoea predominant irritable bowel syndrome,HMDB0011469
+Ulcerative colitis,HMDB0011469
+Nonalcoholic fatty liver disease,HMDB0011469
+Inflammatory bowel disease,HMDB0011478
+Metastatic melanoma,HMDB0011483
+Ulcerative colitis,HMDB0011500
+Ulcerative colitis,HMDB0011502
+Colorectal cancer,HMDB0011503
+Ulcerative colitis,HMDB0011503
+Colorectal cancer,HMDB0011506
+Colorectal cancer,HMDB0011507
+Hepatocellular carcinoma,HMDB0011511
+Cirrhosis,HMDB0011511
+Metastatic melanoma,HMDB0011513
+Ovarian cancer,HMDB0011526
+Colorectal cancer,HMDB0011530
+Colorectal cancer,HMDB0011531
+Colorectal cancer,HMDB0011532
+Colorectal cancer,HMDB0011533
+Metastatic melanoma,HMDB0011533
+Colorectal cancer,HMDB0011534
+Colorectal cancer,HMDB0011535
+Colorectal cancer,HMDB0011536
+Colorectal cancer,HMDB0011537
+Colorectal cancer,HMDB0011538
+Colorectal cancer,HMDB0011539
+Colorectal cancer,HMDB0011540
+Colorectal cancer,HMDB0011541
+Colorectal cancer,HMDB0011542
+Colorectal cancer,HMDB0011543
+Colorectal cancer,HMDB0011544
+Colorectal cancer,HMDB0011546
+Colorectal cancer,HMDB0011547
+Colorectal cancer,HMDB0011549
+Colorectal cancer,HMDB0011550
+Colorectal cancer,HMDB0011551
+Colorectal cancer,HMDB0011552
+Colorectal cancer,HMDB0011553
+Colorectal cancer,HMDB0011554
+Colorectal cancer,HMDB0011555
+Colorectal cancer,HMDB0011556
+Colorectal cancer,HMDB0011557
+Colorectal cancer,HMDB0011558
+Colorectal cancer,HMDB0011559
+Colorectal cancer,HMDB0011561
+Colorectal cancer,HMDB0011562
+Colorectal cancer,HMDB0011563
+Colorectal cancer,HMDB0011564
+Colorectal cancer,HMDB0011565
+Colorectal cancer,HMDB0011566
+Colorectal cancer,HMDB0011567
+Colorectal cancer,HMDB0011568
+Colorectal cancer,HMDB0011569
+Colorectal cancer,HMDB0011570
+Colorectal cancer,HMDB0011571
+Colorectal cancer,HMDB0011572
+Colorectal cancer,HMDB0011573
+Colorectal cancer,HMDB0011574
+Colorectal cancer,HMDB0011576
+Colorectal cancer,HMDB0011577
+Colorectal cancer,HMDB0011578
+Colorectal cancer,HMDB0011579
+Colorectal cancer,HMDB0011580
+Colorectal cancer,HMDB0011581
+Colorectal cancer,HMDB0011582
+Colorectal cancer,HMDB0011583
+Colorectal cancer,HMDB0011584
+Colorectal cancer,HMDB0011585
+Colorectal cancer,HMDB0011586
+Colorectal cancer,HMDB0011587
+Colorectal cancer,HMDB0011588
+Colorectal cancer,HMDB0011589
+Canavan disease,HMDB0011600
+Colorectal cancer,HMDB0011616
+Asthma,HMDB0011623
+Celiac disease,HMDB0011623
+Uremia,HMDB0011623
+Irritable bowel syndrome,HMDB0011632
+Colorectal cancer,HMDB0011635
+Crohn's disease,HMDB0011635
+Uremia,HMDB0011635
+Eosinophilic esophagitis,HMDB0011635
+Celiac disease,HMDB0011638
+Obesity,HMDB0011697
+Eosinophilic esophagitis,HMDB0011697
+Obesity,HMDB0011698
+Eosinophilic esophagitis,HMDB0011698
+Prostate cancer,HMDB0011717
+Prostate cancer,HMDB0011718
+Colorectal cancer,HMDB0011718
+Obesity,HMDB0011718
+Prostate cancer,HMDB0011720
+Colorectal cancer,HMDB0011724
+Prostate cancer,HMDB0011729
+Prostate cancer,HMDB0011730
+Colorectal cancer,HMDB0011731
+Colorectal cancer,HMDB0011733
+Cystic fibrosis,HMDB0011733
+Prostate cancer,HMDB0011733
+Colorectal cancer,HMDB0011737
+Crohn's disease,HMDB0011738
+Schizophrenia,HMDB0011738
+Prostate cancer,HMDB0011740
+Prostate cancer,HMDB0011742
+Eosinophilic esophagitis,HMDB0011743
+Colorectal cancer,HMDB0011745
+Colorectal cancer,HMDB0011747
+Colorectal cancer,HMDB0011749
+Crohn's disease,HMDB0011749
+Ovarian cancer,HMDB0011749
+Ulcerative colitis,HMDB0011749
+Prostate cancer,HMDB0011754
+Colorectal cancer,HMDB0011756
+Colorectal cancer,HMDB0011757
+Metastatic melanoma,HMDB0012085
+Obesity,HMDB0012101
+Eosinophilic esophagitis,HMDB0012101
+Metastatic melanoma,HMDB0012107
+Eosinophilic esophagitis,HMDB0012107
+Obesity,HMDB0012107
+Eosinophilic esophagitis,HMDB0012108
+Colorectal cancer,HMDB0012141
+Metastatic melanoma,HMDB0012141
+Colorectal cancer,HMDB0012154
+Nonalcoholic fatty liver disease,HMDB0012157
+Parkinson's disease,HMDB0012162
+Inflammatory bowel disease,HMDB0012166
+Obesity,HMDB0012173
+Colorectal cancer,HMDB0012273
+Crohn's disease,HMDB0012275
+Ulcerative colitis,HMDB0012275
+Autism,HMDB0012275
+Colorectal cancer,HMDB0012308
+Hepatocellular carcinoma,HMDB0012325
+Peroxisomal biogenesis defect,HMDB0012454
+Sepsis,HMDB0012504
+Ulcerative colitis,HMDB0012798
+Alzheimer's disease,HMDB0012935
+Crohn's disease,HMDB0012971
+Ulcerative colitis,HMDB0012971
+Autism,HMDB0013036
+Ulcerative colitis,HMDB0013036
+Pervasive developmental disorder not otherwise specified,HMDB0013036
+Nonalcoholic fatty liver disease,HMDB0013036
+Epilepsy,HMDB0013072
+Parkinson's disease,HMDB0013072
+Colorectal cancer,HMDB0013078
+Obesity,HMDB0013125
+Colorectal cancer,HMDB0013127
+Obesity,HMDB0013128
+Eosinophilic esophagitis,HMDB0013128
+Obesity,HMDB0013132
+Obesity,HMDB0013161
+Obesity,HMDB0013205
+Obesity,HMDB0013207
+Glutaric aciduria II,HMDB0013207
+Colorectal cancer,HMDB0013209
+Uremia,HMDB0013222
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0013227
+Uremia,HMDB0013231
+Colorectal cancer,HMDB0013240
+Colorectal cancer,HMDB0013243
+Cystic fibrosis,HMDB0013248
+Obesity,HMDB0013288
+Colorectal cancer,HMDB0013302
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0013311
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,HMDB0013312
+Celiac disease,HMDB0013316
+Obesity,HMDB0013324
+Obesity,HMDB0013326
+Glutaric aciduria II,HMDB0013326
+Obesity,HMDB0013328
+Obesity,HMDB0013330
+Obesity,HMDB0013331
+Eosinophilic esophagitis,HMDB0013331
+Obesity,HMDB0013341
+Eosinophilic esophagitis,HMDB0013341
+Eosinophilic esophagitis,HMDB0013402
+Obesity,HMDB0013404
+Eosinophilic esophagitis,HMDB0013404
+Obesity,HMDB0013405
+Eosinophilic esophagitis,HMDB0013405
+Obesity,HMDB0013406
+Eosinophilic esophagitis,HMDB0013406
+Obesity,HMDB0013407
+Eosinophilic esophagitis,HMDB0013407
+Obesity,HMDB0013408
+Eosinophilic esophagitis,HMDB0013408
+Schizophrenia,HMDB0013409
+Obesity,HMDB0013409
+Eosinophilic esophagitis,HMDB0013409
+Obesity,HMDB0013410
+Obesity,HMDB0013411
+Eosinophilic esophagitis,HMDB0013411
+Obesity,HMDB0013412
+Eosinophilic esophagitis,HMDB0013412
+Obesity,HMDB0013413
+Eosinophilic esophagitis,HMDB0013413
+Obesity,HMDB0013414
+Eosinophilic esophagitis,HMDB0013414
+Obesity,HMDB0013415
+Eosinophilic esophagitis,HMDB0013415
+Eosinophilic esophagitis,HMDB0013416
+Obesity,HMDB0013417
+Obesity,HMDB0013418
+Eosinophilic esophagitis,HMDB0013418
+Obesity,HMDB0013419
+Obesity,HMDB0013420
+Eosinophilic esophagitis,HMDB0013420
+Obesity,HMDB0013422
+Eosinophilic esophagitis,HMDB0013422
+Obesity,HMDB0013424
+Obesity,HMDB0013425
+Eosinophilic esophagitis,HMDB0013425
+Obesity,HMDB0013426
+Obesity,HMDB0013427
+Obesity,HMDB0013428
+Obesity,HMDB0013429
+Obesity,HMDB0013431
+Eosinophilic esophagitis,HMDB0013431
+Obesity,HMDB0013432
+Eosinophilic esophagitis,HMDB0013432
+Obesity,HMDB0013433
+Eosinophilic esophagitis,HMDB0013433
+Obesity,HMDB0013434
+Eosinophilic esophagitis,HMDB0013434
+Obesity,HMDB0013435
+Obesity,HMDB0013436
+Obesity,HMDB0013437
+Eosinophilic esophagitis,HMDB0013437
+Obesity,HMDB0013438
+Eosinophilic esophagitis,HMDB0013438
+Obesity,HMDB0013439
+Obesity,HMDB0013440
+Eosinophilic esophagitis,HMDB0013440
+Obesity,HMDB0013442
+Eosinophilic esophagitis,HMDB0013442
+Obesity,HMDB0013444
+Eosinophilic esophagitis,HMDB0013444
+Obesity,HMDB0013445
+Obesity,HMDB0013446
+Eosinophilic esophagitis,HMDB0013446
+Obesity,HMDB0013447
+Obesity,HMDB0013448
+Obesity,HMDB0013449
+Eosinophilic esophagitis,HMDB0013449
+Obesity,HMDB0013450
+Eosinophilic esophagitis,HMDB0013450
+Obesity,HMDB0013451
+Eosinophilic esophagitis,HMDB0013451
+Obesity,HMDB0013452
+Obesity,HMDB0013453
+Eosinophilic esophagitis,HMDB0013453
+Obesity,HMDB0013454
+Obesity,HMDB0013455
+Obesity,HMDB0013456
+Eosinophilic esophagitis,HMDB0013456
+Obesity,HMDB0013457
+Obesity,HMDB0013458
+Eosinophilic esophagitis,HMDB0013458
+Obesity,HMDB0013459
+Obesity,HMDB0013460
+Obesity,HMDB0013461
+Eosinophilic esophagitis,HMDB0013461
+Obesity,HMDB0013462
+Eosinophilic esophagitis,HMDB0013462
+Obesity,HMDB0013463
+Eosinophilic esophagitis,HMDB0013463
+Obesity,HMDB0013464
+Eosinophilic esophagitis,HMDB0013464
+Obesity,HMDB0013465
+Eosinophilic esophagitis,HMDB0013465
+Eosinophilic esophagitis,HMDB0013466
+Obesity,HMDB0013466
+Obesity,HMDB0013467
+Eosinophilic esophagitis,HMDB0013467
+Eosinophilic esophagitis,HMDB0013468
+Obesity,HMDB0013469
+Eosinophilic esophagitis,HMDB0013469
+Colorectal cancer,HMDB0013609
+Ulcerative colitis,HMDB0013627
+Colorectal cancer,HMDB0013631
+Ulcerative colitis,HMDB0013639
+Uremia,HMDB0013678
+Colorectal cancer,HMDB0013678
+Eosinophilic esophagitis,HMDB0013678
+Inflammatory bowel disease,HMDB0013695
+Metastatic melanoma,HMDB0013695
+Colorectal cancer,HMDB0013713
+Colorectal cancer,HMDB0013716
+Alzheimer's disease,HMDB0013724
+Multiple sclerosis,HMDB0013724
+Parkinson's disease,HMDB0013724
+Nonalcoholic fatty liver disease,HMDB0013749
+Autism,HMDB0013780
+Celiac disease,HMDB0013780
+Crohn's disease,HMDB0013780
+Ulcerative colitis,HMDB0013780
+Pervasive developmental disorder not otherwise specified,HMDB0013780
+Nonalcoholic fatty liver disease,HMDB0013780
+Crohn's disease,HMDB0013785
+Ulcerative colitis,HMDB0013785
+Ulcerative colitis,HMDB0013809
+Crohn's disease,HMDB0013811
+Ulcerative colitis,HMDB0013811
+Nonalcoholic fatty liver disease,HMDB0013816
+Asthma,HMDB0013817
+Celiac disease,HMDB0013824
+Crohn's disease,HMDB0013824
+Ulcerative colitis,HMDB0013824
+Nonalcoholic fatty liver disease,HMDB0013824
+Autism,HMDB0013825
+Pervasive developmental disorder not otherwise specified,HMDB0013825
+Irritable bowel syndrome,HMDB0014389
+Ulcerative colitis,HMDB0014389
+Colorectal cancer,HMDB0014426
+Ulcerative colitis,HMDB0014447
+Colorectal cancer,HMDB0014487
+Metastatic melanoma,HMDB0014839
+Colorectal cancer,HMDB0015044
+Colorectal cancer,HMDB0015166
+Cystic fibrosis,HMDB0015217
+Alzheimer's disease,HMDB0015532
+Chronic renal failure,HMDB0015532
+Hypertension,HMDB0015532
+Kidney disease,HMDB0015532
+Multiple sclerosis,HMDB0015532
+Parkinson's disease,HMDB0015532
+Colorectal cancer,HMDB0028680
+Colorectal cancer,HMDB0028686
+Colorectal cancer,HMDB0028689
+Colorectal cancer,HMDB0028690
+Colorectal cancer,HMDB0028691
+Colorectal cancer,HMDB0028694
+Colorectal cancer,HMDB0028695
+Colorectal cancer,HMDB0028697
+Colorectal cancer,HMDB0028699
+Colorectal cancer,HMDB0028700
+Colorectal cancer,HMDB0028712
+Colorectal cancer,HMDB0028713
+Colorectal cancer,HMDB0028715
+Colorectal cancer,HMDB0028716
+Colorectal cancer,HMDB0028717
+Obesity,HMDB0028717
+Colorectal cancer,HMDB0028721
+Colorectal cancer,HMDB0028722
+Crohn's disease,HMDB0028732
+Colorectal cancer,HMDB0028734
+Colorectal cancer,HMDB0028735
+Colorectal cancer,HMDB0028744
+Colorectal cancer,HMDB0028757
+Crohn's disease,HMDB0028757
+Ulcerative colitis,HMDB0028757
+Colorectal cancer,HMDB0028764
+Colorectal cancer,HMDB0028795
+Colorectal cancer,HMDB0028800
+Crohn's disease,HMDB0028805
+Colorectal cancer,HMDB0028822
+Colorectal cancer,HMDB0028823
+Colorectal cancer,HMDB0028830
+Colorectal cancer,HMDB0028831
+Colorectal cancer,HMDB0028832
+Cystic fibrosis,HMDB0028843
+Colorectal cancer,HMDB0028844
+Colorectal cancer,HMDB0028847
+Colorectal cancer,HMDB0028848
+Cystic fibrosis,HMDB0028850
+Colorectal cancer,HMDB0028851
+Colorectal cancer,HMDB0028852
+Colorectal cancer,HMDB0028853
+Colorectal cancer,HMDB0028854
+Colorectal cancer,HMDB0028878
+Colorectal cancer,HMDB0028885
+Colorectal cancer,HMDB0028888
+Colorectal cancer,HMDB0028889
+Colorectal cancer,HMDB0028892
+Colorectal cancer,HMDB0028893
+Colorectal cancer,HMDB0028896
+Colorectal cancer,HMDB0028898
+Colorectal cancer,HMDB0028900
+Colorectal cancer,HMDB0028901
+Colorectal cancer,HMDB0028902
+Colorectal cancer,HMDB0028903
+Colorectal cancer,HMDB0028906
+Colorectal cancer,HMDB0028907
+Colorectal cancer,HMDB0028910
+Colorectal cancer,HMDB0028911
+Colorectal cancer,HMDB0028913
+Colorectal cancer,HMDB0028914
+Colorectal cancer,HMDB0028916
+Colorectal cancer,HMDB0028917
+Colorectal cancer,HMDB0028918
+Colorectal cancer,HMDB0028919
+Colorectal cancer,HMDB0028920
+Colorectal cancer,HMDB0028922
+Colorectal cancer,HMDB0028923
+Colorectal cancer,HMDB0028924
+Colorectal cancer,HMDB0028928
+Colorectal cancer,HMDB0028929
+Colorectal cancer,HMDB0028932
+Colorectal cancer,HMDB0028933
+Colorectal cancer,HMDB0028935
+Colorectal cancer,HMDB0028938
+Colorectal cancer,HMDB0028939
+Colorectal cancer,HMDB0028940
+Colorectal cancer,HMDB0028941
+Obesity,HMDB0028942
+Colorectal cancer,HMDB0028942
+Colorectal cancer,HMDB0028954
+Colorectal cancer,HMDB0028955
+Colorectal cancer,HMDB0028958
+Colorectal cancer,HMDB0028959
+Colorectal cancer,HMDB0028963
+Colorectal cancer,HMDB0028964
+Colorectal cancer,HMDB0028966
+Colorectal cancer,HMDB0028980
+Colorectal cancer,HMDB0028983
+Colorectal cancer,HMDB0028986
+Colorectal cancer,HMDB0028988
+Colorectal cancer,HMDB0028991
+Colorectal cancer,HMDB0028994
+Colorectal cancer,HMDB0028995
+Colorectal cancer,HMDB0028998
+Colorectal cancer,HMDB0029001
+Colorectal cancer,HMDB0029004
+Colorectal cancer,HMDB0029006
+Colorectal cancer,HMDB0029007
+Colorectal cancer,HMDB0029008
+Colorectal cancer,HMDB0029010
+Metastatic melanoma,HMDB0029026
+Colorectal cancer,HMDB0029028
+Colorectal cancer,HMDB0029042
+Colorectal cancer,HMDB0029043
+Colorectal cancer,HMDB0029046
+Colorectal cancer,HMDB0029047
+Colorectal cancer,HMDB0029052
+Colorectal cancer,HMDB0029064
+Colorectal cancer,HMDB0029065
+Colorectal cancer,HMDB0029068
+Colorectal cancer,HMDB0029074
+Colorectal cancer,HMDB0029076
+Colorectal cancer,HMDB0029082
+Colorectal cancer,HMDB0029083
+Colorectal cancer,HMDB0029086
+Colorectal cancer,HMDB0029087
+Colorectal cancer,HMDB0029090
+Colorectal cancer,HMDB0029091
+Colorectal cancer,HMDB0029094
+Colorectal cancer,HMDB0029095
+Colorectal cancer,HMDB0029096
+Colorectal cancer,HMDB0029098
+Colorectal cancer,HMDB0029103
+Colorectal cancer,HMDB0029104
+Ulcerative colitis,HMDB0029106
+Colorectal cancer,HMDB0029108
+Colorectal cancer,HMDB0029109
+Colorectal cancer,HMDB0029112
+Colorectal cancer,HMDB0029117
+Colorectal cancer,HMDB0029118
+Colorectal cancer,HMDB0029120
+Colorectal cancer,HMDB0029121
+Colorectal cancer,HMDB0029123
+Colorectal cancer,HMDB0029125
+Colorectal cancer,HMDB0029126
+Colorectal cancer,HMDB0029127
+Colorectal cancer,HMDB0029129
+Colorectal cancer,HMDB0029130
+Colorectal cancer,HMDB0029131
+Colorectal cancer,HMDB0029132
+Colorectal cancer,HMDB0029133
+Colorectal cancer,HMDB0029134
+Colorectal cancer,HMDB0029136
+Colorectal cancer,HMDB0029137
+Colorectal cancer,HMDB0029138
+Colorectal cancer,HMDB0029139
+Colorectal cancer,HMDB0029140
+Crohn's disease,HMDB0029147
+Schizophrenia,HMDB0029147
+Diabetes mellitus type 2,HMDB0029164
+Leukemia,HMDB0029165
+Crohn's disease,HMDB0029167
+Ulcerative colitis,HMDB0029167
+Diabetes mellitus type 2,HMDB0029176
+Diabetes mellitus type 2,HMDB0029177
+Diabetes mellitus type 2,HMDB0029182
+Diabetes mellitus type 2,HMDB0029184
+Diabetes mellitus type 2,HMDB0029190
+Colorectal cancer,HMDB0029223
+Colorectal cancer,HMDB0029224
+Diabetes mellitus type 2,HMDB0029226
+Diabetes mellitus type 2,HMDB0029234
+Colorectal cancer,HMDB0029377
+Asthma,HMDB0029595
+Crohn's disease,HMDB0029595
+Ulcerative colitis,HMDB0029595
+Nonalcoholic fatty liver disease,HMDB0029595
+Autism,HMDB0029596
+Celiac disease,HMDB0029596
+Ulcerative colitis,HMDB0029596
+Pervasive developmental disorder not otherwise specified,HMDB0029596
+Crohn's disease,HMDB0029597
+Ulcerative colitis,HMDB0029597
+Crohn's disease,HMDB0029600
+Ulcerative colitis,HMDB0029600
+Asthma,HMDB0029603
+Crohn's disease,HMDB0029603
+Ulcerative colitis,HMDB0029603
+Nonalcoholic fatty liver disease,HMDB0029603
+Ulcerative colitis,HMDB0029638
+Crohn's disease,HMDB0029641
+Ulcerative colitis,HMDB0029641
+Colorectal cancer,HMDB0029649
+Celiac disease,HMDB0029718
+Colorectal cancer,HMDB0029723
+Crohn's disease,HMDB0029728
+Ulcerative colitis,HMDB0029728
+Asthma,HMDB0029751
+Ulcerative colitis,HMDB0029751
+Crohn's disease,HMDB0029762
+Ulcerative colitis,HMDB0029762
+Nonalcoholic fatty liver disease,HMDB0029762
+Colorectal cancer,HMDB0029937
+Colorectal cancer,HMDB0029942
+Autism,HMDB0029980
+Pervasive developmental disorder not otherwise specified,HMDB0029980
+Colorectal cancer,HMDB0030021
+Diarrhoea predominant irritable bowel syndrome,HMDB0030027
+Nonalcoholic fatty liver disease,HMDB0030027
+Autism,HMDB0030028
+Crohn's disease,HMDB0030028
+Ulcerative colitis,HMDB0030028
+Pervasive developmental disorder not otherwise specified,HMDB0030028
+Nonalcoholic fatty liver disease,HMDB0030028
+Ulcerative colitis,HMDB0030052
+Nonalcoholic fatty liver disease,HMDB0030052
+Diarrhoea predominant irritable bowel syndrome,HMDB0030052
+Celiac disease,HMDB0030052
+Nonalcoholic fatty liver disease,HMDB0030056
+Ulcerative colitis,HMDB0030058
+Nonalcoholic fatty liver disease,HMDB0030058
+Celiac disease,HMDB0030058
+Crohn's disease,HMDB0030058
+Irritable bowel syndrome,HMDB0030058
+Autism,HMDB0030058
+Pervasive developmental disorder not otherwise specified,HMDB0030058
+Ulcerative colitis,HMDB0030059
+Nonalcoholic fatty liver disease,HMDB0030059
+Celiac disease,HMDB0030059
+Crohn's disease,HMDB0030059
+Ulcerative colitis,HMDB0030062
+Nonalcoholic fatty liver disease,HMDB0030062
+Crohn's disease,HMDB0030062
+Colorectal cancer,HMDB0030180
+Autism,HMDB0030331
+Pervasive developmental disorder not otherwise specified,HMDB0030331
+Eosinophilic esophagitis,HMDB0030396
+Nonalcoholic fatty liver disease,HMDB0030433
+Colorectal cancer,HMDB0030667
+Colorectal cancer,HMDB0030776
+Celiac disease,HMDB0030930
+Asthma,HMDB0030961
+Uremia,HMDB0030961
+Celiac disease,HMDB0031019
+Crohn's disease,HMDB0031019
+Ulcerative colitis,HMDB0031019
+Colorectal cancer,HMDB0031057
+Colorectal cancer,HMDB0031068
+Colorectal cancer,HMDB0031072
+Asthma,HMDB0031078
+Colorectal cancer,HMDB0031193
+Asthma,HMDB0031196
+Crohn's disease,HMDB0031206
+Ulcerative colitis,HMDB0031206
+Nonalcoholic fatty liver disease,HMDB0031206
+Autism,HMDB0031207
+Crohn's disease,HMDB0031207
+Diarrhoea predominant irritable bowel syndrome,HMDB0031207
+Ulcerative colitis,HMDB0031207
+Pervasive developmental disorder not otherwise specified,HMDB0031207
+Nonalcoholic fatty liver disease,HMDB0031207
+Autism,HMDB0031217
+Celiac disease,HMDB0031217
+Crohn's disease,HMDB0031217
+Ulcerative colitis,HMDB0031217
+Pervasive developmental disorder not otherwise specified,HMDB0031217
+Nonalcoholic fatty liver disease,HMDB0031217
+Autism,HMDB0031230
+Colorectal cancer,HMDB0031230
+Ulcerative colitis,HMDB0031230
+Pervasive developmental disorder not otherwise specified,HMDB0031230
+Celiac disease,HMDB0031231
+Crohn's disease,HMDB0031231
+Ulcerative colitis,HMDB0031231
+Crohn's disease,HMDB0031243
+Ulcerative colitis,HMDB0031243
+Nonalcoholic fatty liver disease,HMDB0031243
+Autism,HMDB0031248
+Pervasive developmental disorder not otherwise specified,HMDB0031248
+Diarrhoea predominant irritable bowel syndrome,HMDB0031249
+Nonalcoholic fatty liver disease,HMDB0031249
+Ulcerative colitis,HMDB0031265
+Celiac disease,HMDB0031266
+Crohn's disease,HMDB0031266
+Ulcerative colitis,HMDB0031266
+Nonalcoholic fatty liver disease,HMDB0031266
+Celiac disease,HMDB0031269
+Uremia,HMDB0031269
+Crohn's disease,HMDB0031294
+Ulcerative colitis,HMDB0031294
+Celiac disease,HMDB0031295
+Celiac disease,HMDB0031299
+Crohn's disease,HMDB0031299
+Ulcerative colitis,HMDB0031299
+Maple syrup urine disease,HMDB0031306
+Crohn's disease,HMDB0031317
+Ulcerative colitis,HMDB0031317
+Diarrhoea predominant irritable bowel syndrome,HMDB0031325
+Nonalcoholic fatty liver disease,HMDB0031325
+Diarrhoea predominant irritable bowel syndrome,HMDB0031342
+Nonalcoholic fatty liver disease,HMDB0031342
+Crohn's disease,HMDB0031343
+Diarrhoea predominant irritable bowel syndrome,HMDB0031343
+Ulcerative colitis,HMDB0031343
+Nonalcoholic fatty liver disease,HMDB0031343
+Schizophrenia,HMDB0031404
+Celiac disease,HMDB0031409
+Crohn's disease,HMDB0031409
+Ulcerative colitis,HMDB0031409
+Nonalcoholic fatty liver disease,HMDB0031409
+Autism,HMDB0031417
+Pervasive developmental disorder not otherwise specified,HMDB0031417
+Asthma,HMDB0031444
+Celiac disease,HMDB0031444
+Asthma,HMDB0031445
+Ulcerative colitis,HMDB0031445
+Nonalcoholic fatty liver disease,HMDB0031445
+Asthma,HMDB0031450
+Crohn's disease,HMDB0031450
+Ulcerative colitis,HMDB0031450
+Nonalcoholic fatty liver disease,HMDB0031450
+Celiac disease,HMDB0031475
+Crohn's disease,HMDB0031475
+Uremia,HMDB0031475
+Ulcerative colitis,HMDB0031475
+Nonalcoholic fatty liver disease,HMDB0031475
+Nonalcoholic fatty liver disease,HMDB0031476
+Pervasive developmental disorder not otherwise specified,HMDB0031478
+Autism,HMDB0031479
+Pervasive developmental disorder not otherwise specified,HMDB0031479
+Autism,HMDB0031481
+Pervasive developmental disorder not otherwise specified,HMDB0031481
+Ulcerative colitis,HMDB0031482
+Ulcerative colitis,HMDB0031491
+Uremia,HMDB0031496
+Celiac disease,HMDB0031507
+Colorectal cancer,HMDB0031518
+Autism,HMDB0031523
+Crohn's disease,HMDB0031523
+Ulcerative colitis,HMDB0031523
+Pervasive developmental disorder not otherwise specified,HMDB0031523
+Nonalcoholic fatty liver disease,HMDB0031523
+Celiac disease,HMDB0031525
+Ulcerative colitis,HMDB0031525
+Nonalcoholic fatty liver disease,HMDB0031525
+Celiac disease,HMDB0031526
+Ulcerative colitis,HMDB0031526
+Nonalcoholic fatty liver disease,HMDB0031526
+Crohn's disease,HMDB0031528
+Ulcerative colitis,HMDB0031528
+Nonalcoholic fatty liver disease,HMDB0031528
+Ulcerative colitis,HMDB0031548
+Crohn's disease,HMDB0031549
+Ulcerative colitis,HMDB0031549
+Nonalcoholic fatty liver disease,HMDB0031549
+Colorectal cancer,HMDB0031554
+Celiac disease,HMDB0031563
+Autism,HMDB0031580
+Pervasive developmental disorder not otherwise specified,HMDB0031580
+Ulcerative colitis,HMDB0031582
+Nonalcoholic fatty liver disease,HMDB0031582
+Crohn's disease,HMDB0031598
+Ulcerative colitis,HMDB0031598
+Nonalcoholic fatty liver disease,HMDB0031598
+Schizophrenia,HMDB0031602
+Early preeclampsia,HMDB0031645
+Late-onset preeclampsia,HMDB0031645
+Asthma,HMDB0031652
+Asthma,HMDB0031653
+Nonalcoholic fatty liver disease,HMDB0031653
+Colorectal cancer,HMDB0031654
+Nonalcoholic fatty liver disease,HMDB0031857
+Crohn's disease,HMDB0031872
+Ulcerative colitis,HMDB0031872
+Autism,HMDB0032042
+Diarrhoea predominant irritable bowel syndrome,HMDB0032042
+Pervasive developmental disorder not otherwise specified,HMDB0032042
+Nonalcoholic fatty liver disease,HMDB0032042
+Nonalcoholic fatty liver disease,HMDB0032045
+Diarrhoea predominant irritable bowel syndrome,HMDB0032047
+Nonalcoholic fatty liver disease,HMDB0032047
+Colorectal cancer,HMDB0032055
+Autism,HMDB0032063
+Pervasive developmental disorder not otherwise specified,HMDB0032063
+Crohn's disease,HMDB0032076
+Ulcerative colitis,HMDB0032076
+Colorectal cancer,HMDB0032208
+Nonalcoholic fatty liver disease,HMDB0032272
+Cystic fibrosis,HMDB0032538
+Colorectal cancer,HMDB0032572
+Cystic fibrosis,HMDB0032572
+Cystic fibrosis,HMDB0032574
+Diarrhoea predominant irritable bowel syndrome,HMDB0032594
+Colorectal cancer,HMDB0032616
+Autism,HMDB0032619
+Ulcerative colitis,HMDB0032619
+Pervasive developmental disorder not otherwise specified,HMDB0032619
+Celiac disease,HMDB0032914
+Ulcerative colitis,HMDB0032914
+Ulcerative colitis,HMDB0032972
+Crohn's disease,HMDB0032980
+Ulcerative colitis,HMDB0032980
+Colorectal cancer,HMDB0032985
+Crohn's disease,HMDB0033002
+Ulcerative colitis,HMDB0033002
+Celiac disease,HMDB0033116
+Crohn's disease,HMDB0033119
+Ulcerative colitis,HMDB0033119
+Diarrhoea predominant irritable bowel syndrome,HMDB0033167
+Ulcerative colitis,HMDB0033167
+Nonalcoholic fatty liver disease,HMDB0033167
+Crohn's disease,HMDB0033182
+Ulcerative colitis,HMDB0033182
+Colorectal cancer,HMDB0033433
+Celiac disease,HMDB0033547
+Ulcerative colitis,HMDB0033547
+Autism,HMDB0033620
+Ulcerative colitis,HMDB0033620
+Pervasive developmental disorder not otherwise specified,HMDB0033620
+Autism,HMDB0033676
+Pervasive developmental disorder not otherwise specified,HMDB0033676
+Celiac disease,HMDB0033713
+Crohn's disease,HMDB0033713
+Ulcerative colitis,HMDB0033713
+Nonalcoholic fatty liver disease,HMDB0033713
+Celiac disease,HMDB0033742
+Nonalcoholic fatty liver disease,HMDB0033745
+Irritable bowel syndrome,HMDB0033752
+Colorectal cancer,HMDB0033752
+Autism,HMDB0033774
+Pervasive developmental disorder not otherwise specified,HMDB0033774
+Celiac disease,HMDB0033792
+Uremia,HMDB0033827
+Nonalcoholic fatty liver disease,HMDB0033840
+Diabetes mellitus type 1,HMDB0033844
+Obesity,HMDB0033844
+Autism,HMDB0033889
+Celiac disease,HMDB0033889
+Crohn's disease,HMDB0033889
+Irritable bowel syndrome,HMDB0033889
+Ulcerative colitis,HMDB0033889
+Pervasive developmental disorder not otherwise specified,HMDB0033889
+Nonalcoholic fatty liver disease,HMDB0033889
+Autism,HMDB0033890
+Celiac disease,HMDB0033890
+Crohn's disease,HMDB0033890
+Diarrhoea predominant irritable bowel syndrome,HMDB0033890
+Irritable bowel syndrome,HMDB0033890
+Ulcerative colitis,HMDB0033890
+Pervasive developmental disorder not otherwise specified,HMDB0033890
+Nonalcoholic fatty liver disease,HMDB0033890
+Colorectal cancer,HMDB0033896
+Metastatic melanoma,HMDB0033896
+Autism,HMDB0033908
+Celiac disease,HMDB0033908
+Pervasive developmental disorder not otherwise specified,HMDB0033908
+Asthma,HMDB0033910
+Crohn's disease,HMDB0033910
+Ulcerative colitis,HMDB0033910
+Celiac disease,HMDB0033916
+Asthma,HMDB0033933
+Celiac disease,HMDB0033933
+Autism,HMDB0033944
+Celiac disease,HMDB0033944
+Ulcerative colitis,HMDB0033944
+Pervasive developmental disorder not otherwise specified,HMDB0033944
+Celiac disease,HMDB0034121
+Celiac disease,HMDB0034136
+Colorectal cancer,HMDB0034146
+Celiac disease,HMDB0034148
+Diarrhoea predominant irritable bowel syndrome,HMDB0034161
+Nonalcoholic fatty liver disease,HMDB0034161
+Autism,HMDB0034163
+Pervasive developmental disorder not otherwise specified,HMDB0034163
+Diarrhoea predominant irritable bowel syndrome,HMDB0034164
+Nonalcoholic fatty liver disease,HMDB0034164
+Autism,HMDB0034165
+Pervasive developmental disorder not otherwise specified,HMDB0034165
+Asthma,HMDB0034168
+Autism,HMDB0034168
+Celiac disease,HMDB0034168
+Ulcerative colitis,HMDB0034168
+Pervasive developmental disorder not otherwise specified,HMDB0034168
+Nonalcoholic fatty liver disease,HMDB0034168
+Colorectal cancer,HMDB0034219
+Colorectal cancer,HMDB0034220
+Crohn's disease,HMDB0034220
+Ulcerative colitis,HMDB0034220
+Ulcerative colitis,HMDB0034233
+Celiac disease,HMDB0034235
+Crohn's disease,HMDB0034235
+Ulcerative colitis,HMDB0034235
+Nonalcoholic fatty liver disease,HMDB0034235
+Celiac disease,HMDB0034237
+Nonalcoholic fatty liver disease,HMDB0034237
+Diarrhoea predominant irritable bowel syndrome,HMDB0034239
+Nonalcoholic fatty liver disease,HMDB0034239
+Celiac disease,HMDB0034240
+Ulcerative colitis,HMDB0034240
+Nonalcoholic fatty liver disease,HMDB0034240
+Colorectal cancer,HMDB0034252
+Celiac disease,HMDB0034283
+Asthma,HMDB0034284
+Celiac disease,HMDB0034289
+Colorectal cancer,HMDB0034301
+Periodontal disease,HMDB0034301
+Pancreatic cancer,HMDB0034301
+Metastatic melanoma,HMDB0034301
+Colorectal cancer,HMDB0034367
+Asthma,HMDB0034437
+Autism,HMDB0034606
+Pervasive developmental disorder not otherwise specified,HMDB0034606
+Uremia,HMDB0034879
+Nonalcoholic fatty liver disease,HMDB0034970
+Celiac disease,HMDB0035093
+Celiac disease,HMDB0035094
+Ulcerative colitis,HMDB0035226
+Crohn's disease,HMDB0035238
+Diarrhoea predominant irritable bowel syndrome,HMDB0035238
+Ulcerative colitis,HMDB0035238
+Nonalcoholic fatty liver disease,HMDB0035238
+Nonalcoholic fatty liver disease,HMDB0035239
+Ulcerative colitis,HMDB0035289
+Colorectal cancer,HMDB0035514
+Crohn's disease,HMDB0035619
+Ulcerative colitis,HMDB0035619
+Nonalcoholic fatty liver disease,HMDB0035619
+Celiac disease,HMDB0035658
+Diarrhoea predominant irritable bowel syndrome,HMDB0035658
+Nonalcoholic fatty liver disease,HMDB0035658
+Crohn's disease,HMDB0035765
+Diarrhoea predominant irritable bowel syndrome,HMDB0035765
+Ulcerative colitis,HMDB0035765
+Nonalcoholic fatty liver disease,HMDB0035765
+Nonalcoholic fatty liver disease,HMDB0035833
+Crohn's disease,HMDB0035850
+Diarrhoea predominant irritable bowel syndrome,HMDB0035850
+Ulcerative colitis,HMDB0035850
+Nonalcoholic fatty liver disease,HMDB0035850
+Nonalcoholic fatty liver disease,HMDB0035851
+Asthma,HMDB0035915
+Celiac disease,HMDB0035915
+Crohn's disease,HMDB0035915
+Ulcerative colitis,HMDB0035915
+Crohn's disease,HMDB0035924
+Ulcerative colitis,HMDB0035924
+Ulcerative colitis,HMDB0036081
+Nonalcoholic fatty liver disease,HMDB0036081
+Ulcerative colitis,HMDB0036100
+Nonalcoholic fatty liver disease,HMDB0036101
+Nonalcoholic fatty liver disease,HMDB0036163
+Crohn's disease,HMDB0036209
+Ulcerative colitis,HMDB0036209
+Nonalcoholic fatty liver disease,HMDB0036209
+Celiac disease,HMDB0036219
+Autism,HMDB0036228
+Colorectal cancer,HMDB0036323
+Celiac disease,HMDB0036413
+Crohn's disease,HMDB0036413
+Ulcerative colitis,HMDB0036413
+Nonalcoholic fatty liver disease,HMDB0036413
+Nonalcoholic fatty liver disease,HMDB0036453
+Ulcerative colitis,HMDB0036467
+Nonalcoholic fatty liver disease,HMDB0036467
+Nonalcoholic fatty liver disease,HMDB0036559
+Autism,HMDB0036574
+Celiac disease,HMDB0036574
+Crohn's disease,HMDB0036574
+Ulcerative colitis,HMDB0036574
+Pervasive developmental disorder not otherwise specified,HMDB0036574
+Nonalcoholic fatty liver disease,HMDB0036574
+Colorectal cancer,HMDB0036657
+Celiac disease,HMDB0036792
+Ulcerative colitis,HMDB0036792
+Nonalcoholic fatty liver disease,HMDB0036792
+Asthma,HMDB0036994
+Crohn's disease,HMDB0036994
+Ulcerative colitis,HMDB0036994
+Nonalcoholic fatty liver disease,HMDB0036994
+Ulcerative colitis,HMDB0037020
+Nonalcoholic fatty liver disease,HMDB0037020
+Autism,HMDB0037050
+Celiac disease,HMDB0037050
+Crohn's disease,HMDB0037050
+Diarrhoea predominant irritable bowel syndrome,HMDB0037050
+Ulcerative colitis,HMDB0037050
+Pervasive developmental disorder not otherwise specified,HMDB0037050
+Nonalcoholic fatty liver disease,HMDB0037050
+Asthma,HMDB0037051
+Ulcerative colitis,HMDB0037051
+Colorectal cancer,HMDB0037396
+Colorectal cancer,HMDB0037397
+Nonalcoholic fatty liver disease,HMDB0037788
+Nonalcoholic fatty liver disease,HMDB0038040
+Nonalcoholic fatty liver disease,HMDB0038169
+Celiac disease,HMDB0038602
+Colorectal cancer,HMDB0038666
+Asthma,HMDB0039000
+Crohn's disease,HMDB0039095
+Ulcerative colitis,HMDB0039095
+Nonalcoholic fatty liver disease,HMDB0039095
+Celiac disease,HMDB0039216
+Diarrhoea predominant irritable bowel syndrome,HMDB0039216
+Nonalcoholic fatty liver disease,HMDB0039216
+Colorectal cancer,HMDB0039229
+Autism,HMDB0039618
+Celiac disease,HMDB0039618
+Ulcerative colitis,HMDB0039618
+Pervasive developmental disorder not otherwise specified,HMDB0039618
+Nonalcoholic fatty liver disease,HMDB0039618
+Nonalcoholic fatty liver disease,HMDB0039619
+Autism,HMDB0039620
+Diarrhoea predominant irritable bowel syndrome,HMDB0039620
+Ulcerative colitis,HMDB0039620
+Pervasive developmental disorder not otherwise specified,HMDB0039620
+Nonalcoholic fatty liver disease,HMDB0039620
+Crohn's disease,HMDB0039843
+Nonalcoholic fatty liver disease,HMDB0039843
+Autism,HMDB0040209
+Pervasive developmental disorder not otherwise specified,HMDB0040209
+Nonalcoholic fatty liver disease,HMDB0040221
+Autism,HMDB0040240
+Celiac disease,HMDB0040240
+Pervasive developmental disorder not otherwise specified,HMDB0040240
+Asthma,HMDB0040247
+Ulcerative colitis,HMDB0040272
+Diarrhoea predominant irritable bowel syndrome,HMDB0040295
+Nonalcoholic fatty liver disease,HMDB0040295
+Autism,HMDB0040297
+Celiac disease,HMDB0040297
+Ulcerative colitis,HMDB0040297
+Pervasive developmental disorder not otherwise specified,HMDB0040297
+Nonalcoholic fatty liver disease,HMDB0040297
+Nonalcoholic fatty liver disease,HMDB0040575
+Ulcerative colitis,HMDB0040726
+Diverticular disease,HMDB0040733
+Nonalcoholic fatty liver disease,HMDB0041011
+Uremia,HMDB0041014
+Crohn's disease,HMDB0041389
+Ulcerative colitis,HMDB0041389
+Nonalcoholic fatty liver disease,HMDB0041389
+Colorectal cancer,HMDB0041623
+Nonalcoholic fatty liver disease,HMDB0041633
+Nonalcoholic fatty liver disease,HMDB0041634
+Diabetes mellitus type 2,HMDB0041693
+Diabetes mellitus type 2,HMDB0041729
+Uremia,HMDB0041822
+Nonalcoholic fatty liver disease,HMDB0041822
+Colorectal cancer,HMDB0041842
+Asthma,HMDB0041971
+Ulcerative colitis,HMDB0041971
+Colorectal cancer,HMDB0059655
+Glutaric aciduria II,HMDB0059655
+Eosinophilic esophagitis,HMDB0059655
+Diabetes mellitus type 2,HMDB0059710
+Diabetes mellitus type 1,HMDB0059732
+Diabetes mellitus type 1,HMDB0059773
+Nonalcoholic fatty liver disease,HMDB0059777
+Ulcerative colitis,HMDB0059810
+Asthma,HMDB0059832
+Asthma,HMDB0059835
+Autism,HMDB0059835
+Celiac disease,HMDB0059835
+Crohn's disease,HMDB0059835
+Uremia,HMDB0059835
+Ulcerative colitis,HMDB0059835
+Pervasive developmental disorder not otherwise specified,HMDB0059835
+Nonalcoholic fatty liver disease,HMDB0059835
+Nonalcoholic fatty liver disease,HMDB0059839
+Nonalcoholic fatty liver disease,HMDB0059843
+Crohn's disease,HMDB0059848
+Ulcerative colitis,HMDB0059848
+Autism,HMDB0059851
+Ulcerative colitis,HMDB0059851
+Pervasive developmental disorder not otherwise specified,HMDB0059851
+Nonalcoholic fatty liver disease,HMDB0059851
+Asthma,HMDB0059854
+Asthma,HMDB0059874
+Celiac disease,HMDB0059886
+Crohn's disease,HMDB0059899
+Ulcerative colitis,HMDB0059899
+Asthma,HMDB0059901
+Celiac disease,HMDB0059901
+Ulcerative colitis,HMDB0059901
+Asthma,HMDB0059905
+Crohn's disease,HMDB0059905
+Diarrhoea predominant irritable bowel syndrome,HMDB0059905
+Ulcerative colitis,HMDB0059905
+Nonalcoholic fatty liver disease,HMDB0059905
+Asthma,HMDB0059907
+Celiac disease,HMDB0059907
+Crohn's disease,HMDB0059907
+Ulcerative colitis,HMDB0059907
+Nonalcoholic fatty liver disease,HMDB0059907
+Colorectal cancer,HMDB0059911
+Asthma,HMDB0059924
+Ulcerative colitis,HMDB0059924
+Diabetes mellitus type 2,HMDB0059971
+Diabetes mellitus type 2,HMDB0059973
+Diabetes mellitus type 2,HMDB0059981
+Diabetes mellitus type 2,HMDB0059989
+Colorectal cancer,HMDB0060015
+Diabetes mellitus type 2,HMDB0060024
+Colorectal cancer,HMDB0060038
+Colorectal cancer,HMDB0060256
+Metastatic melanoma,HMDB0060282
+Sepsis,HMDB0060472
+Pancreatic cancer,HMDB0060475
+Colorectal cancer,HMDB0060493
+Schizophrenia,HMDB0060501
+Diabetes mellitus type 2,HMDB0060524
+Irritable bowel syndrome,HMDB0060602
+Ulcerative colitis,HMDB0060602
+Sepsis,HMDB0060656
+Colorectal cancer,HMDB0061112
+Uremia,HMDB0061112
+Colorectal cancer,HMDB0061115
+Metastatic melanoma,HMDB0061652
+Colorectal cancer,HMDB0061656
+Colorectal cancer,HMDB0061684
+Colorectal cancer,HMDB0061697
+Colorectal cancer,HMDB0061701
+Colorectal cancer,HMDB0061703
+Colorectal cancer,HMDB0061705
+Colorectal cancer,HMDB0061707
+Colorectal cancer,HMDB0061709
+Colorectal cancer,HMDB0061711
+Colorectal cancer,HMDB0061714
+Colorectal cancer,HMDB0061822
+Colorectal cancer,HMDB0061835
+Autism,HMDB0061851
+Crohn's disease,HMDB0061851
+Diarrhoea predominant irritable bowel syndrome,HMDB0061851
+Ulcerative colitis,HMDB0061851
+Nonalcoholic fatty liver disease,HMDB0061851
+Colorectal cancer,HMDB0061864
+Ulcerative colitis,HMDB0061869
+Asthma,HMDB0061884
+Celiac disease,HMDB0061886
+Colorectal cancer,HMDB0061890
+Ulcerative colitis,HMDB0061892
+Nonalcoholic fatty liver disease,HMDB0061896
+Asthma,HMDB0061900
+Colorectal cancer,HMDB0061914
+Colorectal cancer,HMDB0061918
+Celiac disease,HMDB0061923
+Autism,HMDB0062119
+Pervasive developmental disorder not otherwise specified,HMDB0062119
+Colorectal cancer,HMDB0062121
+Phenylketonuria,HMDB0062175
+Colorectal cancer,HMDB0062436
+Colorectal cancer,HMDB0062547
+Colorectal cancer,HMDB0062549
+Colorectal cancer,HMDB0062551
+Colorectal cancer,HMDB0062555
+Colorectal cancer,HMDB0062557
+Colorectal cancer,HMDB0062562
+Phenylketonuria,HMDB0062595
+Colorectal cancer,HMDB0062656
+Colorectal cancer,HMDB0062657
+Colorectal cancer,HMDB0062660
+Colorectal cancer,HMDB0062720
+Colorectal cancer,HMDB0094646
+Colorectal cancer,HMDB0094648
+Colorectal cancer,HMDB0094649
+Colorectal cancer,HMDB0094650
+Colorectal cancer,HMDB0094651
+Nonalcoholic fatty liver disease,HMDB0094652
+Autism,HMDB0094654
+Pervasive developmental disorder not otherwise specified,HMDB0094654
+Colorectal cancer,HMDB0094656
+Autism,HMDB0094658
+Pervasive developmental disorder not otherwise specified,HMDB0094658
+Autism,HMDB0094659
+Pervasive developmental disorder not otherwise specified,HMDB0094659
+Autism,HMDB0094660
+Pervasive developmental disorder not otherwise specified,HMDB0094660
+Autism,HMDB0094661
+Pervasive developmental disorder not otherwise specified,HMDB0094661
+Autism,HMDB0094665
+Pervasive developmental disorder not otherwise specified,HMDB0094665
+Crohn's disease,HMDB0094666
+Ulcerative colitis,HMDB0094666
+Autism,HMDB0094669
+Pervasive developmental disorder not otherwise specified,HMDB0094669
+Autism,HMDB0094670
+Pervasive developmental disorder not otherwise specified,HMDB0094670
+Colorectal cancer,HMDB0094673
+Colorectal cancer,HMDB0094676
+Colorectal cancer,HMDB0094680
+Colorectal cancer,HMDB0094682
+Autism,HMDB0094685
+Pervasive developmental disorder not otherwise specified,HMDB0094685
+Glutaric aciduria II,HMDB0094687
+Autism,HMDB0094691
+Pervasive developmental disorder not otherwise specified,HMDB0094691
+Colorectal cancer,HMDB0094696
+Colorectal cancer,HMDB0094698
+Colorectal cancer,HMDB0094701
+Metastatic melanoma,HMDB0094701
+Colorectal cancer,HMDB0094704
+Autism,HMDB0094705
+Pervasive developmental disorder not otherwise specified,HMDB0094705
+Autism,HMDB0094707
+Pervasive developmental disorder not otherwise specified,HMDB0094707
+Colorectal cancer,HMDB0094708
+Colorectal cancer,HMDB0094710
+Colorectal cancer,HMDB0240219
+Colorectal cancer,HMDB0240252
+Colorectal cancer,HMDB0240261
+Colorectal cancer,HMDB0240262

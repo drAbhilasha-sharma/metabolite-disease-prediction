@@ -1,0 +1,57 @@
+metabolites_parsed	217920
+metabolites_with_smiles	217896
+associations_parsed	27670
+unique_disease_strings	657
+max_consecutive_same_single_disease_run	20017	3-methylglutaconic aciduria type II, X-linked
+
+top_50_diseases_by_metabolite_count
+20020	3-methylglutaconic aciduria type II, X-linked
+831	Colorectal cancer
+771	Pregnancy
+763	Obesity
+334	Eosinophilic esophagitis
+304	Ulcerative colitis
+237	Crohn's disease
+156	Nonalcoholic fatty liver disease
+127	Alzheimer's disease
+125	Celiac disease
+123	Schizophrenia
+108	Autism
+99	Perillyl alcohol administration for cancer treatment
+92	Uremia
+83	Irritable bowel syndrome
+82	Pervasive developmental disorder not otherwise specified
+68	Periodontal Probing Depth
+63	Attachment loss
+59	Asthma
+56	Frontotemporal dementia
+56	Lewy body disease
+49	Parkinson's disease
+47	Diabetes mellitus type 2
+47	Pancreatic cancer
+47	Cirrhosis
+44	Early preeclampsia
+43	Multiple sclerosis
+43	Autosomal  dominant polycystic kidney disease
+41	Lung Cancer
+39	Late-onset preeclampsia
+39	Missing teeth
+37	Metastatic melanoma
+37	Prostate cancer
+35	Propionic acidemia
+35	Leukemia
+35	Periodontal disease
+32	Rheumatoid arthritis
+31	Epilepsy
+31	Diarrhoea predominant irritable bowel syndrome
+28	Kidney disease
+27	Phenylketonuria
+27	Isovaleric acidemia
+26	Fumarase deficiency
+26	Iron deficiency
+25	Maple syrup urine disease
+24	Cystic fibrosis
+23	Medium Chain Acyl-CoA Dehydrogenase Deficiency
+23	Diverticular disease
+21	Meningitis
+20	Canavan disease

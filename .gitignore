@@ -1,0 +1,20 @@
+# outputs of run_all.sh
+results/
+logs/
+
+# public source releases (download separately, see README)
+raw/
+
+# large or verbatim-source files rebuilt from the releases
+rebuild/metabolites_all.csv
+rebuild/associations_all.csv
+rebuild/descriptors_all.csv
+rebuild/assoc_years.csv
+rebuild/disease_mesh_tree.npy
+rebuild/disease_mesh_text.npy
+rebuild/ctd_direct.tsv
+rebuild/kegg_pathways.json
+
+__pycache__/
+*.pyc
+.DS_Store
